@@ -154,6 +154,27 @@
     "notes": "Highest-potential title to date. Police reinstated + promoted after returning boy to killer is peak systemic betrayal angle."
   },
   {
+    "id": "jaycee-dugard",
+    "name": "Jaycee Dugard",
+    "title": "Parole Officers Visited 60 Times. She Was In The Backyard. | Finally Solved",
+    "complexity": "double",
+    "micro_series": "The System Knew",
+    "failure_type": "institutional_failure",
+    "summary": "On June 10, 1991, eleven-year-old Jaycee Dugard was abducted in South Lake Tahoe by Phillip Garrido — a convicted kidnapper who had served 11 of a 50-year sentence. Over the next 18 years, California parole officers visited Garrido's home at least 60 times. They ignored 335 GPS ankle bracelet alerts. A neighbor reported a blonde girl named Jaycee in the backyard the same year she was taken. A parole officer saw a 12-year-old girl on the property in 2008 and accepted the first explanation he was given. A psychiatrist cleared Garrido while Jaycee was giving birth in his backyard. The system certified him safe for two decades. A UC Berkeley campus police manager ran one background check and made one phone call. It ended 18 years of institutional failure.",
+    "year": 1991,
+    "status": "active",
+    "views": 0,
+    "assets": {
+      "mon_short":  { "slot": "mon_short",  "stage": "research",  "notes": "Hook: Garrido abduction + 50yr sentence served as 11. End: she was in his backyard the whole time." },
+      "wed_short":  { "slot": "wed_short",  "stage": "research",  "notes": "Complication: 60 visits, 335 GPS alerts, neighbor tip, 12-year-old seen on property. Nobody looked." },
+      "thu_pi":     { "slot": "thu_pi",     "stage": "research",  "notes": "Pattern interrupt angle: 335 GPS alerts ignored — authority bias / normalcy bias" },
+      "fri_short":  { "slot": "fri_short",  "stage": "research",  "notes": "Resolution tease: one background check, one phone call. Sunday." },
+      "sat_pi":     { "slot": "sat_pi",     "stage": "research",  "notes": "Pattern interrupt angle: psychiatrist certified him safe 3 days before Jaycee gave birth in his backyard" },
+      "sun_longform": { "slot": "sun_longform", "stage": "scripted", "notes": "15 min / 3 parts: The Girl / The Backyard / The Phone Call. Script complete." }
+    },
+    "notes": "Double complexity, 15 min. Script fully written. 5 short assets need scripting. Strongest institutional failure angle of any case to date — 60 visits, certification of safety, GPS ignored."
+  },
+  {
     "id": "golden-state-killer",
     "name": "Golden State Killer",
     "title": "TBD",
