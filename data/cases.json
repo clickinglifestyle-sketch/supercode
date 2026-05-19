@@ -1,259 +1,197 @@
 [
   {
-    "id": "son-of-sam",
-    "name": "Son of Sam",
-    "complexity": "double",
-    "micro_series": "The System Knew",
-    "failure_type": "institutional_failure",
-    "summary": "David Berkowitz terrorized New York City from 1976-1977, killing 6 and wounding 7. The NYPD received tips identifying Berkowitz weeks before his arrest but failed to follow up on a parking ticket that would have led directly to him months earlier.",
-    "year": 1977,
-    "status": "published",
-    "assets": {
-      "mon_short": {
-        "slot": "mon_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "wed_short": {
-        "slot": "wed_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "thu_pi": {
-        "slot": "thu_pi",
-        "stage": "published",
-        "notes": ""
-      },
-      "fri_short": {
-        "slot": "fri_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "sat_pi": {
-        "slot": "sat_pi",
-        "stage": "published",
-        "notes": ""
-      },
-      "sun_longform": {
-        "slot": "sun_longform",
-        "stage": "published",
-        "notes": ""
-      }
-    },
-    "notes": ""
-  },
-  {
-    "id": "irene-garza",
-    "name": "Irene Garza",
-    "complexity": "triple",
-    "micro_series": "The System Knew",
-    "failure_type": "deliberate_betrayal",
-    "summary": "Irene Garza disappeared after confession on April 16, 1960 in McAllen, Texas. Father John Feit was the prime suspect from day one \u2014 evidence pointed directly at him \u2014 but the Catholic Church and local law enforcement protected him for 56 years. He was finally convicted in 2017 at age 83.",
-    "year": 1960,
-    "status": "published",
-    "assets": {
-      "mon_short": {
-        "slot": "mon_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "wed_short": {
-        "slot": "wed_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "thu_pi": {
-        "slot": "thu_pi",
-        "stage": "published",
-        "notes": ""
-      },
-      "fri_short": {
-        "slot": "fri_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "sat_pi": {
-        "slot": "sat_pi",
-        "stage": "published",
-        "notes": ""
-      },
-      "sun_longform": {
-        "slot": "sun_longform",
-        "stage": "published",
-        "notes": "20-25 min documentary script fully built"
-      }
-    },
-    "notes": ""
-  },
-  {
     "id": "john-list",
     "name": "John List",
+    "title": "Cold Case Solved - He Killed His Family... Then Disappeared for 18 Years",
     "complexity": "double",
     "micro_series": "Caught By One Mistake",
     "failure_type": "cognitive_blind_spot",
     "summary": "John List murdered his entire family in Westfield, New Jersey on November 9, 1971 and vanished. He evaded capture for 18 years by assuming a new identity. A forensic sculptor's age-progressed bust aired on America's Most Wanted in 1989 and generated a tip within days that led to his arrest.",
     "year": 1971,
     "status": "published",
+    "published_date": "2026-04-13",
+    "views": 144,
     "assets": {
-      "mon_short": {
-        "slot": "mon_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "wed_short": {
-        "slot": "wed_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "thu_pi": {
-        "slot": "thu_pi",
-        "stage": "published",
-        "notes": ""
-      },
-      "fri_short": {
-        "slot": "fri_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "sat_pi": {
-        "slot": "sat_pi",
-        "stage": "published",
-        "notes": ""
-      },
-      "sun_longform": {
-        "slot": "sun_longform",
-        "stage": "published",
-        "notes": ""
-      }
+      "mon_short": { "slot": "mon_short", "stage": "published", "notes": "" },
+      "wed_short": { "slot": "wed_short", "stage": "published", "notes": "" },
+      "thu_pi":    { "slot": "thu_pi",    "stage": "published", "notes": "" },
+      "fri_short": { "slot": "fri_short", "stage": "published", "notes": "" },
+      "sat_pi":    { "slot": "sat_pi",    "stage": "published", "notes": "" },
+      "sun_longform": { "slot": "sun_longform", "stage": "published", "notes": "5:58 long-form" }
     },
-    "notes": ""
+    "notes": "Best performer to date. 144 views."
+  },
+  {
+    "id": "son-of-sam",
+    "name": "Son of Sam",
+    "title": "He Drove His Own Car To Every Murder For 13 Months — True Crime Documentary",
+    "complexity": "double",
+    "micro_series": "The System Knew",
+    "failure_type": "institutional_failure",
+    "summary": "David Berkowitz terrorized New York City from 1976-1977, killing 6 and wounding 7. The NYPD received tips identifying Berkowitz weeks before his arrest but failed to follow up on a parking ticket that would have led directly to him months earlier.",
+    "year": 1977,
+    "status": "published",
+    "published_date": "2026-04-19",
+    "views": 30,
+    "assets": {
+      "mon_short": { "slot": "mon_short", "stage": "published", "notes": "" },
+      "wed_short": { "slot": "wed_short", "stage": "published", "notes": "" },
+      "thu_pi":    { "slot": "thu_pi",    "stage": "published", "notes": "" },
+      "fri_short": { "slot": "fri_short", "stage": "published", "notes": "" },
+      "sat_pi":    { "slot": "sat_pi",    "stage": "published", "notes": "" },
+      "sun_longform": { "slot": "sun_longform", "stage": "published", "notes": "5:10 — shortest long-form, underperformed" }
+    },
+    "notes": "Lowest views (30). Short runtime (5:10) may have hurt watch hours signal."
+  },
+  {
+    "id": "irene-garza",
+    "name": "Irene Garza",
+    "title": "The Church Protected Her Killer For 57 Years | Finally Solved",
+    "complexity": "triple",
+    "micro_series": "The System Knew",
+    "failure_type": "deliberate_betrayal",
+    "summary": "Irene Garza disappeared after confession on April 16, 1960 in McAllen, Texas. Father John Feit was the prime suspect from day one — evidence pointed directly at him — but the Catholic Church and local law enforcement protected him for 56 years. He was finally convicted in 2017 at age 83.",
+    "year": 1960,
+    "status": "published",
+    "published_date": "2026-04-26",
+    "views": 122,
+    "assets": {
+      "mon_short": { "slot": "mon_short", "stage": "published", "notes": "" },
+      "wed_short": { "slot": "wed_short", "stage": "published", "notes": "" },
+      "thu_pi":    { "slot": "thu_pi",    "stage": "published", "notes": "" },
+      "fri_short": { "slot": "fri_short", "stage": "published", "notes": "" },
+      "sat_pi":    { "slot": "sat_pi",    "stage": "published", "notes": "" },
+      "sun_longform": { "slot": "sun_longform", "stage": "published", "notes": "15:07 — full documentary script, 20-25 min tier" }
+    },
+    "notes": "Second best performer (122 views). Church betrayal angle resonates strongly."
   },
   {
     "id": "carla-walker",
     "name": "Carla Walker",
+    "title": "He Passed The Polygraph. His DNA Was On Her Clothes For 46 Years | Finally Solved",
     "complexity": "double",
     "micro_series": "The Evidence Was There",
     "failure_type": "institutional_failure",
-    "summary": "Carla Walker was abducted from a Valentine's Day dance in Fort Worth, Texas on February 14, 1974. Her killer, Glen Samuel McCurley, was identified 46 years later through genetic genealogy in 2020 after DNA from the original crime scene was finally submitted to a genealogy database.",
+    "summary": "Carla Walker was abducted from a Valentine's Day dance in Fort Worth, Texas on February 14, 1974. Her killer, Glen Samuel McCurley, passed a polygraph and was cleared. His DNA sat on her clothing in an evidence box for 46 years. Genetic genealogy solved it in 2020.",
     "year": 1974,
     "status": "published",
+    "published_date": "2026-05-03",
+    "views": 88,
     "assets": {
-      "mon_short": {
-        "slot": "mon_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "wed_short": {
-        "slot": "wed_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "thu_pi": {
-        "slot": "thu_pi",
-        "stage": "published",
-        "notes": ""
-      },
-      "fri_short": {
-        "slot": "fri_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "sat_pi": {
-        "slot": "sat_pi",
-        "stage": "published",
-        "notes": ""
-      },
-      "sun_longform": {
-        "slot": "sun_longform",
-        "stage": "published",
-        "notes": ""
-      }
+      "mon_short": { "slot": "mon_short", "stage": "published", "notes": "" },
+      "wed_short": { "slot": "wed_short", "stage": "published", "notes": "" },
+      "thu_pi":    { "slot": "thu_pi",    "stage": "published", "notes": "" },
+      "fri_short": { "slot": "fri_short", "stage": "published", "notes": "" },
+      "sat_pi":    { "slot": "sat_pi",    "stage": "published", "notes": "" },
+      "sun_longform": { "slot": "sun_longform", "stage": "published", "notes": "11:59" }
     },
-    "notes": ""
+    "notes": "88 views. Polygraph failure angle is a strong hook."
+  },
+  {
+    "id": "grim-sleeper",
+    "name": "Grim Sleeper",
+    "title": "The LAPD Hired A Serial Killer — The Grim Sleeper Case Finally Solved",
+    "complexity": "double",
+    "micro_series": "The System Knew",
+    "failure_type": "institutional_failure",
+    "summary": "Lonnie Franklin Jr. killed at least 10 women in South LA between 1985 and 2007. The LAPD employed him as a mechanic and gave him access to their garage. Investigators ignored tips from the community for years. He was identified in 2010 through familial DNA — the first use of that technique in California.",
+    "year": 1985,
+    "status": "published",
+    "published_date": "2026-05-10",
+    "views": 72,
+    "assets": {
+      "mon_short": { "slot": "mon_short", "stage": "published", "notes": "" },
+      "wed_short": { "slot": "wed_short", "stage": "published", "notes": "" },
+      "thu_pi":    { "slot": "thu_pi",    "stage": "published", "notes": "" },
+      "fri_short": { "slot": "fri_short", "stage": "published", "notes": "" },
+      "sat_pi":    { "slot": "sat_pi",    "stage": "published", "notes": "" },
+      "sun_longform": { "slot": "sun_longform", "stage": "published", "notes": "9:47" }
+    },
+    "notes": "72 views. LAPD angle is strong but case may lack mainstream recognition vs John List/Irene Garza."
+  },
+  {
+    "id": "jon-burge",
+    "name": "Jon Burge",
+    "title": "He Tortured 118 Men Into Confessing. He Kept His Pension | Finally Solved",
+    "complexity": "triple",
+    "micro_series": "The System Knew",
+    "failure_type": "deliberate_betrayal",
+    "summary": "Chicago Police Commander Jon Burge and his detectives tortured over 118 Black men into false confessions from 1972 to 1991 using electric shock, suffocation, and mock executions. The City of Chicago knew for decades. Burge was convicted in 2010 — not for torture, but for lying about it — and kept his pension.",
+    "year": 1972,
+    "status": "published",
+    "published_date": "2026-05-17",
+    "views": 71,
+    "assets": {
+      "mon_short": { "slot": "mon_short", "stage": "published", "notes": "" },
+      "wed_short": { "slot": "wed_short", "stage": "published", "notes": "" },
+      "thu_pi":    { "slot": "thu_pi",    "stage": "published", "notes": "" },
+      "fri_short": { "slot": "fri_short", "stage": "published", "notes": "" },
+      "sat_pi":    { "slot": "sat_pi",    "stage": "published", "notes": "" },
+      "sun_longform": { "slot": "sun_longform", "stage": "published", "notes": "20:14 — longest video, underperformed vs length" }
+    },
+    "notes": "71 views on your longest video (20:14). Watch time ratio needs monitoring."
+  },
+  {
+    "id": "dahmer-sinthasomphone",
+    "name": "Dahmer / Konerak Sinthasomphone",
+    "title": "They Handed A Boy Back To A Serial Killer. Then Got Promoted | Finally Solved",
+    "complexity": "double",
+    "micro_series": "The System Knew",
+    "failure_type": "deliberate_betrayal",
+    "summary": "On May 27, 1991, three women called Milwaukee police about a naked, bleeding 14-year-old boy in an alley. Officers John Balcerzak and Joseph Gabrish returned Konerak Sinthasomphone to Jeffrey Dahmer and dismissed the women. Dahmer killed Konerak that night. The officers were fired, then reinstated with back pay. Balcerzak later became president of the Milwaukee Police Association.",
+    "year": 1991,
+    "status": "scheduled",
+    "scheduled_date": "2026-05-24",
+    "views": 0,
+    "assets": {
+      "mon_short": { "slot": "mon_short", "stage": "scheduled", "notes": "" },
+      "wed_short": { "slot": "wed_short", "stage": "scheduled", "notes": "" },
+      "thu_pi":    { "slot": "thu_pi",    "stage": "scheduled", "notes": "" },
+      "fri_short": { "slot": "fri_short", "stage": "scheduled", "notes": "" },
+      "sat_pi":    { "slot": "sat_pi",    "stage": "scheduled", "notes": "" },
+      "sun_longform": { "slot": "sun_longform", "stage": "scheduled", "notes": "18:53 — drops May 24" }
+    },
+    "notes": "Highest-potential title to date. Police reinstated + promoted after returning boy to killer is peak systemic betrayal angle."
+  },
+  {
+    "id": "golden-state-killer",
+    "name": "Golden State Killer",
+    "title": "TBD",
+    "complexity": "triple",
+    "micro_series": "The Evidence Was There",
+    "failure_type": "institutional_failure",
+    "summary": "Joseph James DeAngelo committed at least 13 murders, 50+ rapes, and 100+ burglaries across California from 1974-1986. DNA evidence existed for decades. He was identified in 2018 through genetic genealogy — a technique investigators resisted using for years despite the evidence sitting in databases.",
+    "year": 1974,
+    "status": "active",
+    "views": 0,
+    "assets": {
+      "mon_short": { "slot": "mon_short", "stage": "scripted", "notes": "Monday Short locked" },
+      "wed_short": { "slot": "wed_short", "stage": "research", "notes": "" },
+      "thu_pi":    { "slot": "thu_pi",    "stage": "research", "notes": "" },
+      "fri_short": { "slot": "fri_short", "stage": "research", "notes": "" },
+      "sat_pi":    { "slot": "sat_pi",    "stage": "research", "notes": "" },
+      "sun_longform": { "slot": "sun_longform", "stage": "research", "notes": "" }
+    },
+    "notes": "Next case to complete. 5 assets remaining."
   },
   {
     "id": "delphi-murders",
     "name": "Delphi Murders",
+    "title": "TBD",
     "complexity": "triple",
     "micro_series": "The Evidence Was There",
     "failure_type": "institutional_failure",
     "summary": "Abby Williams and Libby German were murdered on the Monon High Bridge Trail in Delphi, Indiana on February 13, 2017. Libby recorded audio and video of the suspect on her phone. Despite releasing that evidence publicly, investigators spent 5 years pursuing the wrong suspect. Richard Allen was arrested in 2022.",
     "year": 2017,
-    "status": "published",
-    "assets": {
-      "mon_short": {
-        "slot": "mon_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "wed_short": {
-        "slot": "wed_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "thu_pi": {
-        "slot": "thu_pi",
-        "stage": "published",
-        "notes": ""
-      },
-      "fri_short": {
-        "slot": "fri_short",
-        "stage": "published",
-        "notes": ""
-      },
-      "sat_pi": {
-        "slot": "sat_pi",
-        "stage": "published",
-        "notes": ""
-      },
-      "sun_longform": {
-        "slot": "sun_longform",
-        "stage": "published",
-        "notes": ""
-      }
-    },
-    "notes": ""
-  },
-  {
-    "id": "golden-state-killer",
-    "name": "Golden State Killer",
-    "complexity": "triple",
-    "micro_series": "The Evidence Was There",
-    "failure_type": "institutional_failure",
-    "summary": "Joseph James DeAngelo committed at least 13 murders, 50+ rapes, and 100+ burglaries across California from 1974-1986. DNA evidence existed for decades. He was identified in 2018 through genetic genealogy \u2014 a technique investigators resisted using for years despite the evidence sitting in databases.",
-    "year": 1974,
     "status": "active",
+    "views": 0,
     "assets": {
-      "mon_short": {
-        "slot": "mon_short",
-        "stage": "scripted",
-        "notes": "Monday Short locked"
-      },
-      "wed_short": {
-        "slot": "wed_short",
-        "stage": "research",
-        "notes": "in progress"
-      },
-      "thu_pi": {
-        "slot": "thu_pi",
-        "stage": "research",
-        "notes": "in progress"
-      },
-      "fri_short": {
-        "slot": "fri_short",
-        "stage": "research",
-        "notes": "in progress"
-      },
-      "sat_pi": {
-        "slot": "sat_pi",
-        "stage": "research",
-        "notes": "in progress"
-      },
-      "sun_longform": {
-        "slot": "sun_longform",
-        "stage": "research",
-        "notes": "in progress"
-      }
+      "mon_short": { "slot": "mon_short", "stage": "research", "notes": "" },
+      "wed_short": { "slot": "wed_short", "stage": "research", "notes": "" },
+      "thu_pi":    { "slot": "thu_pi",    "stage": "research", "notes": "" },
+      "fri_short": { "slot": "fri_short", "stage": "research", "notes": "" },
+      "sat_pi":    { "slot": "sat_pi",    "stage": "research", "notes": "" },
+      "sun_longform": { "slot": "sun_longform", "stage": "research", "notes": "" }
     },
     "notes": ""
   }
