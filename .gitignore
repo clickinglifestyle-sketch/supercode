@@ -4,3 +4,5 @@ __pycache__/
 dist/
 build/
 .env
+lottery-analyzer/node_modules/
+lottery-analyzer/dist/
