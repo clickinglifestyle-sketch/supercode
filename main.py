@@ -547,6 +547,139 @@ def dashboard():
 
 
 # ---------------------------------------------------------------------------
+# tags
+# ---------------------------------------------------------------------------
+
+@cli.group()
+def tags():
+    """YouTube tag generator."""
+
+
+@tags.command("generate")
+@click.argument("case_id")
+@click.option("--slot", default="sun_longform", help="Asset slot (default: sun_longform)")
+def tags_generate(case_id, slot):
+    """Generate a YouTube-ready tag stack for a case."""
+    from src.pipeline import get_case
+    from config import (
+        TAGS_TIER1, TAGS_TIER2, TAGS_TIER3, TAGS_BRAND,
+        TAGS_BY_MICRO_SERIES, TAGS_BY_FAILURE_TYPE, TAGS_BY_COMPLEXITY,
+    )
+
+    case = get_case(case_id)
+    if not case:
+        console.print(f"[red]Case '{case_id}' not found.[/red]")
+        return
+
+    is_short = slot in ("mon_short", "wed_short", "fri_short", "thu_pi", "sat_pi")
+
+    # Build tag list in priority order
+    tier1 = TAGS_TIER1[:]
+    tier2 = TAGS_TIER2[:]
+    tier3 = TAGS_TIER3[:] if not is_short else []
+    case_tags = (
+        TAGS_BY_MICRO_SERIES.get(case.micro_series, [])
+        + TAGS_BY_FAILURE_TYPE.get(case.failure_type, [])
+        + (TAGS_BY_COMPLEXITY.get(case.complexity, []) if not is_short else [])
+    )
+    brand = TAGS_BRAND[:]
+
+    # Add case name as a tag
+    name_tag = case.name.lower()
+    if name_tag not in case_tags:
+        case_tags.insert(0, name_tag)
+
+    all_tags = tier1 + tier2 + tier3 + case_tags + brand
+
+    # Deduplicate preserving order
+    seen = set()
+    unique_tags = []
+    for t in all_tags:
+        if t not in seen:
+            seen.add(t)
+            unique_tags.append(t)
+
+    # Trim to YouTube's 500 character limit (preserve priority order)
+    youtube_limit = 500
+    trimmed_tags = []
+    running = 0
+    for tag in unique_tags:
+        addition = len(tag) + (2 if trimmed_tags else 0)  # ", " separator
+        if running + addition <= youtube_limit:
+            trimmed_tags.append(tag)
+            running += addition
+        else:
+            break
+
+    youtube_string = ", ".join(trimmed_tags)
+    char_count = len(youtube_string)
+    dropped = len(unique_tags) - len(trimmed_tags)
+
+    # ── Display ───────────────────────────────────────────────────────────────
+    console.print()
+    console.print(Panel(
+        f"[bold white]{case.name}[/bold white]  [dim]— {slot}[/dim]",
+        title="[bold cyan]YouTube Tag Generator[/bold cyan]",
+        border_style="cyan",
+    ))
+
+    # Tier breakdown
+    def print_tier(label, tag_list, color):
+        if not tag_list:
+            return
+        t = Table(box=box.SIMPLE, show_header=False, padding=(0, 1))
+        t.add_column("Tags", style=color, no_wrap=False)
+        t.add_row("  ".join(f"[{color}]{tag}[/{color}]" for tag in tag_list))
+        console.print(f"[bold {color}]{label}[/bold {color}]")
+        formatted = "  •  ".join(tag_list)
+        console.print(f"  [dim]{formatted}[/dim]")
+        console.print()
+
+    print_tier("Tier 1 — Always Use", tier1, "green")
+    print_tier("Tier 2 — Rotate", tier2, "cyan")
+    if tier3:
+        print_tier("Tier 3 — Long-form", tier3, "blue")
+    print_tier("Case-Specific", case_tags, "yellow")
+    print_tier("Brand", brand, "magenta")
+
+    # Character count bar
+    bar_width = 30
+    filled = int((char_count / youtube_limit) * bar_width)
+    bar = "█" * filled + "░" * (bar_width - filled)
+    count_color = "green" if char_count <= youtube_limit else "red"
+    console.print(f"[bold]Characters:[/bold] [{count_color}]{char_count}/{youtube_limit}[/{count_color}]  [{count_color}]{bar}[/{count_color}]")
+    if dropped:
+        console.print(f"[dim yellow]  {dropped} low-priority tag(s) trimmed to stay within limit[/dim yellow]")
+    console.print()
+
+    # Ready-to-paste output
+    console.print(Panel(
+        youtube_string,
+        title="[bold green]Paste into YouTube Tags[/bold green]",
+        border_style="green",
+    ))
+    console.print()
+
+
+@tags.command("stack")
+def tags_stack():
+    """Show the evergreen tag stack for all uploads."""
+    from config import TAGS_TIER1, TAGS_TIER2, TAGS_TIER3, TAGS_BRAND
+
+    base = TAGS_TIER1 + TAGS_TIER2[:5] + TAGS_BRAND
+    youtube_string = ", ".join(base)
+
+    console.print()
+    console.print(Panel(
+        youtube_string,
+        title="[bold green]Evergreen Base Stack — Paste on Every Upload[/bold green]",
+        border_style="green",
+    ))
+    console.print(f"[dim]Characters: {len(youtube_string)}/500[/dim]")
+    console.print()
+
+
+# ---------------------------------------------------------------------------
 # Entry point — support both `python main.py <cmd>` and `fs <cmd>`
 # ---------------------------------------------------------------------------
 
