@@ -1,5 +1,26 @@
 [
   {
+    "id": "jeffrey-epstein",
+    "name": "Jeffrey Epstein",
+    "title": "1,200 Victims. The Government Gave Him 13 Months And Work Release | Finally Solved",
+    "complexity": "double",
+    "micro_series": "The System Knew",
+    "failure_type": "deliberate_betrayal",
+    "summary": "Jeffrey Epstein sexually abused more than 1,200 women and girls over decades. Palm Beach Police built a case with 36 documented victims in 2006 and referred it to federal prosecutors. U.S. Attorney Alexander Acosta negotiated a secret non-prosecution agreement in 2007 — two state charges, 13 months in county jail with daily work release, immunity for all unnamed co-conspirators. Victims were never notified, violating federal law. Acosta later became Secretary of Labor. In 2019 the Miami Herald's Julie K. Brown broke the full story; SDNY arrested Epstein on federal sex trafficking charges. He died in federal custody on August 10, 2019 while two guards slept and falsified 75+ check-in logs. Cameras failed. Guards received community service. Co-conspirators protected by the 2007 NPA were never charged.",
+    "year": 1994,
+    "status": "active",
+    "views": 0,
+    "assets": {
+      "mon_short":    { "slot": "mon_short",    "stage": "scripted", "notes": "Hook A — Outrage. 1,200 victims, 13 months, work release, Secretary of Labor. Full package complete." },
+      "wed_short":    { "slot": "wed_short",    "stage": "scripted", "notes": "Hook B — Disbelief. FBI found 40 victims, labeled prostitutes in charging docs, NPA shielded co-conspirators. Full package complete." },
+      "thu_pi":       { "slot": "thu_pi",       "stage": "research", "notes": "Psychological angle: authority deference — why victims don't report powerful men" },
+      "fri_short":    { "slot": "fri_short",    "stage": "scripted", "notes": "Hook C — Curiosity Gap. 2019 arrest, suicide watch removed after 24hrs, guards slept, 100hrs community service. Full package complete." },
+      "sat_pi":       { "slot": "sat_pi",       "stage": "research", "notes": "Psychological angle: in-group protection / elite impunity bias" },
+      "sun_longform": { "slot": "sun_longform", "stage": "scripted", "notes": "12-min script complete. Three parts: The Investigation / The Deal / The Death." }
+    },
+    "notes": "Highest search volume case on the channel. epstein files: 467K monthly searches. Currently trending (SNL cold open May 2026). Mon/Wed/Fri/Sun fully scripted. Thu/Sat PI need scripting."
+  },
+  {
     "id": "john-list",
     "name": "John List",
     "title": "Cold Case Solved - He Killed His Family... Then Disappeared for 18 Years",
