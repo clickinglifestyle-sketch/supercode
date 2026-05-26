@@ -74,6 +74,7 @@ She travels to four locations, each showing the same propensity in different mat
 - **The Somme, France** — the propensity fully industrialized. The Zone Rouge: soil still unlivable a century after WWI. The clue: *the same advancement that builds programs and infrastructure, turned toward destruction, produces something permanent. The soil of the Somme and the soil of the Peloponnese are being destroyed by the same impulse, aimed in different directions.*
 - **Berlin, Germany** — the solution to the propensity becoming the next expression of it. The European project fracturing. The clue: *you cannot build an institution that defeats this. The institution inherits the logic of the thing it was built to prevent.*
 - **Hiroshima and Fukushima, Japan** — the propensity redirected into technology. The bomb and the reactor: the same force, aimed differently. The celebrated recovery with the pattern running underneath it. The clue: *the propensity doesn't end with peace. It transforms. Into the miracle. And the miracle becomes the next catastrophe.*
+- **Chernobyl, Ukraine/Russia** — last before Elathon. The cover-up as mobilization: hundreds of thousands of liquidators deployed to contain and conceal the disaster, many of them dying for it. But also — the Exclusion Zone. Thirty years of human absence, and the land is returning. Wolves, forests, birds, life reclaiming the abandoned villages. Not because anyone fixed it. Because everyone left. The clue Vesper wasn't looking for: *sometimes the most powerful act is withdrawal. The land doesn't need to be saved. It needs to be left alone.* She cannot recommend this as policy. She cannot write it in a paper. But she cannot unfeel it. It is the last piece before she goes home.
 
 **Act Three — The Arrival**
 She goes to Elathon. Ambrose is dead. The grove is dying. Elathon gives her the final piece: the propensity is not only out there. It is in her. She has been waging her own quiet war — against grief, against closeness, against the life she kept at arm's length. And she stops. Not solving. Not arguing. Arriving.
@@ -123,6 +124,7 @@ It is not enough to fix anything. It is not nothing.
 2. The Somme, France
 3. Berlin, Germany
 4. Hiroshima and Fukushima, Japan
+5. Chernobyl, Ukraine/Russia
 
 ---
 
