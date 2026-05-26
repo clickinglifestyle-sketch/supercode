@@ -42,7 +42,7 @@ The answer is not another solution. It is something civilization has never done:
 
 **Inspiration:** Byzantine Empire — Greek-speaking, southern European, Mediterranean in landscape and culture. A civilization that built magnificently and is now watching it crumble, still reaching for former greatness, every reach feeding the rot.
 
-**The Empire:** A fading power that once commanded the known world. Its roads still connect its cities. Its aqueducts still stand. But the water they carry tastes wrong, and the cities at their ends are shrinking. The ruling class responds by building more, restoring more, advancing more. Every grand project makes the surrounding land a little worse. No one will say it plainly.
+**The Empire: Aetheris** — Named for the pure upper sky, the divine unreachable heavens. A civilization that believed its advancement was a form of ascent. A fading power that once commanded the known world, now rotting from the ground up. The higher it reached, the deeper the wound went. Its roads still connect its cities. Its aqueducts still stand. But the water they carry tastes wrong, and the cities at their ends are shrinking. The ruling class responds by building more, restoring more, advancing more. Every grand project makes the surrounding land a little worse. No one will say it plainly.
 
 **The Landscape:** Warm stone gone grey at the edges. Olive groves turning ashen. Ruins in the open air — the kind of place where you can stand in one century and see three others around you. A world that was once beautiful and is slowly forgetting how.
 
@@ -62,7 +62,7 @@ The answer is not another solution. It is something civilization has never done:
 
 **What the rot takes from her:**
 - *Elathon* — the land she grew up on and left. Its olive groves, its old stone, the smell of it after rain.
-- *The person she failed to love in time* — someone she kept at arm's length too long. By the time Vesper returns to Elathon, they are already dead. She did not make it back in time. Not because of the rot. Because of her own habits.
+- *Ambrose* — the man she failed to love in time. His name means immortal, from the Greek *ambrotos*, the root of ambrosia — food of the gods. He was ordinary, unheroic, simply and fully present in a way Vesper never allowed herself to be. She kept him at arm's length for years. By the time she returns to Elathon, he is already dead. She did not make it back in time. Not because of the rot. Because of her own habits. A man named for immortality, gone. A woman named for the last light of evening, left to reckon with everything.
 
 **Her arc:** A woman who has spent her life inside the past, facing the one problem history cannot solve, stripped of every tool she has ever trusted, forced for the first time to act in a moment that has never existed before. She has to learn to think not backward but sideways — not "what worked before" but "what has never been tried because it never made sense to try." Her reckoning is not just intellectual. It is personal. It is grief, finally allowed to land.
 
@@ -128,7 +128,7 @@ Vesper survives. Changed. The world survives. Changed. The cost was real and sta
 
 ## WORKING NOTES
 
-- The name of the empire is yet to be established.
-- The person Vesper failed to love needs a name and fuller characterization.
+- The empire is named **Aetheris**.
+- The man Vesper failed to love is named **Ambrose**.
 - The specific form of Vesper's "unprecedented act" in Act Three is the central creative question still to be answered.
 - Chapter breakdown for Acts Two and Three to be developed.
