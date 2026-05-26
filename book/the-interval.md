@@ -1,5 +1,6 @@
-# VESPER
+# THE INTERVAL
 ### A Novel — Working Document
+*Protagonist: Vesper*
 
 ---
 
