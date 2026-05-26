@@ -1,94 +1,66 @@
 # VESPER
 ## Chapter Two
 
-The Bureau of Infrastructure had convened what it called a Scholarly Review on the Progression of the Southern Blight. Vesper had attended three such reviews in the past decade. They were always convened in response to something getting worse, and they always concluded with a resolution to commission further study and a recommendation that existing infrastructure projects proceed on schedule.
+The working group met in a conference room on the fourth floor of a ministry building in Athens, with a view of the Acropolis that everyone in the room had stopped seeing years ago.
 
-She arrived at the Bureau's hall in the third hour and took a seat near the back.
+Vesper had taken the early train down. She had a seat at the far end of the table, between a soil scientist from the University of Patras whose work she respected and a representative from the agricultural ministry whose name she had already forgotten. There were eleven people present, plus two observers from the EU regional development office who had flown in from Brussels and who took notes on tablets without looking up.
 
-The chamber was vaulted stone — old stone, the kind that had been something else before the Bureau had acquired the building. Twelve scholars were present, along with four officials from the Archon's office and a stenographer whose pen moved without pause regardless of what was being said. Vesper recognized seven of the scholars. Two of them did not meet her eyes when she sat down.
+The working group had been convened to review the available research on the Peloponnese collapse — that was the word they were using now, officially, in documents: *collapse.* It had taken four years to get to that word. Before *collapse* there had been *degradation*, and before that *stress*, and before that *below-average yield performance* in reports that Vesper had read and filed and quoted in her own work and watched mean nothing.
 
-The presiding official was a man named Doros — she had not met him before, but she knew the type: meticulous, ambitious, genuinely convinced that the correct management of information was the highest form of public service. He had a copy of her first volume open on the table in front of him, which she noticed immediately.
+She had attended two previous iterations of this group. They always concluded with a recommendation for further monitoring and a proposal to expand an existing intervention program.
 
-"We'll begin with the survey of existing scholarship," Doros said. "Starting with the older methodologies and working forward."
+The chair today was a man named Stratakis from the ministry of environment — precise, careful, the kind of official who had survived multiple governments by being genuinely useful and entirely uninterested in being right. He opened with a summary of the current situation: the affected area had expanded by eleven percent in the past eighteen months. The olive mortality rate in the southern districts was now estimated at sixty percent of trees over two hundred years old. Water table contamination had been confirmed in seven municipalities.
 
-He began with the early religious accounts — the Aetheran priests who had argued the rot was divine punishment, which had the advantage of being unfalsifiable and the disadvantage of suggesting nothing useful. Then the military accounts: the three campaigns that had attempted to burn the blight back, each ending with the blighted regions expanding to encompass the army's camps. Then the engineering proposals, the irrigation diversions, the land-clearing operations.
+Vesper had read all of this. She had the figures in her spreadsheet. She watched Stratakis deliver them and thought about the 1992 irrigation report and the word *manageable*.
 
-Each account ended the same way. Vesper had read all of them. She had read most of them before they were cited here.
+"We'll move to the research review," Stratakis said. He had a printed agenda. "Starting with the intervention assessments."
 
-"And then we come," Doros said, "to the more recent methodologies." He set his hand on her first volume without opening it. "Some of you will be familiar with the Correlation Studies produced by — formerly of the Academy."
+He began with the 2019 soil treatment program: inconclusive results, the affected area had continued to expand during and after the intervention. Then the 2021 replanting initiative: abandoned after eighteen months when the replanted trees began showing the same symptoms as the original stock. Then the 2022 water table remediation study: ongoing, preliminary results suggesting the contamination was deeper than original surveys indicated.
 
-*Formerly of.* She noted the phrasing.
+Each one ended the same way. Vesper had the files.
 
-"The argument, for those who haven't encountered it, is that the rate of blight progression correlates with the density of construction activity in a given region. The more building, the faster the spread." He paused. "The implication being — though the author is careful not to state it plainly — that the empire's own advancement is somehow responsible for the crisis it is attempting to address."
+"We'll turn now to the longer-range historical analyses," Stratakis said. He looked at his agenda. "Dr. Vasilis has the floor."
 
-One of the scholars Vesper recognized — Palleon, who had once shared a wing of the Academy with her, and who had written a polite but thorough refutation of her first volume — cleared his throat. "The correlation is not disputed," he said. "The causal inference is."
+Vasilis was from the University of Athens — young, recently published, the kind of academic who had built a careful career on not saying anything his funders would find uncomfortable. He was here to present a rebuttal, and they both knew it.
 
-"Quite," said Doros. "Construction follows population growth. Population concentrates where the land is most habitable. The blight spreads where people are because people live where the land was richest. The correlation is real. The causation runs the other direction."
+"Some of you will be familiar with research circulated in 2021 arguing that the collapse correlates directly with the expansion of EU-funded agricultural intensification programs in the region." He didn't look at Vesper. "The argument, briefly, is that the programs themselves — the subsidies, the drainage infrastructure, the monoculture incentives — are causally linked to the soil and water system failures we're now documenting."
 
-It was a competent refutation. She had read it in Palleon's response nine years ago and had spent a considerable time since then looking for the flaw in it, because it deserved to be taken seriously, and she had found the flaw — not in the logic, but in the underlying data. Palleon was using population census records. Census records were compiled by the empire. The empire had consistent reasons to overcount in blighted regions and undercount in unblighted ones. The data had a direction to it, the way all official data did.
+"The word *causally* is doing significant work there," said the agricultural ministry representative.
 
-She had documented this in her second volume.
+"It is," Vasilis said. "And it's where the analysis runs into difficulty. The correlation is real. I want to be clear about that — the numbers aren't in dispute." He brought up a slide. "What's in dispute is the direction of causation. These regions received intensive development funding because they were already the most agriculturally productive. They were the most productive because their soil and water systems were the most robust to begin with. The collapse is occurring in the regions that were pushed hardest — but they were pushed hardest because they could take it. The development programs followed the capacity, not the other way around."
 
-She did not say so. This was not a conversation. This was a review.
+It was a good argument. It was the same argument she had been reading for three years in various forms. She had written a detailed response to it in an article that had been rejected by two journals before being published in a third that no one from this working group would have read.
 
-"Is the author present?" asked one of the officials from the Archon's office — a younger woman, looking up from her notes.
+"Is the author of the original analysis present?" asked one of the EU observers, still looking at his tablet.
 
 "I'm here," Vesper said.
 
-Several heads turned. Doros looked at her with the careful neutrality of a man who had prepared for this.
+Several people adjusted in their seats without quite turning to look at her.
 
-"Do you wish to respond to the critique?" he asked.
+Stratakis was more direct. "Dr. Vasilis has raised the causation question. Would you like to respond?"
 
-"I've responded in print," she said. "Volume two. The census methodology issue is documented in the third chapter."
+"I've responded in print," she said. "The capacity argument doesn't hold when you control for baseline soil chemistry rather than yield history. Yield history is a measure of what the land was forced to produce. Baseline soil chemistry is a measure of what the land actually was." She paused. "They're not the same thing, and the data sources are different."
 
-"We're not reviewing volume two today."
+"The baseline soil chemistry records for this region pre-1975 are incomplete," Vasilis said.
 
-"I know."
+"Some of them are. The ones that exist tell a consistent story. I can send you the citations."
 
-A silence that had the texture of something deliberate. Doros moved on, and the review continued, and Vesper sat with her hands folded and listened to eleven more scholars discuss the crisis in terms that would lead, she already knew, to a recommendation that existing infrastructure projects proceed on schedule.
+"We're not litigating the methodology today," Stratakis said, with the tone of a man who had managed many rooms. He moved on.
+
+Vesper folded her hands on the table and listened to seven more presentations confirm that the collapse was worsening and that the most recent interventions had not produced the hoped-for results and that further study was recommended before any significant changes to existing programs were considered.
 
 ---
 
-She walked back to the archive through the late afternoon, past the construction at the harbor, past a new road being laid over the remains of an older one, past a fountain that had been dry for two years and was currently being restored by a team of workers who looked as though they did not expect the water to come back.
+She took the afternoon train back to Thessaloniki. The train ran north along the coast and then inland through the flat agricultural land of central Greece, and she sat in a window seat and watched it go past and thought about what she had not said in the conference room.
 
-The letter from Elathon was still in her pocket.
+The thing she had not said was in the eleven pages. She had tried to say it in the room once before — at a conference in Heraklion, two years ago — and she had watched the response happen in real time on the faces of the people listening: the brief consideration, the almost-there, and then the door closing. The door closed because the thing she was saying did not leave room for the working group, or the intervention programs, or the EU observers with their tablets, or any of the apparatus of response that had been built up around this problem over the past decade.
 
-At the archive she climbed to her room, lit a lamp, and unlocked the chest.
+It didn't leave room for trying.
 
-The third volume was thicker than the first two had been at this stage. She had been working on it for four years. It had started as a continuation of the intervention paradox — the pattern she had documented in volume two across fourteen regions, twelve interventions, three centuries of records. Always the same result. Always the spread accelerating in the wake of the effort to stop it.
+The train passed through a valley where she could see, on the hillsides, the particular grey of olive trees that had stopped being olive trees. She had seen photographs. She had read the agricultural surveys. This was the first time she had seen it from a moving window, unremarkable among the other scenery, just a thing that was now part of the landscape.
 
-But somewhere in the fourth year she had noticed something she hadn't been looking for.
+She looked at it until it was behind her.
 
-She turned to the section now. Her own handwriting, smaller than usual, as though she had been trying to compress the idea without letting it fully open.
+In her bag she had a printed copy of the eleven pages — she didn't know why she had brought it to Athens, she hadn't taken it out of her bag. She left it there and opened her laptop and worked on the commission for the rest of the journey, and thought about the valley, and thought about calling Elathon back, and did not call.
 
-*The intervention paradox holds across all types of effort — military, agricultural, engineering, religious, scholarly. The common element is not the method, but the intent: a deliberate human will directed at the problem. It is as though the blight does not respond to what is done, but to the doing itself. To the reaching.*
-
-She had written it four years ago and had not yet figured out what to do with it.
-
-Below that, in a different ink, added later:
-
-*If this is correct, then the question of origin becomes less meaningful. One does not ask who lit a fire that has been burning for three centuries. One asks what has been feeding it.*
-
-She sat looking at her own words for a long time.
-
-The question she had not written down — the one that lived in the margin of every page of the third volume, the one she circled without approaching — was the next one. The obvious one. If the reaching feeds it, then what does Aetheris do but reach? What has it ever done but reach? The roads, the aqueducts, the academies, the campaigns, the grand restorations. The harbor expansion going on right now outside her window, hammers ringing against stone in the dark.
-
-She closed the volume. Locked the chest.
-
-Outside the hammering had stopped for the night. The city settled into its evening sounds — doors, voices, the particular silence of streets emptying. Somewhere in the southern provinces the lower groves of Elathon were going grey in the dark, one tree at a time.
-
-She reached for a clean sheet and dipped her pen.
-
-*To the Municipal Council of Elathon.* She stopped. Started again.
-
-*I have received your letter regarding the progression of the blight into the lower grove region. I am currently reviewing relevant historical records and will provide a full accounting of comparable cases and their outcomes within the fortnight.*
-
-She let the ink dry. Folded the sheet. Set it with the outgoing correspondence.
-
-It was not a lie. She was always reviewing relevant records.
-
-What she did not write was what she knew: that there were no comparable cases with good outcomes. That every full accounting she had ever compiled ended the same way. That the council of Elathon was asking her what happened next, and what happened next was that the upper grove went the way of the lower grove, and then the fields, and then the water.
-
-She had the letter from Elathon in her pocket and the question she hadn't written down in her chest and the answer she hadn't said aloud in the part of her mind she had spent eleven years keeping very quiet.
-
-She picked up the next codex and found her place.
+The train arrived at Thessaloniki in the dark. She walked home from the station through streets that smelled of coffee and diesel and sea air, and at her kitchen table she opened her laptop and looked at the satellite map for a long time without updating her spreadsheet, and then she closed it and went to bed.

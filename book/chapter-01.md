@@ -1,94 +1,94 @@
 # VESPER
 ## Chapter One
 
-The record was three years wrong.
+The footnote cited a 1994 study. Vesper checked the study. It cited a 1989 report. She checked the report. It cited the 1994 study.
 
-Vesper set down her lamp and looked at the error again — the date inscribed in the margin of the codex, in a hand she recognized as Protonotary Kellos, dead forty years. He had recorded the foundation of the Tharathi aqueduct as the ninth year of Empress Demetria's reign. It was the twelfth. She knew because she had the original surveyors' documents in the next room, copied from the imperial archive before the flood had taken the lower floors.
+She sat back and looked at the loop for a moment, then made a note in the margin of her printed copy — *circular reference, 1989/1994, see file* — and moved on. This was not unusual. Official documentation had its own ecology: reports feeding on reports, each lending the others legitimacy, none of them requiring contact with the ground to survive.
 
-Three years. Enough to change what the aqueduct meant — whether it had been built in response to the drought or before it. Whether it was foresight or luck. Whether Demetria had been a planner or a beneficiary.
+She had been working through the archive for six weeks. The commission was straightforward in the way that commissions from development authorities always were: a retrospective record of agricultural and infrastructure programs in the Peloponnese region, 1975 to the present. Fifty years of EU subsidies, drainage projects, monoculture incentives, rural electrification, road construction, irrigation expansion. A history of everything that had been done to improve the land.
 
-History turned on such things.
+They had given her full access to the regional archive and a reasonable fee and a deadline of four months. What they had not said, and did not need to say, was what kind of history they were expecting.
 
-She made the correction in the margin in her small, even hand, noted the source, and moved on.
+She knew what kind of history they were expecting. She had written enough of them to know.
 
----
-
-The archive occupied the upper three floors of a building that had once been a temple and before that, if the foundation stones were to be believed, something older still. The city of Kessara had a habit of building on top of itself. New walls rose from old stones. Streets curved around foundations that no longer served any purpose except to inconvenience carts. In this way the city preserved its history by accident — too practical to tear anything fully down, too proud to admit the new work was often worse than what it replaced.
-
-Vesper approved of cities that built on their dead.
-
-She had three lamps lit despite the afternoon light coming through the narrow windows, because the codices she was working through were written in the compressed scholarly hand of the Demetrian period — small, cramped, designed to fit as much as possible onto each skin. Her eyes had been good once. Now she lit three lamps and did not mention it to anyone.
-
-The commission was straightforward enough: a comprehensive account of the aqueduct systems of the middle imperial period, for the use of the Bureau of Infrastructure, which was — as best as Vesper could determine — preparing to build something new. Another aqueduct, probably. Another grand project. Another length of stone arch reaching across a valley to carry water to a city that had already outgrown the last one.
-
-She did not ask questions about commissions. She rarely did. Patrons wanted what they paid for, and what they paid for was usually a history that confirmed what they already intended to do.
-
-This was not a new problem. She had found it in the records going back four centuries: the powerful commissioned histories the way they commissioned portraits. Not to discover truth, but to have the truth arranged flatteringly around them.
-
-She compiled what they asked for. And she kept a separate record of what she actually found.
-
-That record — three volumes now, kept in a locked chest that traveled with her — was the project that had ended her appointment at the Academy nine years ago. She had circulated the first volume among colleagues. She had expected pushback. She had not expected the letter from the Archon's office informing her that her position had been filled in her absence, that her rooms in the academy quarter had been reassigned, and that her further work on the subject was not encouraged.
-
-She had continued it anyway. From rented rooms. From commissions like this one.
-
-The third volume was nearly complete.
+She also kept a separate file.
 
 ---
 
-Outside the narrow windows, Kessara continued its afternoon business: cart wheels on old stone, a vendor calling something she couldn't make out, the distant sound of hammering from the new construction at the harbor front. The Bureau of Infrastructure was expanding the docks. The fishing had been poor for three years — the southern waters were doing something strange, something the fishermen described in ways Vesper recognized from older records she had read of other coastlines, other times — and so the Bureau's answer was larger docks, more boats, more nets.
+The Aristotle University archive occupied the basement and ground floor of a building that had been a tobacco warehouse before the university acquired it in the 1960s. The conversion had been done cheaply and the building had never entirely forgotten what it was: the ceilings were too high, the floors were original wood that creaked in cold weather, and on certain afternoons when the heating system struggled, the air took on a faint sweetness that had nothing to do with anything currently stored there.
 
-She recognized that logic too. It was in her third volume.
+Vesper had a desk in the far corner, partitioned off from the reading room by a row of metal shelving. On her laptop she had four windows open: the regional archive's digital catalogue, a spreadsheet tracking the development programs by year and district, a document of her own notes, and a browser tab she had not closed in three weeks containing a satellite map of the Peloponnese with the affected areas marked in grey.
 
-The door to the archive opened. She did not look up.
+The grey had grown since she first opened the tab.
 
-"The commission is for the Bureau, not the Academy," she said. "If someone from the Bureau has questions, I'm available after the sixth hour."
+She had meant to close it. She left it open instead.
 
-"I'm not from the Bureau."
+Outside the narrow ground-level windows, Thessaloniki moved through its Tuesday morning. Feet at pavement level. The wheels of a delivery trolley. Someone's dog stopping to investigate the base of the wall and being pulled onward. The city had a rhythm she had learned over three years working in this building, and she rarely looked up to see what was making which sound.
 
-She looked up then.
+She returned to the document on her screen. The 1992 irrigation expansion report. Three hundred thousand euros in EU structural funds, redirected from road improvement to subsurface drainage and crop irrigation systems across four districts. The report described projected yield increases. A footnote mentioned projected impacts on the water table and assessed them as manageable.
 
-The man in the doorway was young — mid-twenties, perhaps — with the look of someone who had traveled recently and not well. Road dust on his boots. A sealed letter in his hand with a cord she recognized: the rust-colored cord used by municipal offices in the southern provinces.
-
-"You're Vesper?" he said.
-
-"Yes."
-
-He crossed the room and held out the letter. "From Elathon."
-
-She took it. Did not open it. The cord was intact, the seal unbroken — the municipal seal of Elathon, the olive branch and the old wall. She had not seen that seal in eleven years.
-
-"How bad is it?" she asked.
-
-The messenger hesitated.
-
-"I've read the rot reports," she said. "I know where the blight lines were three months ago. I want to know where they are now."
-
-"They've reached the lower groves," he said. "The old ones."
-
-The old ones. The trees that had been old when the empire was young. The ones that had survived drought, blight, war, the three bad winters of Alexan's reign, the earthquake of the forty-second year. Those trees.
-
-"How much of the lower grove?"
-
-"Most of it." He stopped. Started again. "The upper grove is still green. But the lower grove is—" He looked at his hands. "I'm sorry. I don't have the words for it."
-
-She believed him. She had read descriptions written by people who did have the words for it, and they had all failed in the same place.
-
-"Thank you," she said. "You can go."
-
-He went.
-
-She sat for a moment looking at the sealed letter beside the lamp. Then she turned back to the codex, found her place, and read another page.
+She highlighted the word *manageable* and moved on.
 
 ---
 
-The afternoon light moved across the floor. The hammering at the harbor continued. Vesper read and corrected and noted her sources and did not open the letter for another two hours.
+Her phone buzzed at half eleven. An unrecognized number, Peloponnese area code.
 
-When she finally did, she read it three times. The handwriting was the municipal clerk's — formal, precise, the kind of letter that contained nothing more than what it said. The blight had reached the lower groves. The town council was requesting information on precedent. Any historical record of similar progressions and their outcomes.
+She set the phone face-down and finished the paragraph she was reading. It buzzed again. Same number.
 
-They wanted history. They thought she could tell them what happened next, so they could prepare.
+She answered.
 
-She knew what happened next. She had read it fifty times in fifty different accounts, from fifty different towns that had sent letters just like this one.
+"Vesper." A woman's voice — older, slightly breathless in the way of someone who had been working up to making a call. "It's Eleni. Eleni Papadakis. You won't remember me, I was two years below you in school—"
 
-What she did not do — what she had never in her life done — was write back the truth.
+"I remember you," Vesper said.
 
-She folded the letter, set it in the pocket of her coat, and reached for the next codex.
+A short pause. "I'm calling about Elathon. About the grove."
+
+"I've been following the reports."
+
+"The lower grove," Eleni said. "The old section. They assessed it last week. They're saying most of it."
+
+Vesper looked at her laptop. The satellite map was open behind the archive catalogue. She didn't bring it forward.
+
+"How far into the upper section?" she said.
+
+"Not yet. The edge trees still look — they look alright. But the lower grove is—" The woman stopped. Vesper heard her breathing. "I've been trying to describe it to people who haven't seen it and I can't find the words."
+
+"I know," Vesper said. "I've read descriptions."
+
+"Will you come?"
+
+Vesper looked at the 1992 report. The word *manageable* still highlighted on the screen.
+
+"I'm in the middle of a commission," she said.
+
+"I know. I'm sorry to — I know. But people are asking what comes next. Whether there's any historical precedent. Whether anything has ever — whether anyone has ever stopped it."
+
+There it was. They wanted history. They thought she could tell them what happened next so they could prepare, or hope, or at least understand.
+
+She knew what happened next.
+
+"I'll look into the records," she said. "I'll be in touch."
+
+She ended the call. Set the phone face-down again.
+
+Her separate file — the one that wasn't for the commission, the one she had been building for seven years across three institutions and two countries — was minimized in the taskbar at the bottom of her screen. In it, among other things, was a section she had written and rewritten four times in the past year and had not submitted to any journal and had not shown to anyone.
+
+The section was eleven pages. It said something she had not yet found a way to say out loud.
+
+She opened the archive catalogue, found her place in the 1992 report, and kept reading.
+
+---
+
+She did not call Elathon back that afternoon.
+
+At six she closed the archive documents and walked to the tram stop in the early dark. The city was louder at this hour — offices emptying, restaurants starting, the particular energy of Thessaloniki coming alive in the way of cities that have always preferred night to day.
+
+On the tram she checked her phone. Three more missed calls, all Peloponnese numbers she didn't recognize. A text from her cousin: *have you heard about the grove?*
+
+She would reply tomorrow. She would pull the relevant records first, so she had something useful to say. Something measured and sourced and correct.
+
+This was what she always did. It had always been enough.
+
+She put her phone away and watched the city go past the window and did not think about the lower grove, or the eleven pages she had never sent to anyone, or the name that had appeared twice in the past month in posts from the Elathon community page — a name she had seen and kept moving, the way you move past a door you have decided not to open.
+
+The tram carried her home through the lit streets and she looked out the window and thought about the 1992 irrigation report, and what came next in the record, and nothing else.
