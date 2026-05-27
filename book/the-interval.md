@@ -8,9 +8,9 @@
 
 People cannot stop.
 
-Not just the ecological collapse. Not just the wars. Not just the political division. All of it — simultaneously, everywhere — as expressions of the same underlying human inability to stop acquiring, stop fighting, stop optimizing, stop being right. Every attempt to win creates the next conflict. Every solution seeds the next crisis. The mobilization is always larger than the problem it was built to solve, and the response to the mobilization is larger still.
+Not just the ecological collapse. Not just the wars. Not just the political division. All of it — simultaneously, everywhere — as expressions of the same underlying human inability to stop acquiring, stop fighting, stop optimizing, stop being right. Every attempt to win creates the next conflict. Every solution seeds the next crisis. The mobilisation is always larger than the problem it was built to solve, and the response to the mobilisation is larger still.
 
-The origin is war. The propensity for organized, deliberate destruction is the root from which everything else grows — the environmental collapse, the political fracturing, the division. This propensity does not disappear in peacetime. It transforms. It goes into the economics, the agriculture, the infrastructure, the institutions. The same logic that builds a war — identify the enemy, mobilize, apply maximum force — is the logic that built the programs that destroyed the Peloponnese soil. The logic of conquest dressed in the language of improvement.
+The origin is war. The propensity for organised, deliberate destruction is the root from which everything else grows — the environmental collapse, the political fracturing, the division. This propensity does not disappear in peacetime. It transforms. It goes into the economics, the agriculture, the infrastructure, the institutions. The same logic that builds a war — identify the enemy, mobilize, apply maximum force — is the logic that built the programs that destroyed the Peloponnese soil. The logic of conquest dressed in the language of improvement.
 
 This is not a political book. Politics is a symptom. The subject is what produces the symptom — something in human nature visible across the full length of recorded history, in every war, every civilizational collapse, every destroyed landscape. The pattern has never been named because naming it leaves no room for the institutions, the programs, the movements, the apparatus of response that civilization has built around it.
 
@@ -24,7 +24,7 @@ The book is about what happens when she finally arrives.
 
 ## THE PREMISE
 
-Vesper is an environmental scientist — more precisely, a scientist of human intervention and its consequences. Her controversial work traces a pattern across centuries: every major mobilization of human effort, regardless of its stated purpose, generates consequences that exceed the original problem and require a larger mobilization in response. She has documented this in agricultural policy, in warfare, in economic systems, in political movements. The pattern holds everywhere she looks.
+Vesper is an environmental scientist — more precisely, a scientist of human intervention and its consequences. Her controversial work traces a pattern across centuries: every major mobilisation of human effort, regardless of its stated purpose, generates consequences that exceed the original problem and require a larger mobilisation in response. She has documented this in agricultural policy, in warfare, in economic systems, in political movements. The pattern holds everywhere she looks.
 
 She has eleven pages she has never sent to anyone. They say the thing she has not yet found a way to say out loud: that the pattern is not in the content of the crises. It is in the human response to crisis itself. The origin is the propensity for war — and that propensity never went anywhere.
 
@@ -36,7 +36,7 @@ She has spent eleven years building toward this conclusion. She has spent her wh
 
 Every attempt to fix the problem feeds it.
 
-Not metaphorically — measurably. The regions that received the most intensive intervention are the most damaged. The conflicts that generated the largest peacekeeping operations produced the most unstable peace. The political movements that mobilized the most people against division created the deepest division. The agricultural programs that invested the most in soil recovery produced the most degraded soil.
+Not metaphorically — measurably. The regions that received the most intensive intervention are the most damaged. The conflicts that generated the largest peacekeeping operations produced the most unstable peace. The political movements that mobilised the most people against division created the deepest division. The agricultural programs that invested the most in soil recovery produced the most degraded soil.
 
 Vesper has the data. She has had it for years. What she does not have — what no institution, no working group, no government committee, no academic journal has been able to provide a framework for — is what you do instead.
 
@@ -50,7 +50,7 @@ They never say she is wrong. They say she cannot prove it — not in the terms t
 
 The form of the opposition: they attack the science, not the conclusion. This keeps them looking reasonable. It keeps the argument in the realm of methodology, where the consensus controls the terms.
 
-The trap it creates for Vesper: she keeps trying to win the argument. She strengthens her methodology. She expands the dataset. She tightens the language. She mobilizes harder for the hypothesis that says mobilizing harder is the problem. The chorus doesn't need to conspire. It just needs to keep asking for more proof, and she keeps trying to provide it, and the pattern runs exactly as she described.
+The trap it creates for Vesper: she keeps trying to win the argument. She strengthens her methodology. She expands the dataset. She tightens the language. She mobilizes harder for the hypothesis that says mobilising harder is the problem. The chorus doesn't need to conspire. It just needs to keep asking for more proof, and she keeps trying to provide it, and the pattern runs exactly as she described.
 
 She cannot demonstrate her hypothesis by arguing for it. The only demonstration is stopping.
 
@@ -75,7 +75,7 @@ She travels to four locations, each showing the same propensity in different mat
 - **Berlin, Germany** — the solution to the propensity becoming the next expression of it. The European project fracturing. The clue: *you cannot build an institution that defeats this. The institution inherits the logic of the thing it was built to prevent.*
 - **Hiroshima and Fukushima, Japan** — the propensity redirected into technology. The bomb and the reactor: the same force, aimed differently. The celebrated recovery with the pattern running underneath it. The clue: *the propensity doesn't end with peace. It transforms. Into the miracle. And the miracle becomes the next catastrophe.*
 - **Nevada and New Mexico, USA** — the Nevada Test Site and Trinity: 928 nuclear detonations on American soil between 1951 and 1992. The Downwinders — communities in Nevada and Utah told the tests were safe, now carrying decades of elevated cancer rates, still fighting for recognition. Trinity, New Mexico: the very first detonation, 1945, three weeks before Hiroshima. The local population — largely Hispanic and Indigenous — never evacuated, never warned, never compensated. The same nation that rebuilt postwar Europe and Japan through the Marshall Plan irradiated its own desert communities for forty years and called it security. The clue: *the builder and the destroyer are not different forces. They are the same impulse with different targets. When you run out of enemies, you turn it on yourself.*
-- **Chernobyl, Ukraine/Russia** — last before Elathon. The cover-up as mobilization: hundreds of thousands of liquidators deployed to contain and conceal the disaster, many of them dying for it. But also — the Exclusion Zone. Thirty years of human absence, and the land is returning. Wolves, forests, birds, life reclaiming the abandoned villages. Not because anyone fixed it. Because everyone left. The clue Vesper wasn't looking for: *sometimes the most powerful act is withdrawal. The land doesn't need to be saved. It needs to be left alone.* She cannot recommend this as policy. She cannot write it in a paper. But she cannot unfeel it. It is the last piece before she goes home.
+- **Chernobyl, Ukraine/Russia** — last before Elathon. The cover-up as mobilisation: hundreds of thousands of liquidators deployed to contain and conceal the disaster, many of them dying for it. But also — the Exclusion Zone. Thirty years of human absence, and the land is returning. Wolves, forests, birds, life reclaiming the abandoned villages. Not because anyone fixed it. Because everyone left. The clue Vesper wasn't looking for: *sometimes the most powerful act is withdrawal. The land doesn't need to be saved. It needs to be left alone.* She cannot recommend this as policy. She cannot write it in a paper. But she cannot unfeel it. It is the last piece before she goes home.
 
 **Act Three — The Arrival**
 She goes to Elathon. Ambrose is dead. The grove is dying. Elathon gives her the final piece: the propensity is not only out there. It is in her. She has been waging her own quiet war — against grief, against closeness, against the life she kept at arm's length. And she stops. Not solving. Not arguing. Arriving.

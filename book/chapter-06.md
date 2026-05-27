@@ -23,7 +23,7 @@ The taxi was waiting. Vesper got in. Through the back window she watched Haddad 
 
 The Somme in October was flat and quiet and the colour of something that had given up arguing.
 
-The train from Paris crossed the old Western Front without ceremony — no marker, no change in the landscape, just agricultural land continuing in all directions, the soil turned dark by the autumn plowing, the sky enormous and grey. She had crossed the line on her map three minutes before she noticed it and looked up from her notes.
+The train from Paris crossed the old Western Front without ceremony — no marker, no change in the landscape, just agricultural land continuing in all directions, the soil turned dark by the autumn ploughing, the sky enormous and grey. She had crossed the line on her map three minutes before she noticed it and looked up from her notes.
 
 She thought: of course it looks like nothing. That's the point.
 
@@ -105,7 +105,7 @@ Vesper looked at the shells along the wall. Most of them were broken open, oxidi
 
 Fontaine translated. Patrice thought about it with the seriousness of a man who considered questions about his land worth considering properly.
 
-"My grandfather farmed this land," he said. "My father farmed it. I farm it. My son will probably farm it, though he currently believes he will be a musician, which we will revisit." He looked at the shells. "The shells were here when my grandfather plowed. They will be here when my grandchildren plow. Maybe their grandchildren — the disposal people tell me there are enough left to find for another hundred years." He said this without drama. "You learn to read the soil. The colour changes where a shell is close to the surface. The plants grow differently — they stand wrong, like something is crowding them from underneath. You learn what to look for." He paused. "But you don't not farm. You just farm."
+"My grandfather farmed this land," he said. "My father farmed it. I farm it. My son will probably farm it, though he currently believes he will be a musician, which we will revisit." He looked at the shells. "The shells were here when my grandfather ploughed. They will be here when my grandchildren plow. Maybe their grandchildren — the disposal people tell me there are enough left to find for another hundred years." He said this without drama. "You learn to read the soil. The colour changes where a shell is close to the surface. The plants grow differently — they stand wrong, like something is crowding them from underneath. You learn what to look for." He paused. "But you don't not farm. You just farm."
 
 "Does it ever—" Vesper looked for the word. "Does it ever make you angry? The shells being there?"
 
@@ -123,13 +123,13 @@ The soil was dark and cold and heavy with moisture. Normal agricultural soil by 
 
 She stayed there for a moment.
 
-She thought about the Peloponnese. The satellite maps she had been looking at for seven years. The grey spreading from the centre of the affected zone, the dying root systems, the soil chemistry reports showing contamination from a decade of intensive agricultural programs — the fertilizers, the pesticides, the water table interventions, all of it accumulating in the deeper layers where it did not break down.
+She thought about the Peloponnese. The satellite maps she had been looking at for seven years. The grey spreading from the centre of the affected zone, the dying root systems, the soil chemistry reports showing contamination from a decade of intensive agricultural programs — the fertilisers, the pesticides, the water table interventions, all of it accumulating in the deeper layers where it did not break down.
 
 Different centuries. Different methods. Different stated purposes.
 
 The soil did not distinguish.
 
-She stood up and wrote in her notebook: *The Western Front and the Peloponnese. The mechanism is the same: an impulse organized at scale, applied with maximum force to a defined objective, transforming the landscape permanently in ways no subsequent intervention can fully undo. One was called war. One was called agricultural development. The soil doesn't know the difference. The damage at depth is the same damage.*
+She stood up and wrote in her notebook: *The Western Front and the Peloponnese. The mechanism is the same: an impulse organised at scale, applied with maximum force to a defined objective, transforming the landscape permanently in ways no subsequent intervention can fully undo. One was called war. One was called agricultural development. The soil doesn't know the difference. The damage at depth is the same damage.*
 
 She stopped writing.
 
@@ -143,7 +143,7 @@ It did not feel like being right. It felt like standing at the centre of somethi
 
 ---
 
-That evening in her hotel in Amiens she opened the eleven pages and wrote for two hours without stopping — the Thiepval names, Patrice's shed, the soil. The document was growing. Three sections fully drafted now, the fourth nearly complete, the fifth still the one she was circling. She wrote the connection she had been circling for years and had not been able to state directly: that the origin was not economic policy, not institutional failure, not even political ideology. The origin was the propensity for organized destruction, which was the oldest human technology, which had been redirected into economics and agriculture and development and reconstruction without ever ceasing to be what it was.
+That evening in her hotel in Amiens she opened the eleven pages and wrote for two hours without stopping — the Thiepval names, Patrice's shed, the soil. The document was growing. Three sections fully drafted now, the fourth nearly complete, the fifth still the one she was circling. She wrote the connection she had been circling for years and had not been able to state directly: that the origin was not economic policy, not institutional failure, not even political ideology. The origin was the propensity for organised destruction, which was the oldest human technology, which had been redirected into economics and agriculture and development and reconstruction without ever ceasing to be what it was.
 
 She read what she'd written.
 

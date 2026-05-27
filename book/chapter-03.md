@@ -23,7 +23,7 @@ She was inviting Vesper to spend three weeks in Beirut as a consulting researche
 
 *I think you will find,* Dr. Haddad wrote, *that Beirut is the most complete record available of the phenomenon you have been documenting. Everything you have argued from agricultural data and regional surveys is visible here in the built environment, in living memory, in the landscape. I have been trying to find the right researcher for this project for two years. I believe you are that researcher.*
 
-Vesper read the email twice. Then she opened a new tab and looked at the satellite map of the Peloponnese for a moment — the grey spreading from the center of the affected zone, the upper groves still green at the edges, the village of Elathon visible as a cluster of rooftops at the end of a road that wound up from the valley floor.
+Vesper read the email twice. Then she opened a new tab and looked at the satellite map of the Peloponnese for a moment — the grey spreading from the centre of the affected zone, the upper groves still green at the edges, the village of Elathon visible as a cluster of rooftops at the end of a road that wound up from the valley floor.
 
 She closed the tab.
 
@@ -35,13 +35,13 @@ She opened the email again and read it a third time.
 
 She replied the same day. She would need to review her current commitments — the commission for the regional development authority had a four-month deadline, but the core research was largely complete and the writing could be done from anywhere with archive access. She had no other fixed obligations for the coming month.
 
-She would need two weeks to prepare.
+She would need about ten days to prepare.
 
 She accepted.
 
 ---
 
-The preparation took nine days. She requested and received the full archive catalogue from the AUB consortium. She read everything available on Lebanon's post-civil war reconstruction — the 1990s Solidere project that had rebuilt downtown Beirut by demolishing what remained of the historic city center, the 2006 reconstruction following the July War, the international funding mechanisms, the environmental impact assessments that had been commissioned and shelved, the infrastructure reports that cited each other in the same circular patterns she had been documenting in Greek development records for years.
+The preparation took nine days. She requested and received the full archive catalogue from the AUB consortium. She read everything available on Lebanon's post-civil war reconstruction — the 1990s Solidere project that had rebuilt downtown Beirut by demolishing what remained of the historic city centre, the 2006 reconstruction following the July War, the international funding mechanisms, the environmental impact assessments that had been commissioned and shelved, the infrastructure reports that cited each other in the same circular patterns she had been documenting in Greek development records for years.
 
 She built a spreadsheet. She mapped the intervention cycles against the environmental and social data. The pattern was there before she arrived, visible from Thessaloniki in the documents alone — each reconstruction more expensive, more internationally funded, more ambitious than the last, and each one leaving the city more fragile than it had been before.
 
@@ -51,7 +51,7 @@ She booked her flight. She arranged for her mail to be held. She told the archiv
 
 On the last evening before she left, she sat at her kitchen table and opened her laptop and went, almost without deciding to, to the Elathon community page.
 
-Ambrose had posted in March. A photograph — the upper grove in early spring, the trees still grey-green and thick, the light coming through at an angle she recognized from the direction of his parents' old house. He had written nothing in the caption. Just the photograph.
+Ambrose had posted in March. A photograph — the upper grove in early spring, the trees still grey-green and thick, the light coming through at an angle she recognised from the direction of his parents' old house. He had written nothing in the caption. Just the photograph.
 
 Forty-three people had liked it.
 

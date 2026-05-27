@@ -13,7 +13,7 @@ She wrote three notes in her phone before they reached the hotel.
 
 ---
 
-Dr. Nadia Haddad was waiting in the lobby — a woman in her mid-forties, dark hair, the particular kind of composed that Vesper recognized as the composure of someone who had learned it under pressure. She shook Vesper's hand and looked at her directly in the way of someone who had been told things about her and was deciding whether they were true.
+Dr. Nadia Haddad was waiting in the lobby — a woman in her mid-forties, dark hair, the particular kind of composed that Vesper recognised as the composure of someone who had learned it under pressure. She shook Vesper's hand and looked at her directly in the way of someone who had been told things about her and was deciding whether they were true.
 
 "You look like your author photograph," Haddad said. "Most people don't."
 
@@ -29,11 +29,11 @@ Dr. Nadia Haddad was waiting in the lobby — a woman in her mid-forties, dark h
 
 They walked. Haddad walked the way people walked in cities they had grown up in — not looking at anything in particular, looking at everything. She narrated as they went, not in the manner of a tour guide but in the manner of someone thinking aloud in the presence of a person they'd decided to trust.
 
-The downtown was twenty minutes on foot from the hotel. The Solidere district — the private reconstruction project that had rebuilt the city center after the civil war, demolishing what remained of the historic buildings to construct a gleaming pedestrianized zone of luxury shops and restaurants and restored Ottoman-era facades that Haddad said had been restored so thoroughly they no longer resembled the originals.
+The downtown was twenty minutes on foot from the hotel. The Solidere district — the private reconstruction project that had rebuilt the city centre after the civil war, demolishing what remained of the historic buildings to construct a gleaming pedestrianised zone of luxury shops and restaurants and restored Ottoman-era facades that Haddad said had been restored so thoroughly they no longer resembled the originals.
 
 It was a Sunday evening. The streets were largely empty.
 
-"Seven billion dollars," Haddad said. "Ninety percent of the historic city center demolished. Twelve thousand residents displaced." She said it without visible emotion, the way a person states facts they have stated many times. "And for twenty years, everyone called it a miracle. The Paris of the Middle East, restored. You could read about it in any international magazine from 1995 to 2005. A model for post-conflict reconstruction."
+"Seven billion dollars," Haddad said. "Ninety percent of the historic city centre demolished. Twelve thousand residents displaced." She said it without visible emotion, the way a person states facts they have stated many times. "And for twenty years, everyone called it a miracle. The Paris of the Middle East, restored. You could read about it in any international magazine from 1995 to 2005. A model for post-conflict reconstruction."
 
 Vesper looked at the wide clean streets, the careful lighting, the closed storefronts.
 

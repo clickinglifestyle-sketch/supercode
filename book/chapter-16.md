@@ -107,7 +107,7 @@ She sat in the grove for a long time.
 
 The light moved through the branches in the way it moved in January — low, specific, the shadows long and clear. In the upper section one of the living trees caught the sun briefly and held it, the leaves going gold for a moment before the light shifted.
 
-She had built eleven years of work into a document that said what he had known from the smell of the soil. She had traveled to six locations across the world to document what he had been standing inside for thirty years. She had needed the data because she did not trust what she already knew in her hands. He had understood this about her. He had loved her anyway.
+She had built eleven years of work into a document that said what he had known from the smell of the soil. She had travelled to six locations across the world to document what he had been standing inside for thirty years. She had needed the data because she did not trust what she already knew in her hands. He had understood this about her. He had loved her anyway.
 
 She pressed her palm flat against the bark.
 

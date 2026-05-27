@@ -53,7 +53,7 @@ Eleni looked at her without saying what they both knew, which was that Ambrose h
 
 *Then the train arrived at Athens.*
 
-*She was in Nevada on November seventh. She had picked up the phone in the dark of a hotel room in Albuquerque and held it and put it down and gone to sleep.*
+*She was in New Mexico on November seventh. She had picked up the phone in the dark of a hotel room in Albuquerque and held it and put it down and gone to sleep.*
 
 *She did the arithmetic now, sitting in Eleni's kitchen. She did it very quickly. She had been doing it since the phone call in Kyiv, in the part of her mind that worked on things she wasn't ready to look at directly.*
 

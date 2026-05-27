@@ -33,7 +33,7 @@ The woman mopped under where the bag had been and moved on. At the end of the ro
 
 The woman nodded, as though Kyiv at four in the morning was a reasonable destination. "Long trip."
 
-"Five months," Vesper said. "I've been traveling for five months."
+"Five months," Vesper said. "I've been travelling for five months."
 
 The woman did a quick, private calculation. "Work?"
 

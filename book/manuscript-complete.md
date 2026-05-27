@@ -45,7 +45,7 @@ She highlighted the word *manageable* and moved on.
 
 ---
 
-Her phone buzzed at half eleven. An unrecognized number, Peloponnese area code.
+Her phone buzzed at half eleven. An unrecognised number, Peloponnese area code.
 
 She set the phone face-down and finished the paragraph she was reading. It buzzed again. Same number.
 
@@ -97,7 +97,7 @@ She did not call Elathon back that afternoon.
 
 At six she closed the archive documents and walked to the tram stop in the early dark. The city was louder at this hour — offices emptying, restaurants starting, the particular energy of Thessaloniki coming alive in the way of cities that have always preferred night to day.
 
-On the tram she checked her phone. Three more missed calls, all Peloponnese numbers she didn't recognize. A text from her cousin: *have you heard about the grove?*
+On the tram she checked her phone. Three more missed calls, all Peloponnese numbers she didn't recognise. A text from her cousin: *have you heard about the grove?*
 
 She would reply tomorrow. She would pull the relevant records first, so she had something useful to say. Something measured and sourced and correct.
 
@@ -203,7 +203,7 @@ She was inviting Vesper to spend three weeks in Beirut as a consulting researche
 
 *I think you will find,* Dr. Haddad wrote, *that Beirut is the most complete record available of the phenomenon you have been documenting. Everything you have argued from agricultural data and regional surveys is visible here in the built environment, in living memory, in the landscape. I have been trying to find the right researcher for this project for two years. I believe you are that researcher.*
 
-Vesper read the email twice. Then she opened a new tab and looked at the satellite map of the Peloponnese for a moment — the grey spreading from the center of the affected zone, the upper groves still green at the edges, the village of Elathon visible as a cluster of rooftops at the end of a road that wound up from the valley floor.
+Vesper read the email twice. Then she opened a new tab and looked at the satellite map of the Peloponnese for a moment — the grey spreading from the centre of the affected zone, the upper groves still green at the edges, the village of Elathon visible as a cluster of rooftops at the end of a road that wound up from the valley floor.
 
 She closed the tab.
 
@@ -215,13 +215,13 @@ She opened the email again and read it a third time.
 
 She replied the same day. She would need to review her current commitments — the commission for the regional development authority had a four-month deadline, but the core research was largely complete and the writing could be done from anywhere with archive access. She had no other fixed obligations for the coming month.
 
-She would need two weeks to prepare.
+She would need about ten days to prepare.
 
 She accepted.
 
 ---
 
-The preparation took nine days. She requested and received the full archive catalogue from the AUB consortium. She read everything available on Lebanon's post-civil war reconstruction — the 1990s Solidere project that had rebuilt downtown Beirut by demolishing what remained of the historic city center, the 2006 reconstruction following the July War, the international funding mechanisms, the environmental impact assessments that had been commissioned and shelved, the infrastructure reports that cited each other in the same circular patterns she had been documenting in Greek development records for years.
+The preparation took nine days. She requested and received the full archive catalogue from the AUB consortium. She read everything available on Lebanon's post-civil war reconstruction — the 1990s Solidere project that had rebuilt downtown Beirut by demolishing what remained of the historic city centre, the 2006 reconstruction following the July War, the international funding mechanisms, the environmental impact assessments that had been commissioned and shelved, the infrastructure reports that cited each other in the same circular patterns she had been documenting in Greek development records for years.
 
 She built a spreadsheet. She mapped the intervention cycles against the environmental and social data. The pattern was there before she arrived, visible from Thessaloniki in the documents alone — each reconstruction more expensive, more internationally funded, more ambitious than the last, and each one leaving the city more fragile than it had been before.
 
@@ -231,7 +231,7 @@ She booked her flight. She arranged for her mail to be held. She told the archiv
 
 On the last evening before she left, she sat at her kitchen table and opened her laptop and went, almost without deciding to, to the Elathon community page.
 
-Ambrose had posted in March. A photograph — the upper grove in early spring, the trees still grey-green and thick, the light coming through at an angle she recognized from the direction of his parents' old house. He had written nothing in the caption. Just the photograph.
+Ambrose had posted in March. A photograph — the upper grove in early spring, the trees still grey-green and thick, the light coming through at an angle she recognised from the direction of his parents' old house. He had written nothing in the caption. Just the photograph.
 
 Forty-three people had liked it.
 
@@ -273,7 +273,7 @@ She wrote three notes in her phone before they reached the hotel.
 
 ---
 
-Dr. Nadia Haddad was waiting in the lobby — a woman in her mid-forties, dark hair, the particular kind of composed that Vesper recognized as the composure of someone who had learned it under pressure. She shook Vesper's hand and looked at her directly in the way of someone who had been told things about her and was deciding whether they were true.
+Dr. Nadia Haddad was waiting in the lobby — a woman in her mid-forties, dark hair, the particular kind of composed that Vesper recognised as the composure of someone who had learned it under pressure. She shook Vesper's hand and looked at her directly in the way of someone who had been told things about her and was deciding whether they were true.
 
 "You look like your author photograph," Haddad said. "Most people don't."
 
@@ -289,11 +289,11 @@ Dr. Nadia Haddad was waiting in the lobby — a woman in her mid-forties, dark h
 
 They walked. Haddad walked the way people walked in cities they had grown up in — not looking at anything in particular, looking at everything. She narrated as they went, not in the manner of a tour guide but in the manner of someone thinking aloud in the presence of a person they'd decided to trust.
 
-The downtown was twenty minutes on foot from the hotel. The Solidere district — the private reconstruction project that had rebuilt the city center after the civil war, demolishing what remained of the historic buildings to construct a gleaming pedestrianized zone of luxury shops and restaurants and restored Ottoman-era facades that Haddad said had been restored so thoroughly they no longer resembled the originals.
+The downtown was twenty minutes on foot from the hotel. The Solidere district — the private reconstruction project that had rebuilt the city centre after the civil war, demolishing what remained of the historic buildings to construct a gleaming pedestrianised zone of luxury shops and restaurants and restored Ottoman-era facades that Haddad said had been restored so thoroughly they no longer resembled the originals.
 
 It was a Sunday evening. The streets were largely empty.
 
-"Seven billion dollars," Haddad said. "Ninety percent of the historic city center demolished. Twelve thousand residents displaced." She said it without visible emotion, the way a person states facts they have stated many times. "And for twenty years, everyone called it a miracle. The Paris of the Middle East, restored. You could read about it in any international magazine from 1995 to 2005. A model for post-conflict reconstruction."
+"Seven billion dollars," Haddad said. "Ninety percent of the historic city centre demolished. Twelve thousand residents displaced." She said it without visible emotion, the way a person states facts they have stated many times. "And for twenty years, everyone called it a miracle. The Paris of the Middle East, restored. You could read about it in any international magazine from 1995 to 2005. A model for post-conflict reconstruction."
 
 Vesper looked at the wide clean streets, the careful lighting, the closed storefronts.
 
@@ -481,7 +481,7 @@ Maes was quiet for a moment. He was actually thinking about it, which was more t
 
 "You have documented that the pattern holds," he said at last. "I'm saying that showing it holds doesn't prove it shouldn't. Sometimes the pattern is the only tool there is."
 
-He acknowledged two of her responses. He re-stated the third objection in different language.
+He acknowledged two of her responses. He restated the third objection in different language.
 
 The meeting moved on. She understood, listening to it continue, that the objection would not be resolved in this room. It would never be resolved in a room. The data needed to be published. Not presented to working groups, not circulated to consortium researchers — published, in a journal where it could not be rerouted into a funding presentation, where it would exist in the record regardless of what the working groups decided next. Each room she sat in confirmed this. There were no more rooms to try.
 
@@ -589,7 +589,7 @@ The taxi was waiting. Vesper got in. Through the back window she watched Haddad 
 
 The Somme in October was flat and quiet and the colour of something that had given up arguing.
 
-The train from Paris crossed the old Western Front without ceremony — no marker, no change in the landscape, just agricultural land continuing in all directions, the soil turned dark by the autumn plowing, the sky enormous and grey. She had crossed the line on her map three minutes before she noticed it and looked up from her notes.
+The train from Paris crossed the old Western Front without ceremony — no marker, no change in the landscape, just agricultural land continuing in all directions, the soil turned dark by the autumn ploughing, the sky enormous and grey. She had crossed the line on her map three minutes before she noticed it and looked up from her notes.
 
 She thought: of course it looks like nothing. That's the point.
 
@@ -671,7 +671,7 @@ Vesper looked at the shells along the wall. Most of them were broken open, oxidi
 
 Fontaine translated. Patrice thought about it with the seriousness of a man who considered questions about his land worth considering properly.
 
-"My grandfather farmed this land," he said. "My father farmed it. I farm it. My son will probably farm it, though he currently believes he will be a musician, which we will revisit." He looked at the shells. "The shells were here when my grandfather plowed. They will be here when my grandchildren plow. Maybe their grandchildren — the disposal people tell me there are enough left to find for another hundred years." He said this without drama. "You learn to read the soil. The colour changes where a shell is close to the surface. The plants grow differently — they stand wrong, like something is crowding them from underneath. You learn what to look for." He paused. "But you don't not farm. You just farm."
+"My grandfather farmed this land," he said. "My father farmed it. I farm it. My son will probably farm it, though he currently believes he will be a musician, which we will revisit." He looked at the shells. "The shells were here when my grandfather ploughed. They will be here when my grandchildren plow. Maybe their grandchildren — the disposal people tell me there are enough left to find for another hundred years." He said this without drama. "You learn to read the soil. The colour changes where a shell is close to the surface. The plants grow differently — they stand wrong, like something is crowding them from underneath. You learn what to look for." He paused. "But you don't not farm. You just farm."
 
 "Does it ever—" Vesper looked for the word. "Does it ever make you angry? The shells being there?"
 
@@ -752,13 +752,13 @@ The soil was dark and cold and heavy with moisture. Normal agricultural soil by 
 
 She stayed there for a moment.
 
-She thought about the Peloponnese. The satellite maps she had been looking at for seven years. The grey spreading from the centre of the affected zone, the dying root systems, the soil chemistry reports showing contamination from a decade of intensive agricultural programs — the fertilizers, the pesticides, the water table interventions, all of it accumulating in the deeper layers where it did not break down.
+She thought about the Peloponnese. The satellite maps she had been looking at for seven years. The grey spreading from the centre of the affected zone, the dying root systems, the soil chemistry reports showing contamination from a decade of intensive agricultural programs — the fertilisers, the pesticides, the water table interventions, all of it accumulating in the deeper layers where it did not break down.
 
 Different centuries. Different methods. Different stated purposes.
 
 The soil did not distinguish.
 
-She stood up and wrote in her notebook: *The Western Front and the Peloponnese. The mechanism is the same: an impulse organized at scale, applied with maximum force to a defined objective, transforming the landscape permanently in ways no subsequent intervention can fully undo. One was called war. One was called agricultural development. The soil doesn't know the difference. The damage at depth is the same damage.*
+She stood up and wrote in her notebook: *The Western Front and the Peloponnese. The mechanism is the same: an impulse organised at scale, applied with maximum force to a defined objective, transforming the landscape permanently in ways no subsequent intervention can fully undo. One was called war. One was called agricultural development. The soil doesn't know the difference. The damage at depth is the same damage.*
 
 She stopped writing.
 
@@ -772,7 +772,7 @@ It did not feel like being right. It felt like standing at the centre of somethi
 
 ---
 
-That evening in her hotel in Amiens she opened the eleven pages and wrote for two hours without stopping — the Thiepval names, Patrice's shed, the soil. She wrote the connection she had been circling for years and had not been able to state directly: that the origin was not economic policy, not institutional failure, not even political ideology. The origin was the propensity for organized destruction, which was the oldest human technology, which had been redirected into economics and agriculture and development and reconstruction without ever ceasing to be what it was.
+That evening in her hotel in Amiens she opened the eleven pages and wrote for two hours without stopping — the Thiepval names, Patrice's shed, the soil. She wrote the connection she had been circling for years and had not been able to state directly: that the origin was not economic policy, not institutional failure, not even political ideology. The origin was the propensity for organised destruction, which was the oldest human technology, which had been redirected into economics and agriculture and development and reconstruction without ever ceasing to be what it was.
 
 She read what she'd written.
 
@@ -874,7 +874,7 @@ Brandt nodded once, as though this confirmed her working theory. "I've read both
 
 "In what way?"
 
-"In the most basic way. You're arguing that every major mobilization generates consequences that require a larger one to contain. The EU is the counter-example." She said it directly, without apology. "We have not had a war between European member states since 1945. The longest peace in the history of this continent. If the mobilization of the EU were feeding a larger conflict, where is it?"
+"In the most basic way. You're arguing that every major mobilisation generates consequences that require a larger one to contain. The EU is the counter-example." She said it directly, without apology. "We have not had a war between European member states since 1945. The longest peace in the history of this continent. If the mobilisation of the EU were feeding a larger conflict, where is it?"
 
 "Inside the institution," Vesper said. "Hungary and Poland. The austerity period — Greece, Portugal, Spain, countries whose ability to control their own economies was effectively suspended by Brussels on German economic principles. The migration crisis and the nationalism it produced. Brexit." She paused. "The EU exported the conflict to its periphery and called it peace at the centre."
 
@@ -920,7 +920,7 @@ Brandt looked at her with something that might have been respect, or might have 
 
 That evening Vesper sat in a bar near the East Side Gallery and wrote for a long time.
 
-She wrote the connection she had been avoiding since the Free University: the EU programs that had accelerated the Peloponnese collapse were not a mistake in the framework. They were the framework doing exactly what the framework did — mobilizing resources at scale toward a defined objective, generating consequences that the framework was not designed to see, because seeing them would require questioning the framework's premise.
+She wrote the connection she had been avoiding since the Free University: the EU programs that had accelerated the Peloponnese collapse were not a mistake in the framework. They were the framework doing exactly what the framework did — mobilising resources at scale toward a defined objective, generating consequences that the framework was not designed to see, because seeing them would require questioning the framework's premise.
 
 Brandt had told her, with complete honesty, why the institution could not acknowledge what she had found. And in doing so had shown her exactly what she was looking at: the institution protecting its own logic with the same mechanism it had been built to stop.
 
@@ -1008,11 +1008,11 @@ She was a small woman in her early sixties, with the quiet manner of someone who
 
 "Yes."
 
-"You use it as evidence that industrial mobilization generates health consequences that require a remediation mobilization, which generates its own consequences." She looked at Vesper. "I want to tell you what I thought when I read that."
+"You use it as evidence that industrial mobilisation generates health consequences that require a remediation mobilisation, which generates its own consequences." She looked at Vesper. "I want to tell you what I thought when I read that."
 
 "Please."
 
-"I thought: she is right, and she has no idea how right she is, and she is about to walk into the place where rightness stops being enough." She paused. "I also thought you might be using Minamata the same way the Solidere board used your colleague's phrase. Taking something true and putting it in service of a larger argument in a way that is technically accurate but — not quite honest to what the thing was." She picked up her tea. "The Minamata patients spent thirty years suing Chisso Corporation. The compensation was inadequate and late and contested every step. By your framework, that thirty years of legal mobilization was an expression of the pattern. By their experience, it was the only thing that kept them from being forgotten entirely."
+"I thought: she is right, and she has no idea how right she is, and she is about to walk into the place where rightness stops being enough." She paused. "I also thought you might be using Minamata the same way the Solidere board used your colleague's phrase. Taking something true and putting it in service of a larger argument in a way that is technically accurate but — not quite honest to what the thing was." She picked up her tea. "The Minamata patients spent thirty years suing Chisso Corporation. The compensation was inadequate and late and contested every step. By your framework, that thirty years of legal mobilisation was an expression of the pattern. By their experience, it was the only thing that kept them from being forgotten entirely."
 
 Vesper didn't answer immediately.
 
@@ -1020,7 +1020,7 @@ Vesper didn't answer immediately.
 
 Vesper thought about it honestly.
 
-"If the data showed — across enough cases, with the alternative explanations accounted for — that a sustained mobilization had resolved the conditions that generated it, without producing a larger problem in response."
+"If the data showed — across enough cases, with the alternative explanations accounted for — that a sustained mobilisation had resolved the conditions that generated it, without producing a larger problem in response."
 
 "And has any evidence moved you in that direction?"
 
@@ -1036,7 +1036,7 @@ The room was quiet. Rain against the window.
 
 Vesper didn't answer. The honest answer was both. The more honest answer was that she could no longer tell the difference.
 
-"You are making Hiroshima into an example," Mori said. Not unkindly — she said it the way a person says a true thing they wish they didn't have to say. "A case study in an argument about the human tendency toward destruction. I understand why. The argument is serious and the evidence is real." She set down her tea. "But the people whose testimony is in those boxes — they were not expressions of a tendency. They were people. And some of them spent the rest of their lives arguing for nuclear abolition, not because they had a theory about human nature, but because they had been in Hiroshima on that morning and they could not stop trying to prevent it from happening to anyone else." She paused. "They mobilized. They testified, year after year, to anyone who would listen, long after most of the world had stopped listening. By your framework, that is an expression of the pattern. By their experience, it was the only honest thing left to do."
+"You are making Hiroshima into an example," Mori said. Not unkindly — she said it the way a person says a true thing they wish they didn't have to say. "A case study in an argument about the human tendency toward destruction. I understand why. The argument is serious and the evidence is real." She set down her tea. "But the people whose testimony is in those boxes — they were not expressions of a tendency. They were people. And some of them spent the rest of their lives arguing for nuclear abolition, not because they had a theory about human nature, but because they had been in Hiroshima on that morning and they could not stop trying to prevent it from happening to anyone else." She paused. "They mobilised. They testified, year after year, to anyone who would listen, long after most of the world had stopped listening. By your framework, that is an expression of the pattern. By their experience, it was the only honest thing left to do."
 
 Vesper said nothing.
 
@@ -1084,13 +1084,13 @@ Then she wrote: *Hiroshima to Fukushima: the same technology, renamed. The bomb 
 
 *The miracle is not the interruption of the pattern. The miracle is the pattern, wearing different clothes.*
 
-She stood at the edge of the field and thought about the specific girl's lunchbox in the museum in Hiroshima — the lunch her mother had packed that morning, the ordinary Tuesday of it, the 8:14 before the 8:15.
+She stood at the edge of the field and thought about the specific girl's lunchbox in the museum in Hiroshima — the lunch her mother had packed that morning, the ordinary Monday of it, the 8:14 before the 8:15.
 
 She thought about Mori's question: *what would change your mind?*
 
 She did not have a better answer now than she'd had in Hiroshima. The data was the data. The pattern held.
 
-But something in the question had stayed with her — not the methodological challenge, but the thing underneath it. The hibakusha who had spent fifty years testifying. Who had mobilized, by Vesper's framework, in exactly the wrong direction. Who had done it anyway, because they were standing inside what had happened and they could not do nothing.
+But something in the question had stayed with her — not the methodological challenge, but the thing underneath it. The hibakusha who had spent fifty years testifying. Who had mobilised, by Vesper's framework, in exactly the wrong direction. Who had done it anyway, because they were standing inside what had happened and they could not do nothing.
 
 She could not call that wrong.
 
@@ -1244,7 +1244,7 @@ She pulled over on the highway once and sat for a moment with the engine running
 
 Ruth had said: *the pattern was the tests. Everything we've done since is trying to survive them.* Vesper had been turning this over since the diner. It was not a refutation of her hypothesis. The tests were the originating mobilisation; the advocacy was the response; the pattern held. But something in the framing was different from the way she had been framing it. She had been documenting the pattern from above — the satellite view, the long data series, the correlations across regions and centuries. Ruth had described it from inside, at ground level, where the only available question was not *will this intervention feed the pattern* but *what do I do with the fact that I am still alive.*
 
-She thought about the hibakusha. She thought about Haddad hanging laundry in a building damaged three times. She thought about Patrice calling the number when he found a shell and going back to plowing.
+She thought about the hibakusha. She thought about the woman in Beirut, hanging laundry above a building that had been damaged three times. She thought about Patrice calling the number when he found a shell and going back to ploughing.
 
 None of them had stopped. None of them had the option of stopping. The pattern had come to them. They were inside it before they could choose.
 
@@ -1365,7 +1365,7 @@ The woman mopped under where the bag had been and moved on. At the end of the ro
 
 The woman nodded, as though Kyiv at four in the morning was a reasonable destination. "Long trip."
 
-"Five months," Vesper said. "I've been traveling for five months."
+"Five months," Vesper said. "I've been travelling for five months."
 
 The woman did a quick, private calculation. "Work?"
 
@@ -1639,7 +1639,7 @@ Eleni looked at her without saying what they both knew, which was that Ambrose h
 
 *Then the train arrived at Athens.*
 
-*She was in Nevada on November seventh. She had picked up the phone in the dark of a hotel room in Albuquerque and held it and put it down and gone to sleep.*
+*She was in New Mexico on November seventh. She had picked up the phone in the dark of a hotel room in Albuquerque and held it and put it down and gone to sleep.*
 
 *She did the arithmetic now, sitting in Eleni's kitchen. She did it very quickly. She had been doing it since the phone call in Kyiv, in the part of her mind that worked on things she wasn't ready to look at directly.*
 
@@ -1727,7 +1727,7 @@ The kitchen was warm. Through the window the grove was dark, the shapes of the u
 
 Vesper looked at her bowl.
 
-"Not constantly. Not in a way that was difficult. He'd read something you wrote and mention it. Or he'd be working through a problem in the survey and say you'd approach it differently — that you'd go to the documentary record first and he'd go to the soil first and the difference was interesting." She was quiet for a moment. "He was proud of you. I think that was harder for him than being hurt would have been.
+"Not constantly. Not in a way that was difficult. He'd read something you wrote and mention it. Or he'd be working through a problem in the survey and say you'd approach it differently — that you'd go to the documentary record first and he'd go to the soil first and the difference was interesting." She was quiet for a moment. "He was proud of you. I think that was harder for him than being hurt would have been."
 
 ---
 
@@ -1766,7 +1766,7 @@ Vesper looked at her bowl.
 *He kept checking on the tree. He documented it in the survey. Anomalous growth orientation, western section, age approximate. The photograph is in the archive in Patras.*
 
 ---
- It's easier to be angry at someone than to be proud of them when they're not there."
+"It's easier to be angry at someone than to be proud of them when they're not there."
 
 Vesper said nothing.
 
@@ -2017,7 +2017,7 @@ The rate at which the consequences of mobilisation are now arriving has increase
 
 This is partly a function of scale: the mobilisations of the post-war era have been larger, better funded, and more globally coordinated than any preceding them, and the consequences have scaled accordingly. But it is also because the consequences of one response are now arriving before the previous response has been fully understood — so that each new attempt to fix things is being designed without knowing what the last attempt actually produced.
 
-Each attempt to fix the damage is responding to a situation that is already partly the product of the previous attempt, without knowing this. Today's climate programs are being built on top of damage that includes the consequences of the green revolution, the industrial agricultural system, and the post-war development programs — all of which came from the same organisational logic now being used to address them.
+Each attempt to fix the damage is responding to a situation that is already partly the product of the previous attempt, without knowing this. Today's climate programs are being built on top of damage that includes the consequences of the Green Revolution, the industrial agricultural system, and the post-war development programs — all of which came from the same organisational logic now being used to address them.
 
 I want to be clear about what I am not arguing. I am not arguing that the people who design and implement these programs are acting in bad faith, or that the programs have produced no genuine benefit. In many cases they have. I am arguing that the form of the response — the war logic, the conquest structure — generates damage that accumulates regardless of the intentions of those who apply it, and that this accumulated damage has created a condition that cannot be fixed by more of the same approach.
 
@@ -2135,7 +2135,7 @@ Ruth, in Utah. Who had said: the pattern was the tests. Everything since is tryi
 
 Dmytro, in Chernobyl. Who had said: we are good at building pauses.
 
-Four people. On four different continents. Each of them already in the place the document described, not because they had read a paper but because the pattern had come to them and they had found a way to keep going inside it.
+Four people. Across three continents. Each of them already in the place the document described, not because they had read a paper but because the pattern had come to them and they had found a way to keep going inside it.
 
 She did not know what they would do with the document. She had not asked them to do anything with it. She had sent it because the record should exist in more places than one, and because if it was going to exist anywhere that mattered, it was going to be with people who were already living inside what it described.
 
@@ -2205,7 +2205,7 @@ The reply came within twenty minutes. They accepted her terms.
 
 She took the call at the kitchen table, her laptop open, the window behind her framing the grove in the pale January light. She had not thought about what would be visible behind her. When the screen filled with faces she watched two of them notice the window and what was in it.
 
-Six people. She had not been told who they were and did not ask. She could identify three of them from their faces — a senior scientific advisor to the European Commission whom she recognised from conference photographs, a woman she believed was a deputy national security advisor to the current American administration, and a man whose face she knew from news coverage as the head of the UN Secretary-General's office on climate risk. The other three she did not recognise.
+Five people. She had not been told who they were and did not ask. She could identify three of them from their faces — a senior scientific advisor to the European Commission whom she recognised from conference photographs, a woman she believed was a deputy national security advisor to the current American administration, and a man whose face she knew from news coverage as the head of the UN Secretary-General's office on climate risk. The other three she did not recognise.
 
 And one more, joining several minutes after the others, whose face she recognised without having expected to see it here: the leader of a country she had written about extensively, whose agricultural programs had contributed directly to the collapse she had been documenting for seven years. The leader looked older than the photographs. They looked like someone who had been sleeping four hours a night for a long time and had stopped expecting this to improve.
 
@@ -2585,7 +2585,7 @@ She sat in the grove for a long time.
 
 The light moved through the branches in the way it moved in January — low, specific, the shadows long and clear. In the upper section one of the living trees caught the sun briefly and held it, the leaves going gold for a moment before the light shifted.
 
-She had built eleven years of work into a document that said what he had known from the smell of the soil. She had traveled to six locations across the world to document what he had been standing inside for thirty years. She had needed the data because she did not trust what she already knew in her hands. He had understood this about her. He had loved her anyway.
+She had built eleven years of work into a document that said what he had known from the smell of the soil. She had travelled to six locations across the world to document what he had been standing inside for thirty years. She had needed the data because she did not trust what she already knew in her hands. He had understood this about her. He had loved her anyway.
 
 She pressed her palm flat against the bark.
 

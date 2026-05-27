@@ -129,7 +129,7 @@ She pulled over on the highway once and sat for a moment with the engine running
 
 Ruth had said: *the pattern was the tests. Everything we've done since is trying to survive them.* Vesper had been turning this over since the diner. It was not a refutation of her hypothesis. The tests were the originating mobilisation; the advocacy was the response; the pattern held. But something in the framing was different from the way she had been framing it. She had been documenting the pattern from above — the satellite view, the long data series, the correlations across regions and centuries. Ruth had described it from inside, at ground level, where the only available question was not *will this intervention feed the pattern* but *what do I do with the fact that I am still alive.*
 
-She thought about the hibakusha. She thought about Haddad hanging laundry in a building damaged three times. She thought about Patrice calling the number when he found a shell and going back to plowing.
+She thought about the hibakusha. She thought about the woman in Beirut, hanging laundry above a building that had been damaged three times. She thought about Patrice calling the number when he found a shell and going back to ploughing.
 
 None of them had stopped. None of them had the option of stopping. The pattern had come to them. They were inside it before they could choose.
 

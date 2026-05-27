@@ -55,7 +55,7 @@ Ruth, in Utah. Who had said: the pattern was the tests. Everything since is tryi
 
 Dmytro, in Chernobyl. Who had said: we are good at building pauses.
 
-Four people. On four different continents. Each of them already in the place the document described, not because they had read a paper but because the pattern had come to them and they had found a way to keep going inside it.
+Four people. Across three continents. Each of them already in the place the document described, not because they had read a paper but because the pattern had come to them and they had found a way to keep going inside it.
 
 She did not know what they would do with the document. She had not asked them to do anything with it. She had sent it because the record should exist in more places than one, and because if it was going to exist anywhere that mattered, it was going to be with people who were already living inside what it described.
 

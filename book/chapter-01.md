@@ -31,7 +31,7 @@ She highlighted the word *manageable* and moved on.
 
 ---
 
-Her phone buzzed at half eleven. An unrecognized number, Peloponnese area code.
+Her phone buzzed at half eleven. An unrecognised number, Peloponnese area code.
 
 She set the phone face-down and finished the paragraph she was reading. It buzzed again. Same number.
 
@@ -83,7 +83,7 @@ She did not call Elathon back that afternoon.
 
 At six she closed the archive documents and walked to the tram stop in the early dark. The city was louder at this hour — offices emptying, restaurants starting, the particular energy of Thessaloniki coming alive in the way of cities that have always preferred night to day.
 
-On the tram she checked her phone. Three more missed calls, all Peloponnese numbers she didn't recognize. A text from her cousin: *have you heard about the grove?*
+On the tram she checked her phone. Three more missed calls, all Peloponnese numbers she didn't recognise. A text from her cousin: *have you heard about the grove?*
 
 She would reply tomorrow. She would pull the relevant records first, so she had something useful to say. Something measured and sourced and correct.
 

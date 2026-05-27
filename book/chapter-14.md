@@ -15,7 +15,7 @@ The reply came within twenty minutes. They accepted her terms.
 
 She took the call at the kitchen table, her laptop open, the window behind her framing the grove in the pale January light. She had not thought about what would be visible behind her. When the screen filled with faces she watched two of them notice the window and what was in it.
 
-Six people. She had not been told who they were and did not ask. She could identify three of them from their faces — a senior scientific advisor to the European Commission whom she recognised from conference photographs, a woman she believed was a deputy national security advisor to the current American administration, and a man whose face she knew from news coverage as the head of the UN Secretary-General's office on climate risk. The other three she did not recognise.
+Five people. She had not been told who they were and did not ask. She could identify three of them from their faces — a senior scientific advisor to the European Commission whom she recognised from conference photographs, a woman she believed was a deputy national security advisor to the current American administration, and a man whose face she knew from news coverage as the head of the UN Secretary-General's office on climate risk. The other three she did not recognise.
 
 And one more, joining several minutes after the others, whose face she recognised without having expected to see it here: the leader of a country she had written about extensively, whose agricultural programs had contributed directly to the collapse she had been documenting for seven years. The leader looked older than the photographs. They looked like someone who had been sleeping four hours a night for a long time and had stopped expecting this to improve.
 

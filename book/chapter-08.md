@@ -63,11 +63,11 @@ She was a small woman in her early sixties, with the quiet manner of someone who
 
 "Yes."
 
-"You use it as evidence that industrial mobilization generates health consequences that require a remediation mobilization, which generates its own consequences." She looked at Vesper. "I want to tell you what I thought when I read that."
+"You use it as evidence that industrial mobilisation generates health consequences that require a remediation mobilisation, which generates its own consequences." She looked at Vesper. "I want to tell you what I thought when I read that."
 
 "Please."
 
-"I thought: she is right, and she has no idea how right she is, and she is about to walk into the place where rightness stops being enough." She paused. "I also thought you might be using Minamata the same way the Solidere board used your colleague's phrase. Taking something true and putting it in service of a larger argument in a way that is technically accurate but — not quite honest to what the thing was." She picked up her tea. "The Minamata patients spent thirty years suing Chisso Corporation. The compensation was inadequate and late and contested every step. By your framework, that thirty years of legal mobilization was an expression of the pattern. By their experience, it was the only thing that kept them from being forgotten entirely."
+"I thought: she is right, and she has no idea how right she is, and she is about to walk into the place where rightness stops being enough." She paused. "I also thought you might be using Minamata the same way the Solidere board used your colleague's phrase. Taking something true and putting it in service of a larger argument in a way that is technically accurate but — not quite honest to what the thing was." She picked up her tea. "The Minamata patients spent thirty years suing Chisso Corporation. The compensation was inadequate and late and contested every step. By your framework, that thirty years of legal mobilisation was an expression of the pattern. By their experience, it was the only thing that kept them from being forgotten entirely."
 
 Vesper didn't answer immediately.
 
@@ -75,7 +75,7 @@ Vesper didn't answer immediately.
 
 Vesper thought about it honestly.
 
-"If the data showed — across enough cases, with the alternative explanations accounted for — that a sustained mobilization had resolved the conditions that generated it, without producing a larger problem in response."
+"If the data showed — across enough cases, with the alternative explanations accounted for — that a sustained mobilisation had resolved the conditions that generated it, without producing a larger problem in response."
 
 "And has any evidence moved you in that direction?"
 
@@ -91,7 +91,7 @@ The room was quiet. Rain against the window.
 
 Vesper didn't answer. The honest answer was both. The more honest answer was that she could no longer tell the difference.
 
-"You are making Hiroshima into an example," Mori said. Not unkindly — she said it the way a person says a true thing they wish they didn't have to say. "A case study in an argument about the human tendency toward destruction. I understand why. The argument is serious and the evidence is real." She set down her tea. "But the people whose testimony is in those boxes — they were not expressions of a tendency. They were people. And some of them spent the rest of their lives arguing for nuclear abolition, not because they had a theory about human nature, but because they had been in Hiroshima on that morning and they could not stop trying to prevent it from happening to anyone else." She paused. "They mobilized. They testified, year after year, to anyone who would listen, long after most of the world had stopped listening. By your framework, that is an expression of the pattern. By their experience, it was the only honest thing left to do."
+"You are making Hiroshima into an example," Mori said. Not unkindly — she said it the way a person says a true thing they wish they didn't have to say. "A case study in an argument about the human tendency toward destruction. I understand why. The argument is serious and the evidence is real." She set down her tea. "But the people whose testimony is in those boxes — they were not expressions of a tendency. They were people. And some of them spent the rest of their lives arguing for nuclear abolition, not because they had a theory about human nature, but because they had been in Hiroshima on that morning and they could not stop trying to prevent it from happening to anyone else." She paused. "They mobilised. They testified, year after year, to anyone who would listen, long after most of the world had stopped listening. By your framework, that is an expression of the pattern. By their experience, it was the only honest thing left to do."
 
 Vesper said nothing.
 
@@ -139,13 +139,13 @@ Then she wrote: *Hiroshima to Fukushima: the same technology, renamed. The bomb 
 
 *The miracle is not the interruption of the pattern. The miracle is the pattern, wearing different clothes.*
 
-She stood at the edge of the field and thought about the specific girl's lunchbox in the museum in Hiroshima — the lunch her mother had packed that morning, the ordinary Tuesday of it, the 8:14 before the 8:15.
+She stood at the edge of the field and thought about the specific girl's lunchbox in the museum in Hiroshima — the lunch her mother had packed that morning, the ordinary Monday of it, the 8:14 before the 8:15.
 
 She thought about Mori's question: *what would change your mind?*
 
 She did not have a better answer now than she'd had in Hiroshima. The data was the data. The pattern held.
 
-But something in the question had stayed with her — not the methodological challenge, but the thing underneath it. The hibakusha who had spent fifty years testifying. Who had mobilized, by Vesper's framework, in exactly the wrong direction. Who had done it anyway, because they were standing inside what had happened and they could not do nothing.
+But something in the question had stayed with her — not the methodological challenge, but the thing underneath it. The hibakusha who had spent fifty years testifying. Who had mobilised, by Vesper's framework, in exactly the wrong direction. Who had done it anyway, because they were standing inside what had happened and they could not do nothing.
 
 She could not call that wrong.
 

@@ -112,8 +112,8 @@ KDP accepts .docx directly. To convert from the compiled markdown:
 3. In the Word document, set:
    - Body font: Garamond or Georgia, 11pt
    - Line spacing: 1.15
-   - Chapter headings: centered, 14pt
-   - Section breaks (---): centered ornament or just space
+   - Chapter headings: centred, 14pt
+   - Section breaks (---): centred ornament or just space
    - Italics (flashback sections): already marked with * in the markdown, will convert automatically
 4. Upload the .docx to KDP
 

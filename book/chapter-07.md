@@ -83,7 +83,7 @@ Brandt nodded once, as though this confirmed her working theory. "I've read both
 
 "In what way?"
 
-"In the most basic way. You're arguing that every major mobilization generates consequences that require a larger one to contain. The EU is the counter-example." She said it directly, without apology. "We have not had a war between European member states since 1945. The longest peace in the history of this continent. If the mobilization of the EU were feeding a larger conflict, where is it?"
+"In the most basic way. You're arguing that every major mobilisation generates consequences that require a larger one to contain. The EU is the counter-example." She said it directly, without apology. "We have not had a war between European member states since 1945. The longest peace in the history of this continent. If the mobilisation of the EU were feeding a larger conflict, where is it?"
 
 "Inside the institution," Vesper said. "Hungary and Poland. The austerity period — Greece, Portugal, Spain, countries whose ability to control their own economies was effectively suspended by Brussels on German economic principles. The migration crisis and the nationalism it produced. Brexit." She paused. "The EU exported the conflict to its periphery and called it peace at the centre."
 
@@ -129,7 +129,7 @@ Brandt looked at her with something that might have been respect, or might have 
 
 That evening Vesper sat in a bar near the East Side Gallery and wrote for a long time.
 
-She wrote the connection she had been avoiding since the Free University: the EU programs that had accelerated the Peloponnese collapse were not a mistake in the framework. They were the framework doing exactly what the framework did — mobilizing resources at scale toward a defined objective, generating consequences that the framework was not designed to see, because seeing them would require questioning the framework's premise.
+She wrote the connection she had been avoiding since the Free University: the EU programs that had accelerated the Peloponnese collapse were not a mistake in the framework. They were the framework doing exactly what the framework did — mobilising resources at scale toward a defined objective, generating consequences that the framework was not designed to see, because seeing them would require questioning the framework's premise.
 
 Brandt had told her, with complete honesty, why the institution could not acknowledge what she had found. And in doing so had shown her exactly what she was looking at: the institution protecting its own logic with the same mechanism it had been built to stop.
 
