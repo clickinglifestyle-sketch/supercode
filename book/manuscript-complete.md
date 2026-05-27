@@ -255,6 +255,8 @@ She looked at it and felt the specific feeling she always felt arriving somewher
 
 She did not think about what she was flying away from. She had become very good at that.
 
+Three weeks. Then France. Then Berlin, if the Beirut data pointed where she thought it would. The fifth section was the one that needed the most ground beneath it. She was assembling the ground.
+
 
 # THE INTERVAL
 ## Chapter Four
@@ -263,7 +265,7 @@ The driver from the university met her at arrivals holding a sign with her name 
 
 She looked out the window.
 
-She had read about Beirut for nine days. She had studied maps, satellite images, reconstruction surveys, urban planning documents. She had built a mental model of the city that was accurate in its facts and entirely unprepared for the specific quality of the light on a damaged building at four in the afternoon, the way a bullet-scarred wall sat next to a glass-fronted restaurant as though this were a normal adjacency, the generator cables strung between buildings like a second infrastructure laid over the first.
+She had read about Beirut for nine days. She had studied maps, satellite images, reconstruction surveys, urban planning documents. She was here because the fifth section of the eleven pages needed cases that showed the pattern across different contexts, different scales — and Lebanon's reconstruction cycles were the case she had been missing. Four wars, four rebuildings, each one documented, each one producing the same result at depth. She had built a mental model of the city that was accurate in its facts and entirely unprepared for the specific quality of the light on a damaged building at four in the afternoon, the way a bullet-scarred wall sat next to a glass-fronted restaurant as though this were a normal adjacency, the generator cables strung between buildings like a second infrastructure laid over the first.
 
 The city did not look like her research. It looked like her research had been translated into something living and loud and indifferent to being studied.
 
@@ -417,7 +419,7 @@ She opened the laptop and added one more line:
 
 *The interval is not a pause in the pattern. The interval is where everything actually happens.*
 
-Then she closed it again and went to sleep.
+Then she closed it again and went to sleep. In two weeks she would be in France. The Somme. If the field evidence held the way the archive suggested it would, she would have what the fifth section needed.
 
 
 # THE INTERVAL
@@ -481,7 +483,7 @@ Maes was quiet for a moment. He was actually thinking about it, which was more t
 
 He acknowledged two of her responses. He re-stated the third objection in different language.
 
-The meeting moved on.
+The meeting moved on. She understood, listening to it continue, that the objection would not be resolved in this room. It would never be resolved in a room. The data needed to be published. Not presented to working groups, not circulated to consortium researchers — published, in a journal where it could not be rerouted into a funding presentation, where it would exist in the record regardless of what the working groups decided next. Each room she sat in confirmed this. There were no more rooms to try.
 
 ---
 
@@ -559,7 +561,7 @@ That night she opened the eleven pages and read them through from the beginning 
 
 *I do not yet know what it stops for. But I know it is not this.*
 
-She didn't close the document. She sat with it open, the cursor blinking at the end of the last line, and outside the window Beirut went on doing what Beirut did — building and burning and blooming in the rubble, entirely indifferent to being understood.
+She didn't close the document. She sat with it open, the cursor blinking at the end of the last line, and outside the window Beirut went on doing what Beirut did — building and burning and blooming in the rubble, entirely indifferent to being understood. She had her flight to Paris in four days. After France, Berlin. She was assembling the last pieces. The fifth section was almost within reach.
 
 
 # THE INTERVAL
@@ -784,6 +786,8 @@ She closed the page.
 
 She put the phone face-down on the desk and went back to the eleven pages and kept writing, and outside the window the Somme plain was dark and flat and enormously quiet, the way land is quiet when what happened to it is too large for the landscape to describe.
 
+She had a flight to Berlin in three days. After Berlin: Japan. After Japan, she would know whether the fifth section could be finished. She was close enough now to feel the shape of what it needed to say.
+
 
 # THE INTERVAL
 ## Chapter Seven
@@ -902,7 +906,7 @@ She had heard this argument before — not this version, but the structure. The 
 
 She had the response ready. She had given it many times, in many rooms.
 
-She didn't give it.
+She didn't give it. She thought instead: the warning was another reason to finish quickly. Whatever the consequences of publication, suppression was worse. The fifth section needed to be written before the people who would prefer it wasn't got organised enough to make it matter.
 
 She sat with what Brandt had said — the weight of it, which was not entirely wrong. The nationalist movements. The dismantlers. The people who would read her work looking not for understanding but for ammunition.
 
@@ -936,7 +940,7 @@ Somewhere underneath the soil of the Peloponnese: the contamination.
 
 Somewhere in her laptop, unsent, the eleven pages getting longer.
 
-She ordered another drink. She did not open her phone. She did not go to the Elathon community page. She told herself it was because she was working.
+She ordered another drink. She did not open her phone. She did not go to the Elathon community page. She told herself it was because she was working. She was working. She had a flight to Hiroshima in the morning and the fifth section was waiting, and she was running out of cases and out of reasons to delay.
 
 
 # THE INTERVAL
@@ -1101,6 +1105,8 @@ Four words. Forty-seven likes.
 She stood among the black bags in the pale Fukushima afternoon and looked at the photograph of the trees she had grown up beneath and had not returned to in eleven years and the word she had been not-using for a long time came up directly: *Ambrose.*
 
 She closed the page.
+
+There was still time. The upper grove was still holding, according to the last reports — the edge trees, the old ones. She would go when the document was finished. The document was almost finished. Nevada, then home. She would be there before winter properly set in.
 
 She got back in the car.
 
@@ -1270,6 +1276,8 @@ She thought about what Mori had said in Hiroshima: *it cannot tell you what a pe
 
 She was not standing inside it. She was driving through it in a rental car with a notebook, on her way to Chernobyl, assembling the evidence for something she had already concluded seven years ago.
 
+She knew now what the fifth section needed to say. She had known since the diner. Ruth had given her the line: *the pattern was the tests. Everything since is trying to survive them.* The section was not about the data. It was about what the data couldn't reach. She needed to write it. She would write it after Chernobyl.
+
 She picked up the phone.
 
 She held it.
@@ -1339,7 +1347,7 @@ She opened the eleven pages to the final section.
 
 She had written this section last. She had known, writing it, that this was the part that would end her relationship with the journals — an environmental scientist arguing that the planet was responding, that there was something in the data consistent with a living system pushing back against a specific pressure. Not a claim about intention. Just about pattern. But it was one thing to document a human pattern across four centuries and another to say the pattern had a partner, something on the other side of it, something vastly larger and older.
 
-She was right. She was almost certain she was right.
+She was right. She was almost certain she was right. And when it was published — when it was out, in the record, where it could be read and cited and responded to — it would change something. She believed that. It had to change something. You did not spend seven years on a thing that changed nothing.
 
 She was also alone in an airport at four in the morning, connecting to Warsaw, on her way to a forest inside a nuclear exclusion zone, and she had not spoken to anyone — not one person, in five months — about the thing she was most certain of.
 
@@ -1394,6 +1402,8 @@ She took out her phone.
 She had texted Eleni from the Newark departure lounge, a week ago, before she knew she was going to. *I'm connecting in Amsterdam and then heading east. I think I'm nearly done. I'm not sure of the exact day. I wanted you to know I'm coming.* Eleni had replied within minutes: *The tea will be ready.*
 
 She read that exchange again. Then she put her phone away.
+
+She thought about Elathon. The upper grove, the edge trees, still holding in the last photographs she had seen. There was still time. She would be home in two weeks. Finish Chernobyl, write the last section on the flight out, submit from Thessaloniki before she got on the train south. The document would already be moving through the system by the time she arrived. She would get there before winter properly closed in.
 
 She went back to the eleven pages and kept reading. Around her the terminal was still and quiet, the cleaning woman's machine moving down a distant corridor now, the gate agent stretching at his desk, the woman four seats away with her eyes closed.
 
@@ -1568,6 +1578,8 @@ The silence lasted long enough that she already knew the shape of what was in it
 She booked the flight after she hung up. Thessaloniki first, for one night, to collect what she needed. Then the train south.
 
 She had been away for five months. The olive trees were dying. The eleven pages were finished.
+
+She sat with that for a moment. The document was done. The race she had been running — the one she had not quite named to herself as a race — was over. She could go home now. She had always been going home. The document was just the reason she had given herself for not going sooner.
 
 She turned out the light and lay in the dark in Kyiv and did not sleep for a long time, and outside the window the city went on being itself — rebuilt, contested, besieged in its own way, full of people who had not left when they could have and had not been able to say clearly why, except that it was home and you could only decide to come home once.
 
@@ -1893,6 +1905,8 @@ The ground under the trees was the ground of her childhood. The particular quali
 She walked to the oldest tree in the upper grove. It had been old when her grandmother was young, old when her grandmother's grandmother was young, the trunk so thick and ridged it looked like it had been wrung by hand over centuries, the wood grey and dense and entirely patient.
 
 She put her hand on it.
+
+She stood there and waited for the urgency she had been carrying for five months — for longer than that, if she was honest, for years — and it was not there. She did not know what to do with its absence. She was not sure she had ever felt this before: still, with nothing to move toward. She stayed with her hand on the bark and tried to learn what that was.
 
 ---
 
