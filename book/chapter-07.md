@@ -55,7 +55,7 @@ She kept moving. Someone from the other group also noticed her, read her differe
 
 She reached the building entrance. A security guard held the door. She went in.
 
-In the lobby she stood for a moment. Her heart was going faster than the situation warranted — she was a historian in a city with a street protest, nothing had touched her, nothing had come close. But she could still hear them through the glass, both sides simultaneously, and she understood that she had just walked through the thing Brandt was going to describe to her as a theoretical risk. The people who would take her findings and use them for purposes she had not intended were thirty metres away, and so were the people who wanted her to validate everything she was about to tell Brandt she could not validate.
+In the lobby she stood for a moment. Her heart was going faster than the situation warranted — she was a scientist in a city with a street protest, nothing had touched her, nothing had come close. But she could still hear them through the glass, both sides simultaneously, and she understood that she had just walked through the thing Brandt was going to describe to her as a theoretical risk. The people who would take her findings and use them for purposes she had not intended were thirty metres away, and so were the people who wanted her to validate everything she was about to tell Brandt she could not validate.
 
 Both groups wanted her for their argument.
 
@@ -77,7 +77,7 @@ She poured tea without asking. She put the cups down. She sat.
 
 "And you are neither."
 
-"I'm a historian."
+"I'm a scientist."
 
 Brandt nodded once, as though this confirmed her working theory. "I've read both volumes. I want to say that before I tell you where I think you're wrong, because I want you to know that the criticism comes from having read the work, not from having glanced at the abstract." She picked up her tea. "Your agricultural data is the strongest part. I won't dispute the pattern there. But when you extend it to the European project as a whole — that's where the argument overreaches."
 

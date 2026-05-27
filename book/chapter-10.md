@@ -25,7 +25,7 @@ Dmytro had warned her by text the night before but she had not fully understood 
 
 Her credentials were examined by three different people over the course of an hour and a half. Dmytro waited beside her, unhurried, translating when necessary. At one point a soldier asked her, through Dmytro, why she needed access.
 
-"I'm an environmental historian," she said. "I'm documenting the long-term ecological consequences of—"
+"I'm an environmental scientist," she said. "I'm documenting the long-term ecological consequences of—"
 
 Dmytro translated. A silence. The soldier asked a follow-up question.
 

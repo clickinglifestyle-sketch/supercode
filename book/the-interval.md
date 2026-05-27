@@ -24,7 +24,7 @@ The book is about what happens when she finally arrives.
 
 ## THE PREMISE
 
-Vesper is an environmental historian — more precisely, a historian of human intervention and its consequences. Her controversial work traces a pattern across centuries: every major mobilization of human effort, regardless of its stated purpose, generates consequences that exceed the original problem and require a larger mobilization in response. She has documented this in agricultural policy, in warfare, in economic systems, in political movements. The pattern holds everywhere she looks.
+Vesper is an environmental scientist — more precisely, a scientist of human intervention and its consequences. Her controversial work traces a pattern across centuries: every major mobilization of human effort, regardless of its stated purpose, generates consequences that exceed the original problem and require a larger mobilization in response. She has documented this in agricultural policy, in warfare, in economic systems, in political movements. The pattern holds everywhere she looks.
 
 She has eleven pages she has never sent to anyone. They say the thing she has not yet found a way to say out loud: that the pattern is not in the content of the crises. It is in the human response to crisis itself. The origin is the propensity for war — and that propensity never went anywhere.
 
@@ -58,7 +58,7 @@ She cannot demonstrate her hypothesis by arguing for it. The only demonstration 
 
 ## THE STRUCTURE
 
-The book is mobile. Vesper travels — not as a journalist, but as a historian following the pattern across its different expressions. Each location gives her a piece of the answer she has been circling for seven years. The world gets larger and more devastating as the book progresses. She is still observing, still at a distance, still the woman who understands everything and arrives at nothing.
+The book is mobile. Vesper travels — not as a journalist, but as a scientist following the pattern across its different expressions. Each location gives her a piece of the answer she has been circling for seven years. The world gets larger and more devastating as the book progresses. She is still observing, still at a distance, still the woman who understands everything and arrives at nothing.
 
 Until Elathon.
 
@@ -94,7 +94,7 @@ It is not enough to fix anything. It is not nothing.
 
 ## VESPER
 
-**Who she is:** An environmental historian in her late thirties, based at Aristotle University in Thessaloniki. More precisely: a historian of human intervention and its consequences. She has spent her career documenting what happens after people try to fix things.
+**Who she is:** An environmental scientist in her late thirties, based at Aristotle University in Thessaloniki. More precisely: a scientist of human intervention and its consequences. She has spent her career documenting what happens after people try to fix things.
 
 **Her reputation:** Controversial. She published work correlating EU agricultural development programs directly with ecological collapse in the Peloponnese. The data was not disputed. The conclusion — that the programs themselves caused the damage — was politically and institutionally unacceptable. She was pushed out of her position in Athens. She continues the work from Thessaloniki in a diminished role.
 
@@ -132,7 +132,7 @@ It is not enough to fix anything. It is not nothing.
 
 ## THE CHARACTERS
 
-**Vesper** — historian, the observer who must learn to arrive
+**Vesper** — scientist, the observer who must learn to arrive
 
 **Ambrose** — the man she failed to love in time. Dead before she returns. Named for immortality. Gone. Needs fuller characterization before his absence can land as a gut punch.
 

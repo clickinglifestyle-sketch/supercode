@@ -13,7 +13,7 @@ She opened the eleven pages to the final section.
 
 *What the Data Cannot Say.*
 
-She had written this section last. She had known, writing it, that this was the part that would end her relationship with the journals — an environmental historian arguing that the planet was responding, that there was something in the data consistent with a living system pushing back against a specific pressure. Not a claim about intention. Just about pattern. But it was one thing to document a human pattern across four centuries and another to say the pattern had a partner, something on the other side of it, something vastly larger and older.
+She had written this section last. She had known, writing it, that this was the part that would end her relationship with the journals — an environmental scientist arguing that the planet was responding, that there was something in the data consistent with a living system pushing back against a specific pressure. Not a claim about intention. Just about pattern. But it was one thing to document a human pattern across four centuries and another to say the pattern had a partner, something on the other side of it, something vastly larger and older.
 
 She was right. She was almost certain she was right.
 
@@ -37,7 +37,7 @@ The woman nodded, as though Kyiv at four in the morning was a reasonable destina
 
 The woman did a quick, private calculation. "Work?"
 
-"Research. Environmental history."
+"Research. Environmental sciences."
 
 She looked at the laptop. At the eleven pages on the screen.
 

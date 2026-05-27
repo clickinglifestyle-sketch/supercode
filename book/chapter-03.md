@@ -19,9 +19,9 @@ Dr. Nadia Haddad, coordinating researcher at the American University of Beirut, 
 
 She had read Vesper's published work. Both volumes. She had read the responses to it and found them, she said, methodologically weaker than the work they were responding to.
 
-She was inviting Vesper to spend three weeks in Beirut as a consulting historian on the project. The consortium would cover travel and accommodation. The work would involve archival access, site visits, and a series of recorded interviews with urban planners, environmental scientists, and community representatives who had been present across multiple cycles of destruction and reconstruction.
+She was inviting Vesper to spend three weeks in Beirut as a consulting researcher on the project. The consortium would cover travel and accommodation. The work would involve archival access, site visits, and a series of recorded interviews with urban planners, environmental scientists, and community representatives who had been present across multiple cycles of destruction and reconstruction.
 
-*I think you will find,* Dr. Haddad wrote, *that Beirut is the most complete record available of the phenomenon you have been documenting. Everything you have argued from agricultural data and regional surveys is visible here in the built environment, in living memory, in the landscape. I have been trying to find the right historian for this project for two years. I believe you are that historian.*
+*I think you will find,* Dr. Haddad wrote, *that Beirut is the most complete record available of the phenomenon you have been documenting. Everything you have argued from agricultural data and regional surveys is visible here in the built environment, in living memory, in the landscape. I have been trying to find the right researcher for this project for two years. I believe you are that researcher.*
 
 Vesper read the email twice. Then she opened a new tab and looked at the satellite map of the Peloponnese for a moment — the grey spreading from the center of the affected zone, the upper groves still green at the edges, the village of Elathon visible as a cluster of rooftops at the end of a road that wound up from the valley floor.
 

@@ -5,7 +5,7 @@
 
 ## THE BOOK IN ONE SENTENCE
 
-A literary novel about an environmental historian who has spent eleven years documenting the end of the world, and who finally comes home to a dying olive grove in Greece.
+A literary novel about an environmental scientist who has spent eleven years documenting the end of the world, and who finally comes home to a dying olive grove in Greece.
 
 ---
 
@@ -93,7 +93,7 @@ Small, readable, same font as cover. Left-to-right reading when book is lying fl
 
 ## BACK COVER TEXT (paperback and hardcover)
 
-> *For eleven years, environmental historian Vesper has been building the same argument: that every human effort to contain a catastrophe generates a larger catastrophe in response, and that this pattern is not a flaw in our institutions but the oldest feature of our species.*
+> *For eleven years, environmental scientist Vesper has been building the same argument: that every human effort to contain a catastrophe generates a larger catastrophe in response, and that this pattern is not a flaw in our institutions but the oldest feature of our species.*
 >
 > *Now she is going home.*
 

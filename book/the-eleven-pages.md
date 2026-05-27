@@ -7,7 +7,7 @@
 ### A Working Document
 
 *V. ——*
-*Department of Environmental History, Aristotle University of Thessaloniki*
+*Department of Environmental Sciences, Aristotle University of Thessaloniki*
 *Seventh revision. Not yet submitted.*
 
 ---
@@ -114,4 +114,4 @@ It is where I am going.
 
 *V. ——*
 *Thessaloniki, December*
-*Submitted to the Journal of Environmental History*
+*Submitted to the Journal of Environmental Science*

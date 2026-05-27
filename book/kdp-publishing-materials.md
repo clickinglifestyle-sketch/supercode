@@ -5,7 +5,7 @@
 
 ## AMAZON BOOK DESCRIPTION
 
-For eleven years, environmental historian Vesper has been building the same argument: that every human effort to contain a catastrophe generates a larger catastrophe in response, and that this pattern is not a flaw in our institutions but the oldest feature of our species.
+For eleven years, environmental scientist Vesper has been building the same argument: that every human effort to contain a catastrophe generates a larger catastrophe in response, and that this pattern is not a flaw in our institutions but the oldest feature of our species.
 
 Now the argument is finished. The eleven pages — a document too complete to ignore and too dangerous to publish — have been sent to a journal in London. And Vesper is on a train going south, back to the village she left twenty-two years ago: to a grove of olive trees dying from the same programs she spent her career studying, to the woman who kept the house lit while she was gone, and to the work of a man who stayed when she couldn't.
 

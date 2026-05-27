@@ -197,9 +197,9 @@ Dr. Nadia Haddad, coordinating researcher at the American University of Beirut, 
 
 She had read Vesper's published work. Both volumes. She had read the responses to it and found them, she said, methodologically weaker than the work they were responding to.
 
-She was inviting Vesper to spend three weeks in Beirut as a consulting historian on the project. The consortium would cover travel and accommodation. The work would involve archival access, site visits, and a series of recorded interviews with urban planners, environmental scientists, and community representatives who had been present across multiple cycles of destruction and reconstruction.
+She was inviting Vesper to spend three weeks in Beirut as a consulting researcher on the project. The consortium would cover travel and accommodation. The work would involve archival access, site visits, and a series of recorded interviews with urban planners, environmental scientists, and community representatives who had been present across multiple cycles of destruction and reconstruction.
 
-*I think you will find,* Dr. Haddad wrote, *that Beirut is the most complete record available of the phenomenon you have been documenting. Everything you have argued from agricultural data and regional surveys is visible here in the built environment, in living memory, in the landscape. I have been trying to find the right historian for this project for two years. I believe you are that historian.*
+*I think you will find,* Dr. Haddad wrote, *that Beirut is the most complete record available of the phenomenon you have been documenting. Everything you have argued from agricultural data and regional surveys is visible here in the built environment, in living memory, in the landscape. I have been trying to find the right researcher for this project for two years. I believe you are that researcher.*
 
 Vesper read the email twice. Then she opened a new tab and looked at the satellite map of the Peloponnese for a moment — the grey spreading from the center of the affected zone, the upper groves still green at the edges, the village of Elathon visible as a cluster of rooftops at the end of a road that wound up from the valley floor.
 
@@ -599,7 +599,7 @@ The farmer standing nearest to her rental car was a woman in her forties, arms c
 
 Vesper introduced herself in her halting French. The woman looked at her for a moment, then switched to English.
 
-"Agricultural historian," she repeated. "You study what's happened to the land."
+"Environmental scientist," she repeated. "You study what's happened to the land."
 
 "And the policies. The EU programs, what they did to soil chemistry over decades—"
 
@@ -838,7 +838,7 @@ She kept moving. Someone from the other group also noticed her, read her differe
 
 She reached the building entrance. A security guard held the door. She went in.
 
-In the lobby she stood for a moment. Her heart was going faster than the situation warranted — she was a historian in a city with a street protest, nothing had touched her, nothing had come close. But she could still hear them through the glass, both sides simultaneously, and she understood that she had just walked through the thing Brandt was going to describe to her as a theoretical risk. The people who would take her findings and use them for purposes she had not intended were thirty metres away, and so were the people who wanted her to validate everything she was about to tell Brandt she could not validate.
+In the lobby she stood for a moment. Her heart was going faster than the situation warranted — she was a scientist in a city with a street protest, nothing had touched her, nothing had come close. But she could still hear them through the glass, both sides simultaneously, and she understood that she had just walked through the thing Brandt was going to describe to her as a theoretical risk. The people who would take her findings and use them for purposes she had not intended were thirty metres away, and so were the people who wanted her to validate everything she was about to tell Brandt she could not validate.
 
 Both groups wanted her for their argument.
 
@@ -860,7 +860,7 @@ She poured tea without asking. She put the cups down. She sat.
 
 "And you are neither."
 
-"I'm a historian."
+"I'm a scientist."
 
 Brandt nodded once, as though this confirmed her working theory. "I've read both volumes. I want to say that before I tell you where I think you're wrong, because I want you to know that the criticism comes from having read the work, not from having glanced at the abstract." She picked up her tea. "Your agricultural data is the strongest part. I won't dispute the pattern there. But when you extend it to the European project as a whole — that's where the argument overreaches."
 
@@ -958,7 +958,7 @@ What you choose to keep and what you choose to rebuild. The choices are always m
 
 She spent four hours in the Peace Memorial Museum.
 
-She had prepared herself — she was a historian, she had read the records, she knew what the museum contained. The preparation did not help. The testimony of the hibakusha, the medical documentation, the personal effects — a child's lunchbox, a girl's school uniform, a watch stopped at 8:15 — were not data in the way she used data. They were specific. Each one was irreducibly itself.
+She had prepared herself — she was a scientist, she had read everything available, she knew what the museum contained. The preparation did not help. The testimony of the hibakusha, the medical documentation, the personal effects — a child's lunchbox, a girl's school uniform, a watch stopped at 8:15 — were not data in the way she used data. They were specific. Each one was irreducibly itself.
 
 She took almost no notes.
 
@@ -1044,7 +1044,7 @@ She was on the main street when a man came out of what had been a hardware store
 
 "Journalist?" he said.
 
-"Researcher. Environmental historian."
+"Researcher. Environmental scientist."
 
 He set the box down on the pavement. He did not look angry. He looked like someone who had used up most of his anger over the past several years and was now operating on something quieter and more durable.
 
@@ -1333,7 +1333,7 @@ She opened the eleven pages to the final section.
 
 *What the Data Cannot Say.*
 
-She had written this section last. She had known, writing it, that this was the part that would end her relationship with the journals — an environmental historian arguing that the planet was responding, that there was something in the data consistent with a living system pushing back against a specific pressure. Not a claim about intention. Just about pattern. But it was one thing to document a human pattern across four centuries and another to say the pattern had a partner, something on the other side of it, something vastly larger and older.
+She had written this section last. She had known, writing it, that this was the part that would end her relationship with the journals — an environmental scientist arguing that the planet was responding, that there was something in the data consistent with a living system pushing back against a specific pressure. Not a claim about intention. Just about pattern. But it was one thing to document a human pattern across four centuries and another to say the pattern had a partner, something on the other side of it, something vastly larger and older.
 
 She was right. She was almost certain she was right.
 
@@ -1425,7 +1425,7 @@ Dmytro had warned her by text the night before but she had not fully understood 
 
 Her credentials were examined by three different people over the course of an hour and a half. Dmytro waited beside her, unhurried, translating when necessary. At one point a soldier asked her, through Dmytro, why she needed access.
 
-"I'm an environmental historian," she said. "I'm documenting the long-term ecological consequences of—"
+"I'm an environmental scientist," she said. "I'm documenting the long-term ecological consequences of—"
 
 Dmytro translated. A silence. The soldier asked a follow-up question.
 
@@ -2391,7 +2391,7 @@ She could not accept the position. Not because she lacked the will to do somethi
 
 What she could offer was this: she would continue. She would keep writing. She would speak to anyone who wanted to hear what the data showed. She would name the pattern wherever she saw it — in the programs they built, in the responses they designed, in herself. She would not manage the response. She would not direct the resources. She would not hold the position.
 
-She would remain who she was. A historian in a village in the Peloponnese, with her hand on the oldest tree, telling the truth about what she had found. This was not leadership in any sense they could institutionalise or fund or deploy. It was the only thing she could honestly offer that was not another expression of what she had documented.
+She would remain who she was. A scientist in a village in the Peloponnese, with her hand on the oldest tree, telling the truth about what she had found. This was not leadership in any sense they could institutionalise or fund or deploy. It was the only thing she could honestly offer that was not another expression of what she had documented.
 
 *The two to three billion are still coming,* she wrote. *I know this. I am not pretending that what I am offering changes that number. It does not. There is no honest version of this conversation in which I tell you that refusing the position will save two billion lives.*
 

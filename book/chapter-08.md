@@ -21,7 +21,7 @@ What you choose to keep and what you choose to rebuild. The choices are always m
 
 She spent four hours in the Peace Memorial Museum.
 
-She had prepared herself — she was a historian, she had read the records, she knew what the museum contained. The preparation did not help. The testimony of the hibakusha, the medical documentation, the personal effects — a child's lunchbox, a girl's school uniform, a watch stopped at 8:15 — were not data in the way she used data. They were specific. Each one was irreducibly itself.
+She had prepared herself — she was a scientist, she had read everything available, she knew what the museum contained. The preparation did not help. The testimony of the hibakusha, the medical documentation, the personal effects — a child's lunchbox, a girl's school uniform, a watch stopped at 8:15 — were not data in the way she used data. They were specific. Each one was irreducibly itself.
 
 She took almost no notes.
 
@@ -107,7 +107,7 @@ She was on the main street when a man came out of what had been a hardware store
 
 "Journalist?" he said.
 
-"Researcher. Environmental historian."
+"Researcher. Environmental scientist."
 
 He set the box down on the pavement. He did not look angry. He looked like someone who had used up most of his anger over the past several years and was now operating on something quieter and more durable.
 

@@ -39,7 +39,7 @@ The farmer standing nearest to her rental car was a woman in her forties, arms c
 
 Vesper introduced herself in her halting French. The woman looked at her for a moment, then switched to English.
 
-"Agricultural historian," she repeated. "You study what's happened to the land."
+"Environmental scientist," she repeated. "You study what's happened to the land."
 
 "And the policies. The EU programs, what they did to soil chemistry over decades—"
 

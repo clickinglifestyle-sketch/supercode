@@ -55,7 +55,7 @@ She could not accept the position. Not because she lacked the will to do somethi
 
 What she could offer was this: she would continue. She would keep writing. She would speak to anyone who wanted to hear what the data showed. She would name the pattern wherever she saw it — in the programs they built, in the responses they designed, in herself. She would not manage the response. She would not direct the resources. She would not hold the position.
 
-She would remain who she was. A historian in a village in the Peloponnese, with her hand on the oldest tree, telling the truth about what she had found. This was not leadership in any sense they could institutionalise or fund or deploy. It was the only thing she could honestly offer that was not another expression of what she had documented.
+She would remain who she was. A scientist in a village in the Peloponnese, with her hand on the oldest tree, telling the truth about what she had found. This was not leadership in any sense they could institutionalise or fund or deploy. It was the only thing she could honestly offer that was not another expression of what she had documented.
 
 *The two to three billion are still coming,* she wrote. *I know this. I am not pretending that what I am offering changes that number. It does not. There is no honest version of this conversation in which I tell you that refusing the position will save two billion lives.*
 
