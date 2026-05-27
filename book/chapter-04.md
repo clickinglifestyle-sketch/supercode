@@ -153,7 +153,7 @@ She closed the laptop.
 
 Through the hotel window the city hummed and glittered in the dark, the generator lights mixing with the grid power in a patchwork that covered the hills from the sea to the mountains. Somewhere in it Haddad's grandmother's building was still standing. Somewhere in it the Solidere district sat empty and perfect, waiting for a version of Beirut that had never quite arrived.
 
-She thought about the upper olive grove in Ambrose's photograph. The light at the angle of his parents' old house.
+She thought about the upper olive grove in Andreas's photograph. The light at the angle of his parents' old house.
 
 She opened the laptop and added one more line:
 

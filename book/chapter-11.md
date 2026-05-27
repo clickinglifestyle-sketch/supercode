@@ -29,7 +29,7 @@ The kitchen was warm. The window looked out over the slope toward the upper grov
 
 Eleni looked at her cup. "November," she said. "The seventh."
 
-She said the word she had been not-saying. "Ambrose."
+She said the word she had been not-saying. "Andreas."
 
 "Yes."
 
@@ -41,7 +41,7 @@ Vesper looked at the window. The upper grove was visible from here — the tree 
 
 "He didn't tell me."
 
-Eleni looked at her without saying what they both knew, which was that Ambrose had tried.
+Eleni looked at her without saying what they both knew, which was that Andreas had tried.
 
 ---
 

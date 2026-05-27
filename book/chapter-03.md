@@ -51,7 +51,7 @@ She booked her flight. She arranged for her mail to be held. She told the archiv
 
 On the last evening before she left, she sat at her kitchen table and opened her laptop and went, almost without deciding to, to the Elathon community page.
 
-Ambrose had posted in March. A photograph — the upper grove in early spring, the trees still grey-green and thick, the light coming through at an angle she recognised from the direction of his parents' old house. He had written nothing in the caption. Just the photograph.
+Andreas had posted in March. A photograph — the upper grove in early spring, the trees still grey-green and thick, the light coming through at an angle she recognised from the direction of his parents' old house. He had written nothing in the caption. Just the photograph.
 
 Forty-three people had liked it.
 
@@ -67,7 +67,7 @@ She opened her laptop and worked on the commission for two of the three hours.
 
 In the last hour she put the laptop away and looked out the window at the Mediterranean below — the same sea, the same light, a different direction. She thought about the four-page document she had sent to Elathon. She thought about Dr. Haddad's email: *everything you have argued is visible here in living memory.*
 
-She thought about Ambrose's photograph. The light coming through the upper grove at the angle of his parents' old house.
+She thought about Andreas's photograph. The light coming through the upper grove at the angle of his parents' old house.
 
 The plane began its descent. Below her the Lebanese coast appeared — the city spreading from the mountains to the sea, the harbor, the reconstruction cranes still visible even from altitude, the particular density of a place that had been built and destroyed and built again so many times it had stopped expecting to stay standing.
 

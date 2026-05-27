@@ -117,7 +117,7 @@ Fontaine translated. Patrice looked at her with an expression she couldn't fully
 
 Later, walking the edge of Patrice's field with Fontaine, Vesper stopped and crouched and pressed her hand flat against the turned soil.
 
-She had not done this since the excavation trench near Elathon, twenty years ago. Since Ambrose had said: *give it some patience.*
+She had not done this since the excavation trench near Elathon, twenty years ago. Since Andreas had said: *give it some patience.*
 
 The soil was dark and cold and heavy with moisture. Normal agricultural soil by any surface assessment. Underneath it: unexploded ordnance, the chemical residue of a hundred years of slow decay, the dissolved matter of what the artillery had left behind. The top layer regenerated. The deeper layers did not.
 

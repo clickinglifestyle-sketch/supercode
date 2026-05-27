@@ -33,7 +33,7 @@ She stood there and waited for the urgency she had been carrying for five months
 
 ---
 
-She had read Ambrose's survey the evening before, at Eleni's kitchen table.
+She had read Andreas's survey the evening before, at Eleni's kitchen table.
 
 Eleni had a copy — he had left her one, for reasons Eleni did not explain and Vesper did not ask about. Three hundred and forty pages, spiral-bound, the cover a photograph he had taken from the ridge above the village: Elathon below, the valley, the olive groves, the ruins of the older settlement visible at the edge of the grove as a slight depression in the ground that only someone who had been looking at it for years would know to see.
 
@@ -51,7 +51,7 @@ He had known how to arrive. He had simply done it, every day, for the rest of hi
 
 She stayed in the grove for a long time.
 
-The world continued, as it did. She knew what was happening in it: she had the data, the full picture, the complete shape of the pattern across the whole of recorded history. The working groups were meeting. The journals were processing. Somewhere Maes was in a conference room asking for a higher evidentiary standard. The Downwinders were filing. The black bags were in the fields. The Exclusion Zone was filling with wolves and birch trees and the light through the canopy of a forest growing over abandoned streets.
+The world continued, as it did. She knew what was happening in it: she had the data, the full picture, the complete shape of the pattern across the whole of recorded history. The working groups were meeting. The journals were processing. Somewhere Marc was in a conference room asking for a higher evidentiary standard. The Downwinders were filing. The black bags were in the fields. The Exclusion Zone was filling with wolves and birch trees and the light through the canopy of a forest growing over abandoned streets.
 
 Brandt had told her: the institution cannot afford to acknowledge what you've found. Ruth had told her: we're not going to stop. Hanna had told her: you can only decide to come home once.
 
@@ -69,7 +69,7 @@ She could not save it.
 
 She could be here while it was still here.
 
-She sat down at the base of the oldest tree, her back against the trunk, the ground cold beneath her. From here the village was not visible. The valley was not visible. There was only the grove — the living trees and the dying ones, the morning light coming through the canopy at the angle she knew from Ambrose's photograph, the smell of the soil and the old wood and the cold air off the hills.
+She sat down at the base of the oldest tree, her back against the trunk, the ground cold beneath her. From here the village was not visible. The valley was not visible. There was only the grove — the living trees and the dying ones, the morning light coming through the canopy at the angle she knew from Andreas's photograph, the smell of the soil and the old wood and the cold air off the hills.
 
 She did not open her notebook.
 

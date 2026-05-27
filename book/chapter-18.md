@@ -19,7 +19,7 @@ Vesper looked at the grove.
 
 "You're not calling to apologize," she said.
 
-"No. I'm calling because the document is circulating. Not through the journals. Not through the institutions. Through the people the institutions don't account for." Haddad's voice was precise and warm simultaneously, the tone of someone delivering good news they had been holding carefully. "Haddad's network, let's say. Maes's counterparts in six countries. People in the reconstruction world who have been saying what you proved for twenty years and couldn't get anyone to publish it." A pause. "They're reading it. They're using it. Not to write papers. To make decisions." Another pause. "You should know that."
+"No. I'm calling because the document is circulating. Not through the journals. Not through the institutions. Through the people the institutions don't account for." Haddad's voice was precise and warm simultaneously, the tone of someone delivering good news they had been holding carefully. "Haddad's network, let's say. Marc's counterparts in six countries. People in the reconstruction world who have been saying what you proved for twenty years and couldn't get anyone to publish it." A pause. "They're reading it. They're using it. Not to write papers. To make decisions." Another pause. "You should know that."
 
 "Thank you for telling me."
 
@@ -76,7 +76,7 @@ Ruth sent a card. A postcard from St. George, Utah — a landscape photograph, t
 
 ---
 
-Dmytro sent an email. Short, in the way of someone who had learned that short things often carried more than long things:
+Viktor sent an email. Short, in the way of someone who had learned that short things often carried more than long things:
 
 *The wolves had pups in the forest near Pripyat. Three pups, confirmed. Monitoring team documented them last week.*
 
@@ -118,7 +118,7 @@ Vesper looked at the grove.
 
 ---
 
-That evening Vesper sat in Eleni's kitchen with the letters and the card and her phone open to Dmytro's email, all of it laid out on the table in the lamp's light.
+That evening Vesper sat in Eleni's kitchen with the letters and the card and her phone open to Viktor's email, all of it laid out on the table in the lamp's light.
 
 Eleni sat across from her, her own tea, not reading the letters — she would read them when she was offered them, and Vesper would offer them in time, but this moment was not for reading.
 

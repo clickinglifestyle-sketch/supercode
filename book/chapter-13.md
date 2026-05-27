@@ -53,7 +53,7 @@ Yuki Mori, in Hiroshima. Who had spent twenty years recording testimony rather t
 
 Ruth, in Utah. Who had said: the pattern was the tests. Everything since is trying to survive them. Who had been filing and testifying for forty years without expecting it to be enough and had done it anyway.
 
-Dmytro, in Chernobyl. Who had said: we are good at building pauses.
+Viktor, in Chernobyl. Who had said: we are good at building pauses.
 
 Four people. Across three continents. Each of them already in the place the document described, not because they had read a paper but because the pattern had come to them and they had found a way to keep going inside it.
 

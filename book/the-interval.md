@@ -78,7 +78,7 @@ She travels to four locations, each showing the same propensity in different mat
 - **Chernobyl, Ukraine/Russia** — last before Elathon. The cover-up as mobilisation: hundreds of thousands of liquidators deployed to contain and conceal the disaster, many of them dying for it. But also — the Exclusion Zone. Thirty years of human absence, and the land is returning. Wolves, forests, birds, life reclaiming the abandoned villages. Not because anyone fixed it. Because everyone left. The clue Vesper wasn't looking for: *sometimes the most powerful act is withdrawal. The land doesn't need to be saved. It needs to be left alone.* She cannot recommend this as policy. She cannot write it in a paper. But she cannot unfeel it. It is the last piece before she goes home.
 
 **Act Three — The Arrival**
-She goes to Elathon. Ambrose is dead. The grove is dying. Elathon gives her the final piece: the propensity is not only out there. It is in her. She has been waging her own quiet war — against grief, against closeness, against the life she kept at arm's length. And she stops. Not solving. Not arguing. Arriving.
+She goes to Elathon. Andreas is dead. The grove is dying. Elathon gives her the final piece: the propensity is not only out there. It is in her. She has been waging her own quiet war — against grief, against closeness, against the life she kept at arm's length. And she stops. Not solving. Not arguing. Arriving.
 
 ---
 
@@ -104,7 +104,7 @@ It is not enough to fix anything. It is not nothing.
 
 **What the collapse takes from her:**
 - *Elathon* — the village in the Peloponnese where she grew up, whose ancient olive groves are dying in the same pattern she has been documenting for eleven years.
-- *Ambrose* — the man she failed to love in time. Someone from Elathon who stayed when she left. By the time she returns, he is already dead. Not because of the collapse. Because of her own habits of distance.
+- *Andreas* — the man she failed to love in time. Someone from Elathon who stayed when she left. By the time she returns, he is already dead. Not because of the collapse. Because of her own habits of distance.
 
 **Her name:** Vesper — the evening star. The last light before dark.
 
@@ -134,7 +134,7 @@ It is not enough to fix anything. It is not nothing.
 
 **Vesper** — scientist, the observer who must learn to arrive
 
-**Ambrose** — the man she failed to love in time. Dead before she returns. Named for immortality. Gone. Needs fuller characterization before his absence can land as a gut punch.
+**Andreas** — the man she failed to love in time. Dead before she returns. Named for immortality. Gone. Needs fuller characterization before his absence can land as a gut punch.
 
 **The Chorus** — not one antagonist but many: the UN official, the European historian, the unnamed peer reviewer, the Japanese academic. Each represents the global consensus in a different form. Each attacks the science, not the conclusion.
 
@@ -144,13 +144,13 @@ It is not enough to fix anything. It is not nothing.
 
 **Chapter One:** Vesper in the Thessaloniki archive, working on the commission. The phone call from Eleni in Elathon. She says she'll be in touch. She reaches for the next document.
 
-**Chapter Two:** The working group in Athens. Her data dismissed by Vasilis — the chorus in its first form. The train home past grey olive trees. She doesn't call Elathon back.
+**Chapter Two:** The working group in Athens. Her data dismissed by Kostas — the chorus in its first form. The train home past grey olive trees. She doesn't call Elathon back.
 
 ---
 
 ## WORKING NOTES
 
-- Ambrose: who was he specifically? Needs a scene or memory that makes him a person before he becomes a loss.
+- Andreas: who was he specifically? Needs a scene or memory that makes him a person before he becomes a loss.
 - The eleven pages: draft the core argument before writing Chapter Three — Vesper needs to know what she knows.
 - Chapter Three: she takes a commission that requires travel. Beirut. She goes toward the pattern instead of toward home.
 - The chorus needs a consistent quality across all its forms — not the same person, but the same tone: reasonable, methodological, immovable.

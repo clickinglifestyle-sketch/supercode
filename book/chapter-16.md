@@ -1,7 +1,7 @@
 # THE INTERVAL
 ## Chapter Sixteen
 
-Eleni put it on the kitchen table four days after the meal, after the refusal, after the conversation about Ambrose and the commission.
+Eleni put it on the kitchen table four days after the meal, after the refusal, after the conversation about Andreas and the commission.
 
 A cassette tape in a plastic case, the kind that had stopped being made in most of the world before Vesper left for Athens the first time. The label on the spine was in his handwriting. Her name. Just her name. Nothing else.
 

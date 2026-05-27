@@ -31,7 +31,7 @@ She looked at the oldest tree.
 
 She thought about what she had told the leader who asked the personal question. *Find the place that is yours. Go there. Stay.* She was in her place. She was staying. If she accepted the offer, she would leave.
 
-Not physically, necessarily. But she would leave in the way that mattered. She would become the person managing the response. Her attention — which was the only thing she had that was not the pattern, the quality of attention she had seen in Ambrose's survey notes and in Hanna's garden and in Ruth still testifying after forty years — her attention would go to the program. To the deliverables she would not be required to produce but would produce anyway, because that was what the position required, because positions require the people who hold them to behave like positions, because that was what institutions did.
+Not physically, necessarily. But she would leave in the way that mattered. She would become the person managing the response. Her attention — which was the only thing she had that was not the pattern, the quality of attention she had seen in Andreas's survey notes and in Hanna's garden and in Ruth still testifying after forty years — her attention would go to the program. To the deliverables she would not be required to produce but would produce anyway, because that was what the position required, because positions require the people who hold them to behave like positions, because that was what institutions did.
 
 Brandt had written: *I know how this sounds.*
 
@@ -51,7 +51,7 @@ Then she went inside and wrote her response.
 
 She wrote it carefully, in the register of the eleven pages — precise, without apology, saying the thing directly.
 
-She could not accept the position. Not because she lacked the will to do something with what she knew. Because accepting the position was the most complete possible expression of the pattern she had spent eleven years documenting. The moment she took the authority, she became the institution. The institution would protect its premise with the same mechanism every institution used. In five years she would be making the same arguments as Maes — technically defensible, requiring no acknowledgment that the door exists. She had the data for this. She was not an exception to her own findings.
+She could not accept the position. Not because she lacked the will to do something with what she knew. Because accepting the position was the most complete possible expression of the pattern she had spent eleven years documenting. The moment she took the authority, she became the institution. The institution would protect its premise with the same mechanism every institution used. In five years she would be making the same arguments as Marc — technically defensible, requiring no acknowledgment that the door exists. She had the data for this. She was not an exception to her own findings.
 
 What she could offer was this: she would continue. She would keep writing. She would speak to anyone who wanted to hear what the data showed. She would name the pattern wherever she saw it — in the programs they built, in the responses they designed, in herself. She would not manage the response. She would not direct the resources. She would not hold the position.
 
@@ -85,7 +85,7 @@ The light in the grove in January was low and came in at an angle that caught th
 
 "Yes."
 
-Eleni looked at the trees. "Ambrose would have said the same thing," she said. "He was asked twice to sit on the regional archaeological commission. He said he could not oversee a place he was trying to be present to."
+Eleni looked at the trees. "Andreas would have said the same thing," she said. "He was asked twice to sit on the regional archaeological commission. He said he could not oversee a place he was trying to be present to."
 
 Vesper said nothing. She had not known this.
 
@@ -95,7 +95,7 @@ The grove was quiet. Somewhere in the upper section, something moved — a bird,
 
 The world was still running in the direction it was running. The programs were still generating their consequences. The toll was still accumulating in the way that tolls accumulate — gradually, invisibly, in the places that the institutions with the power to name it officially had agreed not to look at directly. The leaders were still in their positions, carrying the weight of what she had given them, building what they would build with it, which would be another mobilisation informed by her work and still a mobilisation.
 
-And in Beirut, Haddad had the document. In Hiroshima, Mori. In Utah, Ruth. In the Exclusion Zone, Dmytro. In Patras, Ambrose's survey.
+And in Beirut, Haddad had the document. In Hiroshima, Mori. In Utah, Ruth. In the Exclusion Zone, Viktor. In Patras, Andreas's survey.
 
 The record was in the right hands. Not enough hands. Not the hands with the authority to implement a response at the scale the numbers required. The hands that were already inside it, that had been inside it before they could choose, that had found a way to stay present and keep going.
 

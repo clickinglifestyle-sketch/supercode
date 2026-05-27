@@ -157,7 +157,7 @@ The most recent post was from three days ago. A photograph of the lower grove: t
 
 Four words. Forty-seven likes.
 
-She stood among the black bags in the pale Fukushima afternoon and looked at the photograph of the trees she had grown up beneath and had not returned to in eleven years and the word she had been not-using for a long time came up directly: *Ambrose.*
+She stood among the black bags in the pale Fukushima afternoon and looked at the photograph of the trees she had grown up beneath and had not returned to in eleven years and the word she had been not-using for a long time came up directly: *Andreas.*
 
 She closed the page.
 

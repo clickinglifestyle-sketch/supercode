@@ -11,7 +11,7 @@ She sat. Around her people spoke quietly or looked at their phones. The young st
 
 After forty minutes the all-clear sounded. They went back upstairs. In her room she stood at the window and looked at Kyiv — the city continuing, lights on, traffic moving on the street below, entirely itself. She had read about this. About how a city learned to absorb the sirens into the rhythm of ordinary life. She had not understood what that meant until she had sat in the basement with the family and the man with his laptop and the tea.
 
-In the morning Dmytro met her in the lobby. He was in his early fifties, a big man who moved with the unhurried efficiency of someone who spent his days driving through a radioactive forest and had adjusted his internal clock accordingly. He looked at her once, seemed satisfied by what he saw, and said: "Coffee first or straight to the car?"
+In the morning Viktor met her in the lobby. He was in his early fifties, a big man who moved with the unhurried efficiency of someone who spent his days driving through a radioactive forest and had adjusted his internal clock accordingly. He looked at her once, seemed satisfied by what he saw, and said: "Coffee first or straight to the car?"
 
 "Car."
 
@@ -21,29 +21,29 @@ She understood that he was not going to ask about the sirens and that this was a
 
 The checkpoint at the edge of the Exclusion Zone was not a small booth and a barrier. It was a checkpoint with soldiers.
 
-Dmytro had warned her by text the night before but she had not fully understood the warning until she saw it — the military vehicles parked to one side, the additional security structure that had not been there in the photographs she had studied, the soldiers moving with a purposefulness that was different from border officials. The war had changed things at the Zone boundary. Russian forces had occupied it briefly in 2022. The occupation had damaged monitoring equipment, contaminated laboratories, disrupted the research stations. The security now was military, not administrative.
+Viktor had warned her by text the night before but she had not fully understood the warning until she saw it — the military vehicles parked to one side, the additional security structure that had not been there in the photographs she had studied, the soldiers moving with a purposefulness that was different from border officials. The war had changed things at the Zone boundary. Russian forces had occupied it briefly in 2022. The occupation had damaged monitoring equipment, contaminated laboratories, disrupted the research stations. The security now was military, not administrative.
 
-Her credentials were examined by three different people over the course of an hour and a half. Dmytro waited beside her, unhurried, translating when necessary. At one point a soldier asked her, through Dmytro, why she needed access.
+Her credentials were examined by three different people over the course of an hour and a half. Viktor waited beside her, unhurried, translating when necessary. At one point a soldier asked her, through Viktor, why she needed access.
 
 "I'm an environmental scientist," she said. "I'm documenting the long-term ecological consequences of—"
 
-Dmytro translated. A silence. The soldier asked a follow-up question.
+Viktor translated. A silence. The soldier asked a follow-up question.
 
-"He wants to know if you are writing about the Russian occupation of the site," Dmytro said. He said it in a tone that suggested this was not the first time this question had been asked.
+"He wants to know if you are writing about the Russian occupation of the site," Viktor said. He said it in a tone that suggested this was not the first time this question had been asked.
 
 "I'm writing about the ecosystem recovery in the Exclusion Zone."
 
 Translation. A long pause. The soldier looked at her for a moment. Then he stamped the permit.
 
-Inside the Zone, Dmytro drove and did not speak for several minutes. Then:
+Inside the Zone, Viktor drove and did not speak for several minutes. Then:
 
 "Before the war this took ten minutes." He looked at the road ahead, at the forest that had grown over the agricultural land on both sides. "Now it is what it is. I used to bring groups in — researchers, journalists, tourists, the people who come for the photographs of the Ferris wheel. Now it is only researchers and journalists and they want different things." He paused. "The tourists wanted the feeling. The researchers want the data. The journalists want a story about Russia." He glanced at her. "What do you want?"
 
 "The feeling," she said. "And the data."
 
-Dmytro nodded slowly. "Then you are the honest kind. Good." He drove for a moment. "The war did not stop here. It just took a different form."
+Viktor nodded slowly. "Then you are the honest kind. Good." He drove for a moment. "The war did not stop here. It just took a different form."
 
-The road continued into a forest that had grown over what had been agricultural land before 1986. The trees were dense and various — birch, pine, oak, the undergrowth thick and unmanaged. Dmytro drove and pointed out things she would not have noticed: the shape of a roofline visible beneath the canopy where a house had collapsed into itself over decades, the rusted frame of a farm gate still standing at the entrance to a lane that led nowhere now, a concrete wall with a painted mural — children, a bright sun, a slogan in Ukrainian that Dmytro translated without being asked: *Peaceful atom in every home.*
+The road continued into a forest that had grown over what had been agricultural land before 1986. The trees were dense and various — birch, pine, oak, the undergrowth thick and unmanaged. Viktor drove and pointed out things she would not have noticed: the shape of a roofline visible beneath the canopy where a house had collapsed into itself over decades, the rusted frame of a farm gate still standing at the entrance to a lane that led nowhere now, a concrete wall with a painted mural — children, a bright sun, a slogan in Ukrainian that Viktor translated without being asked: *Peaceful atom in every home.*
 
 "That was a school," he said.
 
@@ -77,13 +77,13 @@ She wrote in her notebook: *The Zone is not clean. The radiation is still there.
 
 ---
 
-At the end of the afternoon Dmytro took her to a village on the western edge of the Zone where a woman named Hanna still lived.
+At the end of the afternoon Viktor took her to a village on the western edge of the Zone where a woman named Hanna still lived.
 
 The village had been almost entirely reclaimed — the empty houses collapsing under the weight of their own roofs, the lanes impassable in places, the church standing without its windows. Hanna's house was distinct from the others by the state of its garden: tended. Cabbages, onions, a row of sunflowers at the southern wall, a chicken coop at the back from which came the sound, implausible in this place, of chickens.
 
 Hanna was eighty-seven. She had left with the evacuation in 1986 and come back four years later, when it became clear that no one was going to force her to stay gone. She had outlived her husband and most of the other self-settlers who had returned. She had a daughter in Kyiv who called every week and visited twice a year and had long since stopped arguing.
 
-Dmytro translated. Hanna spoke for a while without stopping — in Ukrainian that came fast and warm, like someone who had been saving conversation — and Dmytro translated in pieces, falling behind and catching up:
+Viktor translated. Hanna spoke for a while without stopping — in Ukrainian that came fast and warm, like someone who had been saving conversation — and Viktor translated in pieces, falling behind and catching up:
 
 She had come back because her mother had planted sunflowers against that wall. Not these specific sunflowers — the current ones were many generations of replanting from her mother's stock — but her mother had put them there and she had not been able to live somewhere that did not have them. This was not complicated, she said. She was not making a point about anything. She just needed the sunflowers and the sunflowers were here.
 
@@ -91,7 +91,7 @@ She had not expected to stay permanently. She came back to see the house, to che
 
 She showed them the garden. She named the vegetables the way some people named children — with familiarity, with slight complaint about their behaviour, with the specific attention of someone who had been paying attention for a long time. The cabbages were doing well. The onions were always difficult; she didn't know why she kept growing them, except that her mother grew them and she had inherited the stubbornness along with the habit.
 
-Dmytro translated this and then added, quietly, on his own: "She has been saying that about the onions for thirty years. She keeps growing them."
+Viktor translated this and then added, quietly, on his own: "She has been saying that about the onions for thirty years. She keeps growing them."
 
 Vesper crouched at the edge of the vegetable bed and pressed her hand to the soil.
 
@@ -99,11 +99,11 @@ Dark and worked and slightly damp. Normal vegetable soil. Somewhere in it, deepe
 
 She stayed there longer than she needed to.
 
-When she stood up, Hanna was watching her with an expression Dmytro did not translate. He just glanced at Vesper and raised an eyebrow slightly, as if to say: *you see what I mean about her.*
+When she stood up, Hanna was watching her with an expression Viktor did not translate. He just glanced at Vesper and raised an eyebrow slightly, as if to say: *you see what I mean about her.*
 
 She asked him to ask Hanna: did she ever think about leaving again?
 
-Hanna listened to the translation. She looked at Vesper for a moment. Then she said something short and definitive that Dmytro took a moment with before rendering it:
+Hanna listened to the translation. She looked at Vesper for a moment. Then she said something short and definitive that Viktor took a moment with before rendering it:
 
 "She says she stopped thinking about it in 1990. She says—" he paused, finding the English. "You can only decide to come home once. After that it's just being home."
 
@@ -113,7 +113,7 @@ He paused. Then added: "That's a direct translation. She says it better in Ukrai
 
 The New Safe Confinement was visible from the road as they drove back toward the checkpoint — the vast silver arch that had been slid over the original sarcophagus in 2016, the most expensive nuclear engineering project in European history, designed to contain the destroyed reactor for one hundred years. It rose above the treeline, gleaming, slightly alien in the forest landscape, the most deliberate human object in a zone that had been defined by human absence.
 
-"After a hundred years?" she said to Dmytro.
+"After a hundred years?" she said to Viktor.
 
 "There are plans," he said. "Plans for plans." He drove for a moment. "The scientists say the reactor core is still active in certain ways. It will be active for a very long time. What we have built is a pause." He shrugged, without despair. "We are good at building pauses."
 

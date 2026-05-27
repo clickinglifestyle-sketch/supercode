@@ -3,7 +3,7 @@
 
 After they came in from the grove, Eleni made soup.
 
-Vesper sat at the kitchen table and watched her do it — the particular movement of someone who had cooked in the same kitchen for many years, not looking at anything, reaching without reaching. She knew where everything was without the knowledge being visible. She moved through the kitchen the way Ambrose had moved through the grove, Vesper thought. Without waste. At home.
+Vesper sat at the kitchen table and watched her do it — the particular movement of someone who had cooked in the same kitchen for many years, not looking at anything, reaching without reaching. She knew where everything was without the knowledge being visible. She moved through the kitchen the way Andreas had moved through the grove, Vesper thought. Without waste. At home.
 
 "I teach at the school in Leonidio," Eleni said, not turning from the stove. "Third and fourth grade. I've been doing it for twenty-two years." She stirred. "I tell you this because I want you to know I am not someone who ran out of options. I'm someone who had options and chose these ones."
 
@@ -19,7 +19,7 @@ She brought the bowls to the table and sat.
 
 The kitchen was warm. Through the window the grove was dark, the shapes of the upper trees visible against the sky — the ones that were still holding their canopy faintly present, faintly not.
 
-"He used to come for dinner," Eleni said. "Ambrose. Two or three times a week in the last years. He'd bring things from his garden — onions, tomatoes in season — and I'd make something and we'd sit and talk." She picked up her spoon. "He talked about the survey. The grove, the old settlement, what he was finding in the archive. He talked about the work the way some people talk about their children — proud of it but not possessive. Like it was going to go on without him." She paused. "He talked about you."
+"He used to come for dinner," Eleni said. "Andreas. Two or three times a week in the last years. He'd bring things from his garden — onions, tomatoes in season — and I'd make something and we'd sit and talk." She picked up her spoon. "He talked about the survey. The grove, the old settlement, what he was finding in the archive. He talked about the work the way some people talk about their children — proud of it but not possessive. Like it was going to go on without him." She paused. "He talked about you."
 
 Vesper looked at her bowl.
 
@@ -51,7 +51,7 @@ They ate for a while in the quiet that comes after the things that needed saying
 
 "The lower grove," Vesper said. "The post. *We are losing them.* Who wrote that?"
 
-"Petros Alexiou. He's ninety-one. His granddaughter types what he dictates. He's been posting since the first trees started going — every time another section dies he puts something on the community page. Small things. Photographs he takes from his bench on the plateia." She paused. "The bench faces the lower grove. He's been sitting there most mornings for thirty years."
+"Petros. He's ninety-one. His granddaughter types what he dictates. He's been posting since the first trees started going — every time another section dies he puts something on the community page. Small things. Photographs he takes from his bench on the plateia." She paused. "The bench faces the lower grove. He's been sitting there most mornings for thirty years."
 
 "Is he well?"
 
@@ -61,13 +61,13 @@ Eleni looked at her. "He's ninety-one and he sits on a bench watching the trees 
 
 She went in the morning.
 
-The plateia was a small square below the church, a fountain that ran in summer and didn't in December, two benches in the sun. Petros Alexiou occupied one of them with the settled authority of a person who had been occupying it long enough that it had become partially his.
+The plateia was a small square below the church, a fountain that ran in summer and didn't in December, two benches in the sun. Petros occupied one of them with the settled authority of a person who had been occupying it long enough that it had become partially his.
 
 He was very old — the specific fragility of extreme age, but alert, his eyes clear when he looked up at her. He knew her face, or some earlier version of it — the version that had grown up here before it became the face of someone who lived in airports.
 
 "Eleni's friend," he said.
 
-"Eleni's friend." She sat on the other end of the bench. "And Ambrose Katsaros's—" She paused, not finding the word.
+"Eleni's friend." She sat on the other end of the bench. "And Andreas Katsaros's—" She paused, not finding the word.
 
 "He was a good man," Petros said. "He used to come and sit here. We'd talk about the survey, about what he was finding. He showed me photographs from the archive — pictures of the grove from sixty years ago. More trees. Bigger canopy. Full of it." He turned his face toward the winter sun. "My father took me into the lower grove when I was four years old. I still remember it. The smell — warm in summer, the oil in the bark and something else underneath, something I could never name. I still can't name it."
 
@@ -117,7 +117,7 @@ That evening in Eleni's kitchen, she told her about Petros.
 
 "He said: that's something, then," she said. "'Still there' — that's something."
 
-Eleni was quiet for a moment. Then she said: "He says that about a lot of things. It's his way." She poured the tea. "He said it about Ambrose finishing the survey. He said it about the wolves in Chernobyl when I told him about your work. He said it about you coming home." She set the cups down. "I think it's what he has instead of hope. Which is harder to come by but lasts longer."
+Eleni was quiet for a moment. Then she said: "He says that about a lot of things. It's his way." She poured the tea. "He said it about Andreas finishing the survey. He said it about the wolves in Chernobyl when I told him about your work. He said it about you coming home." She set the cups down. "I think it's what he has instead of hope. Which is harder to come by but lasts longer."
 
 Vesper wrapped her hands around the cup.
 

@@ -87,7 +87,7 @@ Brandt nodded once, as though this confirmed her working theory. "I've read both
 
 "Inside the institution," Vesper said. "Hungary and Poland. The austerity period — Greece, Portugal, Spain, countries whose ability to control their own economies was effectively suspended by Brussels on German economic principles. The migration crisis and the nationalism it produced. Brexit." She paused. "The EU exported the conflict to its periphery and called it peace at the centre."
 
-Brandt was quiet for a moment. This was different from Maes — Maes had been looking for the weakness. Brandt was actually weighing it.
+Brandt was quiet for a moment. This was different from Marc — Marc had been looking for the weakness. Brandt was actually weighing it.
 
 "Some of that I'll grant you," she said at last. "The austerity period was badly handled. The democratic crises in member states are real. But these are failures of a fundamentally working framework, not evidence that the framework itself is the problem."
 

@@ -147,7 +147,7 @@ The oldest tree was where it had always been. The light on it was the light of a
 
 Two to three billion. She had said it plainly, without flinching, in the register of data, which was the only register she had ever fully trusted. She had built the methodology across seven years to be able to say it and have it mean something. It meant something. It would be heard by six people and suppressed and it would mean something.
 
-Somewhere in Beirut, Haddad had the document. In Hiroshima, Mori. In Utah, Ruth. In the Exclusion Zone, Dmytro.
+Somewhere in Beirut, Haddad had the document. In Hiroshima, Mori. In Utah, Ruth. In the Exclusion Zone, Viktor.
 
 The world would continue in the direction it was going. The pattern would continue. The toll would accumulate in the way that tolls accumulate — gradually, unevenly, out of sight of the people and institutions with the power to name it officially.
 

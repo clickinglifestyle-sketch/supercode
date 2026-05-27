@@ -29,7 +29,7 @@ The consortium met on the second floor of a building near the university — a r
 
 Haddad introduced Vesper's work briefly. Vesper presented for twenty minutes — the methodology, the core data, the preliminary findings she had framed carefully to be relevant to the Lebanese context without overstating what three days of field observation could support.
 
-She was six minutes into the questions when the UN-Habitat officer — a Belgian man named Maes, who had spent eighteen years working in post-conflict reconstruction across four continents — put his pen down flat on the table.
+She was six minutes into the questions when the UN-Habitat officer — a Belgian man named Marc, who had spent eighteen years working in post-conflict reconstruction across four continents — put his pen down flat on the table.
 
 Not dramatically. With the precise deliberateness of a man who had reached a decision.
 
@@ -43,17 +43,17 @@ Around the table, no one spoke. Haddad was looking at the surface of her noteboo
 
 "I'm not arguing the Marshall Plan was negative," Vesper said. "I'm arguing the consequences exceeded the stated problem and required a larger mobilisation to contain. The Cold War. Germany's division. Forty years of proxy conflicts. These are not small additions to the ledger."
 
-"And yet the ledger still comes out positive," Maes said. "By almost any measure you'd care to apply."
+"And yet the ledger still comes out positive," Marc said. "By almost any measure you'd care to apply."
 
 "Unless you're Greek."
 
 A silence.
 
-Maes looked at her. Something shifted in the room.
+Marc looked at her. Something shifted in the room.
 
 "The EU agricultural programs," Vesper said. "The development initiatives in the southern periphery. I have seven years of data from my home region. The programs were designed to help. The consequences are in the soil chemistry of the Peloponnese, which is dying under the weight of interventions designed to improve it." She said it without heat, the way she said everything. Just the data. "I am not arguing the Marshall Plan was wrong. I am arguing that the same logic that made it work also made it damage things it couldn't see."
 
-Maes was quiet for a moment. He was actually thinking about it, which was more than most people in his position did.
+Marc was quiet for a moment. He was actually thinking about it, which was more than most people in his position did.
 
 "You have documented that the pattern holds," he said at last. "I'm saying that showing it holds doesn't prove it shouldn't. Sometimes the pattern is the only tool there is."
 
@@ -65,7 +65,7 @@ The meeting moved on. She understood, listening to it continue, that the objecti
 
 Afterwards Haddad took her for coffee at the same café with the scaffolding. It was midday, quieter than the evening before.
 
-"That was Maes being polite," Haddad said. "You should see him when he's annoyed."
+"That was Marc being polite," Haddad said. "You should see him when he's annoyed."
 
 "He had a point," Vesper said. "About the counterfactual."
 
@@ -81,11 +81,11 @@ Haddad smiled briefly. "Probably." She set down her spoon. "You have a hypothesi
 
 Vesper said nothing.
 
-"Every time Maes raised an objection, you had a response ready. Every response was more comprehensive than the last. You were very good. You were better-prepared than he was and you both knew it." She paused. "You were mobilising. Harder every time he pushed back."
+"Every time Marc raised an objection, you had a response ready. Every response was more comprehensive than the last. You were very good. You were better-prepared than he was and you both knew it." She paused. "You were mobilising. Harder every time he pushed back."
 
 The café was loud around them.
 
-"I'm not saying you're wrong," Haddad said. "I think you're probably right. I've thought so since the first volume. I'm saying — you are doing with your argument exactly what your argument says not to do. And you will go home and write a third volume that addresses everything Maes said today, and someone will raise the next objection, and you will write a fourth." She picked up her coffee. "At what point does winning the argument become the point?"
+"I'm not saying you're wrong," Haddad said. "I think you're probably right. I've thought so since the first volume. I'm saying — you are doing with your argument exactly what your argument says not to do. And you will go home and write a third volume that addresses everything Marc said today, and someone will raise the next objection, and you will write a fourth." She picked up her coffee. "At what point does winning the argument become the point?"
 
 Vesper picked up her own coffee. It was too hot. She put it down.
 
@@ -113,7 +113,7 @@ Vesper looked at the sunflowers in the broken upper floors. The port was loud be
 
 She thought about the four-page document she had sent to Elathon. The twelve intervention programs, the full citations, the list of contacts at the University of Patras. The thorough, accurate, useless document.
 
-She thought about Maes putting his pen flat on the table.
+She thought about Marc putting his pen flat on the table.
 
 She thought about what Haddad had said in the café: *I have never seen an argument stop anything.*
 

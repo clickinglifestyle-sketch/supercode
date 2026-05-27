@@ -31,9 +31,9 @@ The village would not be gone. People would stay, or some would stay, or the one
 
 She would probably be one of them. Statistically, probably.
 
-But she had understood, since she sat in Eleni's kitchen and heard November and the seventh, that surviving in body was not the same as surviving in full. Ambrose had survived his illness right up until he didn't. The grove was surviving right now, this morning, the oldest tree still alive. The upper branches catching the light that came through the kitchen window at this hour — she could see it from where she sat, the same light from the same angle she had been watching for three weeks, learning the pattern of it.
+But she had understood, since she sat in Eleni's kitchen and heard November and the seventh, that surviving in body was not the same as surviving in full. Andreas had survived his illness right up until he didn't. The grove was surviving right now, this morning, the oldest tree still alive. The upper branches catching the light that came through the kitchen window at this hour — she could see it from where she sat, the same light from the same angle she had been watching for three weeks, learning the pattern of it.
 
-You could survive while losing the things that made survival the point. She had done this for eleven years without knowing it — surviving in Thessaloniki, producing the work, building the case, and losing the grove and Ambrose and the ordinary life she had not allowed herself to want directly enough to choose.
+You could survive while losing the things that made survival the point. She had done this for eleven years without knowing it — surviving in Thessaloniki, producing the work, building the case, and losing the grove and Andreas and the ordinary life she had not allowed herself to want directly enough to choose.
 
 She was here now. She was in the grove and in the house and in the village and she was not going back. Whatever surviving looked like from here, it would be this — present to the place as it changed, as it contracted, as the trees died one by one and the soil gave up its last chemistry and the village became something different from what it had been. She would be here for it.
 
@@ -53,13 +53,13 @@ She had spent eleven years knowing things. She had built the methodology to know
 
 She was at the end of what knowing could do for her.
 
-What came next was not knowing. What came next was being here, in the uncertainty, without the instrument she had spent her whole career building. The data had taken her as far as the data could go. The rest was something else — the thing Ambrose had been trying to tell her from the excavation trench, the thing Haddad had asked her about in the Beirut café, the thing Mori had named when she asked what would change her mind.
+What came next was not knowing. What came next was being here, in the uncertainty, without the instrument she had spent her whole career building. The data had taken her as far as the data could go. The rest was something else — the thing Andreas had been trying to tell her from the excavation trench, the thing Haddad had asked her about in the Beirut café, the thing Mori had named when she asked what would change her mind.
 
 The rest was living in the place, with the data she had and the uncertainty she had and the hands she had and the time she had — however much that was.
 
 ---
 
-She thought about Haddad, in Beirut. About Mori in Hiroshima. About Ruth in Utah, still filing, still testifying, forty years in. About Dmytro watching the wolves in the Exclusion Zone.
+She thought about Haddad, in Beirut. About Mori in Hiroshima. About Ruth in Utah, still filing, still testifying, forty years in. About Viktor watching the wolves in the Exclusion Zone.
 
 They had the document. They would do what they would do with it. She had not told them what to do. She would not. Whatever grew from the four copies she had sent — if anything grew — it would grow in its own direction, in the intervals between the mobilisations, in the spaces the pattern had not yet consumed. She could not manage it. She could not direct it. She could only have sent it, and she had.
 
@@ -77,7 +77,7 @@ She knew that two to three billion people — mostly not like her, mostly in pla
 
 She knew that the oldest tree in the grove in Elathon was still alive this morning.
 
-She knew that Ambrose had put his hand on it and thought of her.
+She knew that Andreas had put his hand on it and thought of her.
 
 She knew that she was here, finally, in the place that was hers, with her hands available for whatever the place needed from them.
 

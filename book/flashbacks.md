@@ -1,25 +1,25 @@
 # THE INTERVAL
-## Flashbacks — Vesper and Ambrose
+## Flashbacks — Vesper and Andreas
 
 *These fragments are scattered across the novel, in italics,
 separated from the present narrative. They are assembled out of
-order — the reader builds Ambrose the way Vesper did: in pieces,
+order — the reader builds Andreas the way Vesper did: in pieces,
 never the whole picture, always slightly too late.*
 
 ---
 
 ### FLASHBACK ONE
-*Early — they are students. Ambrose brings her to a dig site near Elathon.*
+*Early — they are students. Andreas brings her to a dig site near Elathon.*
 
 ---
 
 *He had wanted her to see it before the excavation team covered it back over. That was how he said it — covered it back over — as though the earth had a right to what was inside it and the dig was a temporary borrowing.*
 
-*The site was a field at the edge of Elathon, an hour's walk from the village along a path that Ambrose had known since he was a child. A professor from the University of Patras had been working it for three summers. Foundations of something, Ambrose said. Old foundations. Maybe older than the Byzantine layer. Maybe older than that.*
+*The site was a field at the edge of Elathon, an hour's walk from the village along a path that Andreas had known since he was a child. A professor from the University of Patras had been working it for three summers. Foundations of something, Andreas said. Old foundations. Maybe older than the Byzantine layer. Maybe older than that.*
 
 *Vesper stood at the edge of the excavation trench and looked down at the exposed stonework. She was already thinking about the ceramic typology she'd read in the site report, already placing the stratigraphy within the regional sequence, already building the argument for what this meant about settlement patterns in the pre-classical Peloponnese.*
 
-*Ambrose dropped into the trench.*
+*Andreas dropped into the trench.*
 
 *"You can't just—" she said.*
 

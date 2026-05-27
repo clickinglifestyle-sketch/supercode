@@ -9,25 +9,25 @@ The working group had been convened to review the available research on the Pelo
 
 She had attended two previous iterations of this group. They always concluded with a recommendation for further monitoring and a proposal to expand an existing intervention program.
 
-The chair today was a man named Stratakis from the ministry of environment — precise, careful, the kind of official who had survived multiple governments by being genuinely useful and entirely uninterested in being right. He opened with a summary of the current situation: the affected area had expanded by eleven percent in the past eighteen months. The olive mortality rate in the southern districts was now estimated at sixty percent of trees over two hundred years old. Water table contamination had been confirmed in seven municipalities.
+The chair today was a man named Nikos from the ministry of environment — precise, careful, the kind of official who had survived multiple governments by being genuinely useful and entirely uninterested in being right. He opened with a summary of the current situation: the affected area had expanded by eleven percent in the past eighteen months. The olive mortality rate in the southern districts was now estimated at sixty percent of trees over two hundred years old. Water table contamination had been confirmed in seven municipalities.
 
-Vesper had read all of this. She had the figures in her spreadsheet. She watched Stratakis deliver them and thought about the 1992 irrigation report and the word *manageable*.
+Vesper had read all of this. She had the figures in her spreadsheet. She watched Nikos deliver them and thought about the 1992 irrigation report and the word *manageable*.
 
-"We'll move to the research review," Stratakis said. He had a printed agenda. "Starting with the intervention assessments."
+"We'll move to the research review," Nikos said. He had a printed agenda. "Starting with the intervention assessments."
 
 He began with the 2019 soil treatment program: inconclusive results, the affected area had continued to expand during and after the intervention. Then the 2021 replanting initiative: abandoned after eighteen months when the replanted trees began showing the same symptoms as the original stock. Then the 2022 water table remediation study: ongoing, preliminary results suggesting the contamination was deeper than original surveys indicated.
 
 Each one ended the same way. Vesper had the files.
 
-"We'll turn now to the longer-range historical analyses," Stratakis said. He looked at his agenda. "Dr. Vasilis has the floor."
+"We'll turn now to the longer-range historical analyses," Nikos said. He looked at his agenda. "Dr. Kostas has the floor."
 
-Vasilis was from the University of Athens — young, recently published, the kind of academic who had built a careful career on not saying anything his funders would find uncomfortable. He was here to present a rebuttal, and they both knew it.
+Kostas was from the University of Athens — young, recently published, the kind of academic who had built a careful career on not saying anything his funders would find uncomfortable. He was here to present a rebuttal, and they both knew it.
 
 "Some of you will be familiar with research circulated in 2021 arguing that the collapse correlates directly with the expansion of EU-funded agricultural intensification programs in the region." He didn't look at Vesper. "The argument, briefly, is that the programs themselves — the subsidies, the drainage infrastructure, the monoculture incentives — are causally linked to the soil and water system failures we're now documenting."
 
 "The word *causally* is doing significant work there," said the agricultural ministry representative.
 
-"It is," Vasilis said. "And it's where the analysis runs into difficulty. The correlation is real. I want to be clear about that — the numbers aren't in dispute." He brought up a slide. "What's in dispute is the direction of causation. These regions received intensive development funding because they were already the most agriculturally productive. They were the most productive because their soil and water systems were the most robust to begin with. The collapse is occurring in the regions that were pushed hardest — but they were pushed hardest because they could take it. The development programs followed the capacity, not the other way around."
+"It is," Kostas said. "And it's where the analysis runs into difficulty. The correlation is real. I want to be clear about that — the numbers aren't in dispute." He brought up a slide. "What's in dispute is the direction of causation. These regions received intensive development funding because they were already the most agriculturally productive. They were the most productive because their soil and water systems were the most robust to begin with. The collapse is occurring in the regions that were pushed hardest — but they were pushed hardest because they could take it. The development programs followed the capacity, not the other way around."
 
 It was a good argument. It was the same argument she had been reading for three years in various forms. She had written a detailed response to it in an article that had been rejected by two journals before being published in a third that no one from this working group would have read.
 
@@ -37,15 +37,15 @@ It was a good argument. It was the same argument she had been reading for three 
 
 Several people adjusted in their seats without quite turning to look at her.
 
-Stratakis was more direct. "Dr. Vasilis has raised the causation question. Would you like to respond?"
+Nikos was more direct. "Dr. Kostas has raised the causation question. Would you like to respond?"
 
 "I've responded in print," she said. "The capacity argument doesn't hold when you control for baseline soil chemistry rather than yield history. Yield history is a measure of what the land was forced to produce. Baseline soil chemistry is a measure of what the land actually was." She paused. "They're not the same thing, and the data sources are different."
 
-"The baseline soil chemistry records for this region pre-1975 are incomplete," Vasilis said.
+"The baseline soil chemistry records for this region pre-1975 are incomplete," Kostas said.
 
 "Some of them are. The ones that exist tell a consistent story. I can send you the citations."
 
-"We're not litigating the methodology today," Stratakis said, with the tone of a man who had managed many rooms. He moved on.
+"We're not litigating the methodology today," Nikos said, with the tone of a man who had managed many rooms. He moved on.
 
 Vesper folded her hands on the table and listened to seven more presentations confirm that the collapse was worsening and that the most recent interventions had not produced the hoped-for results and that further study was recommended before any significant changes to existing programs were considered. The last presenter, a soil scientist from Crete, closed by recommending an expansion of the 2021 replanting initiative — a larger budget, broader scope, the same program that had been abandoned when the replanted trees began showing identical symptoms. No one at the table raised this. The EU observers were still looking at their tablets.
 

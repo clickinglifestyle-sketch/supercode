@@ -121,25 +121,25 @@ The working group had been convened to review the available research on the Pelo
 
 She had attended two previous iterations of this group. They always concluded with a recommendation for further monitoring and a proposal to expand an existing intervention program.
 
-The chair today was a man named Stratakis from the ministry of environment — precise, careful, the kind of official who had survived multiple governments by being genuinely useful and entirely uninterested in being right. He opened with a summary of the current situation: the affected area had expanded by eleven percent in the past eighteen months. The olive mortality rate in the southern districts was now estimated at sixty percent of trees over two hundred years old. Water table contamination had been confirmed in seven municipalities.
+The chair today was a man named Nikos from the ministry of environment — precise, careful, the kind of official who had survived multiple governments by being genuinely useful and entirely uninterested in being right. He opened with a summary of the current situation: the affected area had expanded by eleven percent in the past eighteen months. The olive mortality rate in the southern districts was now estimated at sixty percent of trees over two hundred years old. Water table contamination had been confirmed in seven municipalities.
 
-Vesper had read all of this. She had the figures in her spreadsheet. She watched Stratakis deliver them and thought about the 1992 irrigation report and the word *manageable*.
+Vesper had read all of this. She had the figures in her spreadsheet. She watched Nikos deliver them and thought about the 1992 irrigation report and the word *manageable*.
 
-"We'll move to the research review," Stratakis said. He had a printed agenda. "Starting with the intervention assessments."
+"We'll move to the research review," Nikos said. He had a printed agenda. "Starting with the intervention assessments."
 
 He began with the 2019 soil treatment program: inconclusive results, the affected area had continued to expand during and after the intervention. Then the 2021 replanting initiative: abandoned after eighteen months when the replanted trees began showing the same symptoms as the original stock. Then the 2022 water table remediation study: ongoing, preliminary results suggesting the contamination was deeper than original surveys indicated.
 
 Each one ended the same way. Vesper had the files.
 
-"We'll turn now to the longer-range historical analyses," Stratakis said. He looked at his agenda. "Dr. Vasilis has the floor."
+"We'll turn now to the longer-range historical analyses," Nikos said. He looked at his agenda. "Dr. Kostas has the floor."
 
-Vasilis was from the University of Athens — young, recently published, the kind of academic who had built a careful career on not saying anything his funders would find uncomfortable. He was here to present a rebuttal, and they both knew it.
+Kostas was from the University of Athens — young, recently published, the kind of academic who had built a careful career on not saying anything his funders would find uncomfortable. He was here to present a rebuttal, and they both knew it.
 
 "Some of you will be familiar with research circulated in 2021 arguing that the collapse correlates directly with the expansion of EU-funded agricultural intensification programs in the region." He didn't look at Vesper. "The argument, briefly, is that the programs themselves — the subsidies, the drainage infrastructure, the monoculture incentives — are causally linked to the soil and water system failures we're now documenting."
 
 "The word *causally* is doing significant work there," said the agricultural ministry representative.
 
-"It is," Vasilis said. "And it's where the analysis runs into difficulty. The correlation is real. I want to be clear about that — the numbers aren't in dispute." He brought up a slide. "What's in dispute is the direction of causation. These regions received intensive development funding because they were already the most agriculturally productive. They were the most productive because their soil and water systems were the most robust to begin with. The collapse is occurring in the regions that were pushed hardest — but they were pushed hardest because they could take it. The development programs followed the capacity, not the other way around."
+"It is," Kostas said. "And it's where the analysis runs into difficulty. The correlation is real. I want to be clear about that — the numbers aren't in dispute." He brought up a slide. "What's in dispute is the direction of causation. These regions received intensive development funding because they were already the most agriculturally productive. They were the most productive because their soil and water systems were the most robust to begin with. The collapse is occurring in the regions that were pushed hardest — but they were pushed hardest because they could take it. The development programs followed the capacity, not the other way around."
 
 It was a good argument. It was the same argument she had been reading for three years in various forms. She had written a detailed response to it in an article that had been rejected by two journals before being published in a third that no one from this working group would have read.
 
@@ -149,15 +149,15 @@ It was a good argument. It was the same argument she had been reading for three 
 
 Several people adjusted in their seats without quite turning to look at her.
 
-Stratakis was more direct. "Dr. Vasilis has raised the causation question. Would you like to respond?"
+Nikos was more direct. "Dr. Kostas has raised the causation question. Would you like to respond?"
 
 "I've responded in print," she said. "The capacity argument doesn't hold when you control for baseline soil chemistry rather than yield history. Yield history is a measure of what the land was forced to produce. Baseline soil chemistry is a measure of what the land actually was." She paused. "They're not the same thing, and the data sources are different."
 
-"The baseline soil chemistry records for this region pre-1975 are incomplete," Vasilis said.
+"The baseline soil chemistry records for this region pre-1975 are incomplete," Kostas said.
 
 "Some of them are. The ones that exist tell a consistent story. I can send you the citations."
 
-"We're not litigating the methodology today," Stratakis said, with the tone of a man who had managed many rooms. He moved on.
+"We're not litigating the methodology today," Nikos said, with the tone of a man who had managed many rooms. He moved on.
 
 Vesper folded her hands on the table and listened to seven more presentations confirm that the collapse was worsening and that the most recent interventions had not produced the hoped-for results and that further study was recommended before any significant changes to existing programs were considered.
 
@@ -231,7 +231,7 @@ She booked her flight. She arranged for her mail to be held. She told the archiv
 
 On the last evening before she left, she sat at her kitchen table and opened her laptop and went, almost without deciding to, to the Elathon community page.
 
-Ambrose had posted in March. A photograph — the upper grove in early spring, the trees still grey-green and thick, the light coming through at an angle she recognised from the direction of his parents' old house. He had written nothing in the caption. Just the photograph.
+Andreas had posted in March. A photograph — the upper grove in early spring, the trees still grey-green and thick, the light coming through at an angle she recognised from the direction of his parents' old house. He had written nothing in the caption. Just the photograph.
 
 Forty-three people had liked it.
 
@@ -247,7 +247,7 @@ She opened her laptop and worked on the commission for two of the three hours.
 
 In the last hour she put the laptop away and looked out the window at the Mediterranean below — the same sea, the same light, a different direction. She thought about the four-page document she had sent to Elathon. She thought about Dr. Haddad's email: *everything you have argued is visible here in living memory.*
 
-She thought about Ambrose's photograph. The light coming through the upper grove at the angle of his parents' old house.
+She thought about Andreas's photograph. The light coming through the upper grove at the angle of his parents' old house.
 
 The plane began its descent. Below her the Lebanese coast appeared — the city spreading from the mountains to the sea, the harbor, the reconstruction cranes still visible even from altitude, the particular density of a place that had been built and destroyed and built again so many times it had stopped expecting to stay standing.
 
@@ -413,7 +413,7 @@ She closed the laptop.
 
 Through the hotel window the city hummed and glittered in the dark, the generator lights mixing with the grid power in a patchwork that covered the hills from the sea to the mountains. Somewhere in it Haddad's grandmother's building was still standing. Somewhere in it the Solidere district sat empty and perfect, waiting for a version of Beirut that had never quite arrived.
 
-She thought about the upper olive grove in Ambrose's photograph. The light at the angle of his parents' old house.
+She thought about the upper olive grove in Andreas's photograph. The light at the angle of his parents' old house.
 
 She opened the laptop and added one more line:
 
@@ -453,7 +453,7 @@ The consortium met on the second floor of a building near the university — a r
 
 Haddad introduced Vesper's work briefly. Vesper presented for twenty minutes — the methodology, the core data, the preliminary findings she had framed carefully to be relevant to the Lebanese context without overstating what three days of field observation could support.
 
-She was six minutes into the questions when the UN-Habitat officer — a Belgian man named Maes, who had spent eighteen years working in post-conflict reconstruction across four continents — put his pen down flat on the table.
+She was six minutes into the questions when the UN-Habitat officer — a Belgian man named Marc, who had spent eighteen years working in post-conflict reconstruction across four continents — put his pen down flat on the table.
 
 Not dramatically. With the precise deliberateness of a man who had reached a decision.
 
@@ -467,17 +467,17 @@ Around the table, no one spoke. Haddad was looking at the surface of her noteboo
 
 "I'm not arguing the Marshall Plan was negative," Vesper said. "I'm arguing the consequences exceeded the stated problem and required a larger mobilisation to contain. The Cold War. Germany's division. Forty years of proxy conflicts. These are not small additions to the ledger."
 
-"And yet the ledger still comes out positive," Maes said. "By almost any measure you'd care to apply."
+"And yet the ledger still comes out positive," Marc said. "By almost any measure you'd care to apply."
 
 "Unless you're Greek."
 
 A silence.
 
-Maes looked at her. Something shifted in the room.
+Marc looked at her. Something shifted in the room.
 
 "The EU agricultural programs," Vesper said. "The development initiatives in the southern periphery. I have seven years of data from my home region. The programs were designed to help. The consequences are in the soil chemistry of the Peloponnese, which is dying under the weight of interventions designed to improve it." She said it without heat, the way she said everything. Just the data. "I am not arguing the Marshall Plan was wrong. I am arguing that the same logic that made it work also made it damage things it couldn't see."
 
-Maes was quiet for a moment. He was actually thinking about it, which was more than most people in his position did.
+Marc was quiet for a moment. He was actually thinking about it, which was more than most people in his position did.
 
 "You have documented that the pattern holds," he said at last. "I'm saying that showing it holds doesn't prove it shouldn't. Sometimes the pattern is the only tool there is."
 
@@ -489,7 +489,7 @@ The meeting moved on. She understood, listening to it continue, that the objecti
 
 Afterwards Haddad took her for coffee at the same café with the scaffolding. It was midday, quieter than the evening before.
 
-"That was Maes being polite," Haddad said. "You should see him when he's annoyed."
+"That was Marc being polite," Haddad said. "You should see him when he's annoyed."
 
 "He had a point," Vesper said. "About the counterfactual."
 
@@ -505,11 +505,11 @@ Haddad smiled briefly. "Probably." She set down her spoon. "You have a hypothesi
 
 Vesper said nothing.
 
-"Every time Maes raised an objection, you had a response ready. Every response was more comprehensive than the last. You were very good. You were better-prepared than he was and you both knew it." She paused. "You were mobilising. Harder every time he pushed back."
+"Every time Marc raised an objection, you had a response ready. Every response was more comprehensive than the last. You were very good. You were better-prepared than he was and you both knew it." She paused. "You were mobilising. Harder every time he pushed back."
 
 The café was loud around them.
 
-"I'm not saying you're wrong," Haddad said. "I think you're probably right. I've thought so since the first volume. I'm saying — you are doing with your argument exactly what your argument says not to do. And you will go home and write a third volume that addresses everything Maes said today, and someone will raise the next objection, and you will write a fourth." She picked up her coffee. "At what point does winning the argument become the point?"
+"I'm not saying you're wrong," Haddad said. "I think you're probably right. I've thought so since the first volume. I'm saying — you are doing with your argument exactly what your argument says not to do. And you will go home and write a third volume that addresses everything Marc said today, and someone will raise the next objection, and you will write a fourth." She picked up her coffee. "At what point does winning the argument become the point?"
 
 Vesper picked up her own coffee. It was too hot. She put it down.
 
@@ -537,7 +537,7 @@ Vesper looked at the sunflowers in the broken upper floors. The port was loud be
 
 She thought about the four-page document she had sent to Elathon. The twelve intervention programs, the full citations, the list of contacts at the University of Patras. The thorough, accurate, useless document.
 
-She thought about Maes putting his pen flat on the table.
+She thought about Marc putting his pen flat on the table.
 
 She thought about what Haddad had said in the café: *I have never seen an argument stop anything.*
 
@@ -683,17 +683,17 @@ Fontaine translated. Patrice looked at her with an expression she couldn't fully
 
 Later, walking the edge of Patrice's field with Fontaine, Vesper stopped and crouched and pressed her hand flat against the turned soil.
 
-She had not done this since the excavation trench near Elathon, twenty years ago. Since Ambrose had said: *give it some patience.*
+She had not done this since the excavation trench near Elathon, twenty years ago. Since Andreas had said: *give it some patience.*
 
 ---
 
 *He had wanted her to see it before the excavation team covered it back over. That was how he said it — covered it back over — as though the earth had a right to what was inside it and the dig was a temporary borrowing.*
 
-*The site was a field at the edge of Elathon, an hour's walk from the village along a path that Ambrose had known since he was a child. A professor from the University of Patras had been working it for three summers. Foundations of something, Ambrose said. Old foundations. Maybe older than the Byzantine layer. Maybe older than that.*
+*The site was a field at the edge of Elathon, an hour's walk from the village along a path that Andreas had known since he was a child. A professor from the University of Patras had been working it for three summers. Foundations of something, Andreas said. Old foundations. Maybe older than the Byzantine layer. Maybe older than that.*
 
 *Vesper stood at the edge of the excavation trench and looked down at the exposed stonework. She was already thinking about the ceramic typology she'd read in the site report, already placing the stratigraphy within the regional sequence, already building the argument for what this meant about settlement patterns in the pre-classical Peloponnese.*
 
-*Ambrose dropped into the trench.*
+*Andreas dropped into the trench.*
 
 *"You can't just—" she said.*
 
@@ -878,7 +878,7 @@ Brandt nodded once, as though this confirmed her working theory. "I've read both
 
 "Inside the institution," Vesper said. "Hungary and Poland. The austerity period — Greece, Portugal, Spain, countries whose ability to control their own economies was effectively suspended by Brussels on German economic principles. The migration crisis and the nationalism it produced. Brexit." She paused. "The EU exported the conflict to its periphery and called it peace at the centre."
 
-Brandt was quiet for a moment. This was different from Maes — Maes had been looking for the weakness. Brandt was actually weighing it.
+Brandt was quiet for a moment. This was different from Marc — Marc had been looking for the weakness. Brandt was actually weighing it.
 
 "Some of that I'll grant you," she said at last. "The austerity period was badly handled. The democratic crises in member states are real. But these are failures of a fundamentally working framework, not evidence that the framework itself is the problem."
 
@@ -1102,7 +1102,7 @@ The most recent post was from three days ago. A photograph of the lower grove: t
 
 Four words. Forty-seven likes.
 
-She stood among the black bags in the pale Fukushima afternoon and looked at the photograph of the trees she had grown up beneath and had not returned to in eleven years and the word she had been not-using for a long time came up directly: *Ambrose.*
+She stood among the black bags in the pale Fukushima afternoon and looked at the photograph of the trees she had grown up beneath and had not returned to in eleven years and the word she had been not-using for a long time came up directly: *Andreas.*
 
 She closed the page.
 
@@ -1425,7 +1425,7 @@ She sat. Around her people spoke quietly or looked at their phones. The young st
 
 After forty minutes the all-clear sounded. They went back upstairs. In her room she stood at the window and looked at Kyiv — the city continuing, lights on, traffic moving on the street below, entirely itself. She had read about this. About how a city learned to absorb the sirens into the rhythm of ordinary life. She had not understood what that meant until she had sat in the basement with the family and the man with his laptop and the tea.
 
-In the morning Dmytro met her in the lobby. He was in his early fifties, a big man who moved with the unhurried efficiency of someone who spent his days driving through a radioactive forest and had adjusted his internal clock accordingly. He looked at her once, seemed satisfied by what he saw, and said: "Coffee first or straight to the car?"
+In the morning Viktor met her in the lobby. He was in his early fifties, a big man who moved with the unhurried efficiency of someone who spent his days driving through a radioactive forest and had adjusted his internal clock accordingly. He looked at her once, seemed satisfied by what he saw, and said: "Coffee first or straight to the car?"
 
 "Car."
 
@@ -1435,29 +1435,29 @@ She understood that he was not going to ask about the sirens and that this was a
 
 The checkpoint at the edge of the Exclusion Zone was not a small booth and a barrier. It was a checkpoint with soldiers.
 
-Dmytro had warned her by text the night before but she had not fully understood the warning until she saw it — the military vehicles parked to one side, the additional security structure that had not been there in the photographs she had studied, the soldiers moving with a purposefulness that was different from border officials. The war had changed things at the Zone boundary. Russian forces had occupied it briefly in 2022. The occupation had damaged monitoring equipment, contaminated laboratories, disrupted the research stations. The security now was military, not administrative.
+Viktor had warned her by text the night before but she had not fully understood the warning until she saw it — the military vehicles parked to one side, the additional security structure that had not been there in the photographs she had studied, the soldiers moving with a purposefulness that was different from border officials. The war had changed things at the Zone boundary. Russian forces had occupied it briefly in 2022. The occupation had damaged monitoring equipment, contaminated laboratories, disrupted the research stations. The security now was military, not administrative.
 
-Her credentials were examined by three different people over the course of an hour and a half. Dmytro waited beside her, unhurried, translating when necessary. At one point a soldier asked her, through Dmytro, why she needed access.
+Her credentials were examined by three different people over the course of an hour and a half. Viktor waited beside her, unhurried, translating when necessary. At one point a soldier asked her, through Viktor, why she needed access.
 
 "I'm an environmental scientist," she said. "I'm documenting the long-term ecological consequences of—"
 
-Dmytro translated. A silence. The soldier asked a follow-up question.
+Viktor translated. A silence. The soldier asked a follow-up question.
 
-"He wants to know if you are writing about the Russian occupation of the site," Dmytro said. He said it in a tone that suggested this was not the first time this question had been asked.
+"He wants to know if you are writing about the Russian occupation of the site," Viktor said. He said it in a tone that suggested this was not the first time this question had been asked.
 
 "I'm writing about the ecosystem recovery in the Exclusion Zone."
 
 Translation. A long pause. The soldier looked at her for a moment. Then he stamped the permit.
 
-Inside the Zone, Dmytro drove and did not speak for several minutes. Then:
+Inside the Zone, Viktor drove and did not speak for several minutes. Then:
 
 "Before the war this took ten minutes." He looked at the road ahead, at the forest that had grown over the agricultural land on both sides. "Now it is what it is. I used to bring groups in — researchers, journalists, tourists, the people who come for the photographs of the Ferris wheel. Now it is only researchers and journalists and they want different things." He paused. "The tourists wanted the feeling. The researchers want the data. The journalists want a story about Russia." He glanced at her. "What do you want?"
 
 "The feeling," she said. "And the data."
 
-Dmytro nodded slowly. "Then you are the honest kind. Good." He drove for a moment. "The war did not stop here. It just took a different form."
+Viktor nodded slowly. "Then you are the honest kind. Good." He drove for a moment. "The war did not stop here. It just took a different form."
 
-The road continued into a forest that had grown over what had been agricultural land before 1986. The trees were dense and various — birch, pine, oak, the undergrowth thick and unmanaged. Dmytro drove and pointed out things she would not have noticed: the shape of a roofline visible beneath the canopy where a house had collapsed into itself over decades, the rusted frame of a farm gate still standing at the entrance to a lane that led nowhere now, a concrete wall with a painted mural — children, a bright sun, a slogan in Ukrainian that Dmytro translated without being asked: *Peaceful atom in every home.*
+The road continued into a forest that had grown over what had been agricultural land before 1986. The trees were dense and various — birch, pine, oak, the undergrowth thick and unmanaged. Viktor drove and pointed out things she would not have noticed: the shape of a roofline visible beneath the canopy where a house had collapsed into itself over decades, the rusted frame of a farm gate still standing at the entrance to a lane that led nowhere now, a concrete wall with a painted mural — children, a bright sun, a slogan in Ukrainian that Viktor translated without being asked: *Peaceful atom in every home.*
 
 "That was a school," he said.
 
@@ -1491,13 +1491,13 @@ She wrote in her notebook: *The Zone is not clean. The radiation is still there.
 
 ---
 
-At the end of the afternoon Dmytro took her to a village on the western edge of the Zone where a woman named Hanna still lived.
+At the end of the afternoon Viktor took her to a village on the western edge of the Zone where a woman named Hanna still lived.
 
 The village had been almost entirely reclaimed — the empty houses collapsing under the weight of their own roofs, the lanes impassable in places, the church standing without its windows. Hanna's house was distinct from the others by the state of its garden: tended. Cabbages, onions, a row of sunflowers at the southern wall, a chicken coop at the back from which came the sound, implausible in this place, of chickens.
 
 Hanna was eighty-seven. She had left with the evacuation in 1986 and come back four years later, when it became clear that no one was going to force her to stay gone. She had outlived her husband and most of the other self-settlers who had returned. She had a daughter in Kyiv who called every week and visited twice a year and had long since stopped arguing.
 
-Dmytro translated. Hanna spoke for a while without stopping — in Ukrainian that came fast and warm, like someone who had been saving conversation — and Dmytro translated in pieces, falling behind and catching up:
+Viktor translated. Hanna spoke for a while without stopping — in Ukrainian that came fast and warm, like someone who had been saving conversation — and Viktor translated in pieces, falling behind and catching up:
 
 She had come back because her mother had planted sunflowers against that wall. Not these specific sunflowers — the current ones were many generations of replanting from her mother's stock — but her mother had put them there and she had not been able to live somewhere that did not have them. This was not complicated, she said. She was not making a point about anything. She just needed the sunflowers and the sunflowers were here.
 
@@ -1505,7 +1505,7 @@ She had not expected to stay permanently. She came back to see the house, to che
 
 She showed them the garden. She named the vegetables the way some people named children — with familiarity, with slight complaint about their behaviour, with the specific attention of someone who had been paying attention for a long time. The cabbages were doing well. The onions were always difficult; she didn't know why she kept growing them, except that her mother grew them and she had inherited the stubbornness along with the habit.
 
-Dmytro translated this and then added, quietly, on his own: "She has been saying that about the onions for thirty years. She keeps growing them."
+Viktor translated this and then added, quietly, on his own: "She has been saying that about the onions for thirty years. She keeps growing them."
 
 Vesper crouched at the edge of the vegetable bed and pressed her hand to the soil.
 
@@ -1513,11 +1513,11 @@ Dark and worked and slightly damp. Normal vegetable soil. Somewhere in it, deepe
 
 She stayed there longer than she needed to.
 
-When she stood up, Hanna was watching her with an expression Dmytro did not translate. He just glanced at Vesper and raised an eyebrow slightly, as if to say: *you see what I mean about her.*
+When she stood up, Hanna was watching her with an expression Viktor did not translate. He just glanced at Vesper and raised an eyebrow slightly, as if to say: *you see what I mean about her.*
 
 She asked him to ask Hanna: did she ever think about leaving again?
 
-Hanna listened to the translation. She looked at Vesper for a moment. Then she said something short and definitive that Dmytro took a moment with before rendering it:
+Hanna listened to the translation. She looked at Vesper for a moment. Then she said something short and definitive that Viktor took a moment with before rendering it:
 
 "She says she stopped thinking about it in 1990. She says—" he paused, finding the English. "You can only decide to come home once. After that it's just being home."
 
@@ -1527,7 +1527,7 @@ He paused. Then added: "That's a direct translation. She says it better in Ukrai
 
 The New Safe Confinement was visible from the road as they drove back toward the checkpoint — the vast silver arch that had been slid over the original sarcophagus in 2016, the most expensive nuclear engineering project in European history, designed to contain the destroyed reactor for one hundred years. It rose above the treeline, gleaming, slightly alien in the forest landscape, the most deliberate human object in a zone that had been defined by human absence.
 
-"After a hundred years?" she said to Dmytro.
+"After a hundred years?" she said to Viktor.
 
 "There are plans," he said. "Plans for plans." He drove for a moment. "The scientists say the reactor core is still active in certain ways. It will be active for a very long time. What we have built is a pause." He shrugged, without despair. "We are good at building pauses."
 
@@ -1615,7 +1615,7 @@ The kitchen was warm. The window looked out over the slope toward the upper grov
 
 Eleni looked at her cup. "November," she said. "The seventh."
 
-She said the word she had been not-saying. "Ambrose."
+She said the word she had been not-saying. "Andreas."
 
 "Yes."
 
@@ -1627,7 +1627,7 @@ Vesper looked at the window. The upper grove was visible from here — the tree 
 
 "He didn't tell me."
 
-Eleni looked at her without saying what they both knew, which was that Ambrose had tried.
+Eleni looked at her without saying what they both knew, which was that Andreas had tried.
 
 ---
 
@@ -1707,7 +1707,7 @@ She stayed.
 
 After they came in from the grove, Eleni made soup.
 
-Vesper sat at the kitchen table and watched her do it — the particular movement of someone who had cooked in the same kitchen for many years, not looking at anything, reaching without reaching. She knew where everything was without the knowledge being visible. She moved through the kitchen the way Ambrose had moved through the grove, Vesper thought. Without waste. At home.
+Vesper sat at the kitchen table and watched her do it — the particular movement of someone who had cooked in the same kitchen for many years, not looking at anything, reaching without reaching. She knew where everything was without the knowledge being visible. She moved through the kitchen the way Andreas had moved through the grove, Vesper thought. Without waste. At home.
 
 "I teach at the school in Leonidio," Eleni said, not turning from the stove. "Third and fourth grade. I've been doing it for twenty-two years." She stirred. "I tell you this because I want you to know I am not someone who ran out of options. I'm someone who had options and chose these ones."
 
@@ -1723,7 +1723,7 @@ She brought the bowls to the table and sat.
 
 The kitchen was warm. Through the window the grove was dark, the shapes of the upper trees visible against the sky — the ones that were still holding their canopy faintly present, faintly not.
 
-"He used to come for dinner," Eleni said. "Ambrose. Two or three times a week in the last years. He'd bring things from his garden — onions, tomatoes in season — and I'd make something and we'd sit and talk." She picked up her spoon. "He talked about the survey. The grove, the old settlement, what he was finding in the archive. He talked about the work the way some people talk about their children — proud of it but not possessive. Like it was going to go on without him." She paused. "He talked about you."
+"He used to come for dinner," Eleni said. "Andreas. Two or three times a week in the last years. He'd bring things from his garden — onions, tomatoes in season — and I'd make something and we'd sit and talk." She picked up her spoon. "He talked about the survey. The grove, the old settlement, what he was finding in the archive. He talked about the work the way some people talk about their children — proud of it but not possessive. Like it was going to go on without him." She paused. "He talked about you."
 
 Vesper looked at her bowl.
 
@@ -1794,7 +1794,7 @@ They ate for a while in the quiet that comes after the things that needed saying
 
 "The lower grove," Vesper said. "The post. *We are losing them.* Who wrote that?"
 
-"Petros Alexiou. He's ninety-one. His granddaughter types what he dictates. He's been posting since the first trees started going — every time another section dies he puts something on the community page. Small things. Photographs he takes from his bench on the plateia." She paused. "The bench faces the lower grove. He's been sitting there most mornings for thirty years."
+"Petros. He's ninety-one. His granddaughter types what he dictates. He's been posting since the first trees started going — every time another section dies he puts something on the community page. Small things. Photographs he takes from his bench on the plateia." She paused. "The bench faces the lower grove. He's been sitting there most mornings for thirty years."
 
 "Is he well?"
 
@@ -1804,13 +1804,13 @@ Eleni looked at her. "He's ninety-one and he sits on a bench watching the trees 
 
 She went in the morning.
 
-The plateia was a small square below the church, a fountain that ran in summer and didn't in December, two benches in the sun. Petros Alexiou occupied one of them with the settled authority of a person who had been occupying it long enough that it had become partially his.
+The plateia was a small square below the church, a fountain that ran in summer and didn't in December, two benches in the sun. Petros occupied one of them with the settled authority of a person who had been occupying it long enough that it had become partially his.
 
 He was very old — the specific fragility of extreme age, but alert, his eyes clear when he looked up at her. He knew her face, or some earlier version of it — the version that had grown up here before it became the face of someone who lived in airports.
 
 "Eleni's friend," he said.
 
-"Eleni's friend." She sat on the other end of the bench. "And Ambrose Katsaros's—" She paused, not finding the word.
+"Eleni's friend." She sat on the other end of the bench. "And Andreas Katsaros's—" She paused, not finding the word.
 
 "He was a good man," Petros said. "He used to come and sit here. We'd talk about the survey, about what he was finding. He showed me photographs from the archive — pictures of the grove from sixty years ago. More trees. Bigger canopy. Full of it." He turned his face toward the winter sun. "My father took me into the lower grove when I was four years old. I still remember it. The smell — warm in summer, the oil in the bark and something else underneath, something I could never name. I still can't name it."
 
@@ -1860,7 +1860,7 @@ That evening in Eleni's kitchen, she told her about Petros.
 
 "He said: that's something, then," she said. "'Still there' — that's something."
 
-Eleni was quiet for a moment. Then she said: "He says that about a lot of things. It's his way." She poured the tea. "He said it about Ambrose finishing the survey. He said it about the wolves in Chernobyl when I told him about your work. He said it about you coming home." She set the cups down. "I think it's what he has instead of hope. Which is harder to come by but lasts longer."
+Eleni was quiet for a moment. Then she said: "He says that about a lot of things. It's his way." She poured the tea. "He said it about Andreas finishing the survey. He said it about the wolves in Chernobyl when I told him about your work. He said it about you coming home." She set the cups down. "I think it's what he has instead of hope. Which is harder to come by but lasts longer."
 
 Vesper wrapped her hands around the cup.
 
@@ -1910,7 +1910,7 @@ She stood there and waited for the urgency she had been carrying for five months
 
 ---
 
-She had read Ambrose's survey the evening before, at Eleni's kitchen table.
+She had read Andreas's survey the evening before, at Eleni's kitchen table.
 
 Eleni had a copy — he had left her one, for reasons Eleni did not explain and Vesper did not ask about. Three hundred and forty pages, spiral-bound, the cover a photograph he had taken from the ridge above the village: Elathon below, the valley, the olive groves, the ruins of the older settlement visible at the edge of the grove as a slight depression in the ground that only someone who had been looking at it for years would know to see.
 
@@ -1928,7 +1928,7 @@ He had known how to arrive. He had simply done it, every day, for the rest of hi
 
 She stayed in the grove for a long time.
 
-The world continued, as it did. She knew what was happening in it: she had the data, the full picture, the complete shape of the pattern across the whole of recorded history. The working groups were meeting. The journals were processing. Somewhere Maes was in a conference room asking for a higher evidentiary standard. The Downwinders were filing. The black bags were in the fields. The Exclusion Zone was filling with wolves and birch trees and the light through the canopy of a forest growing over abandoned streets.
+The world continued, as it did. She knew what was happening in it: she had the data, the full picture, the complete shape of the pattern across the whole of recorded history. The working groups were meeting. The journals were processing. Somewhere Marc was in a conference room asking for a higher evidentiary standard. The Downwinders were filing. The black bags were in the fields. The Exclusion Zone was filling with wolves and birch trees and the light through the canopy of a forest growing over abandoned streets.
 
 Brandt had told her: the institution cannot afford to acknowledge what you've found. Ruth had told her: we're not going to stop. Hanna had told her: you can only decide to come home once.
 
@@ -1946,7 +1946,7 @@ She could not save it.
 
 She could be here while it was still here.
 
-She sat down at the base of the oldest tree, her back against the trunk, the ground cold beneath her. From here the village was not visible. The valley was not visible. There was only the grove — the living trees and the dying ones, the morning light coming through the canopy at the angle she knew from Ambrose's photograph, the smell of the soil and the old wood and the cold air off the hills.
+She sat down at the base of the oldest tree, her back against the trunk, the ground cold beneath her. From here the village was not visible. The valley was not visible. There was only the grove — the living trees and the dying ones, the morning light coming through the canopy at the angle she knew from Andreas's photograph, the smell of the soil and the old wood and the cold air off the hills.
 
 She did not open her notebook.
 
@@ -2133,7 +2133,7 @@ Yuki Mori, in Hiroshima. Who had spent twenty years recording testimony rather t
 
 Ruth, in Utah. Who had said: the pattern was the tests. Everything since is trying to survive them. Who had been filing and testifying for forty years without expecting it to be enough and had done it anyway.
 
-Dmytro, in Chernobyl. Who had said: we are good at building pauses.
+Viktor, in Chernobyl. Who had said: we are good at building pauses.
 
 Four people. Across three continents. Each of them already in the place the document described, not because they had read a paper but because the pattern had come to them and they had found a way to keep going inside it.
 
@@ -2337,7 +2337,7 @@ The oldest tree was where it had always been. The light on it was the light of a
 
 Two to three billion. She had said it plainly, without flinching, in the register of data, which was the only register she had ever fully trusted. She had built the methodology across seven years to be able to say it and have it mean something. It meant something. It would be heard by six people and suppressed and it would mean something.
 
-Somewhere in Beirut, Haddad had the document. In Hiroshima, Mori. In Utah, Ruth. In the Exclusion Zone, Dmytro.
+Somewhere in Beirut, Haddad had the document. In Hiroshima, Mori. In Utah, Ruth. In the Exclusion Zone, Viktor.
 
 The world would continue in the direction it was going. The pattern would continue. The toll would accumulate in the way that tolls accumulate — gradually, unevenly, out of sight of the people and institutions with the power to name it officially.
 
@@ -2385,7 +2385,7 @@ She looked at the oldest tree.
 
 She thought about what she had told the leader who asked the personal question. *Find the place that is yours. Go there. Stay.* She was in her place. She was staying. If she accepted the offer, she would leave.
 
-Not physically, necessarily. But she would leave in the way that mattered. She would become the person managing the response. Her attention — which was the only thing she had that was not the pattern, the quality of attention she had seen in Ambrose's survey notes and in Hanna's garden and in Ruth still testifying after forty years — her attention would go to the program. To the deliverables she would not be required to produce but would produce anyway, because that was what the position required, because positions require the people who hold them to behave like positions, because that was what institutions did.
+Not physically, necessarily. But she would leave in the way that mattered. She would become the person managing the response. Her attention — which was the only thing she had that was not the pattern, the quality of attention she had seen in Andreas's survey notes and in Hanna's garden and in Ruth still testifying after forty years — her attention would go to the program. To the deliverables she would not be required to produce but would produce anyway, because that was what the position required, because positions require the people who hold them to behave like positions, because that was what institutions did.
 
 Brandt had written: *I know how this sounds.*
 
@@ -2405,7 +2405,7 @@ Then she went inside and wrote her response.
 
 She wrote it carefully, in the register of the eleven pages — precise, without apology, saying the thing directly.
 
-She could not accept the position. Not because she lacked the will to do something with what she knew. Because accepting the position was the most complete possible expression of the pattern she had spent eleven years documenting. The moment she took the authority, she became the institution. The institution would protect its premise with the same mechanism every institution used. In five years she would be making the same arguments as Maes — technically defensible, requiring no acknowledgment that the door exists. She had the data for this. She was not an exception to her own findings.
+She could not accept the position. Not because she lacked the will to do something with what she knew. Because accepting the position was the most complete possible expression of the pattern she had spent eleven years documenting. The moment she took the authority, she became the institution. The institution would protect its premise with the same mechanism every institution used. In five years she would be making the same arguments as Marc — technically defensible, requiring no acknowledgment that the door exists. She had the data for this. She was not an exception to her own findings.
 
 What she could offer was this: she would continue. She would keep writing. She would speak to anyone who wanted to hear what the data showed. She would name the pattern wherever she saw it — in the programs they built, in the responses they designed, in herself. She would not manage the response. She would not direct the resources. She would not hold the position.
 
@@ -2439,7 +2439,7 @@ The light in the grove in January was low and came in at an angle that caught th
 
 "Yes."
 
-Eleni looked at the trees. "Ambrose would have said the same thing," she said. "He was asked twice to sit on the regional archaeological commission. He said he could not oversee a place he was trying to be present to."
+Eleni looked at the trees. "Andreas would have said the same thing," she said. "He was asked twice to sit on the regional archaeological commission. He said he could not oversee a place he was trying to be present to."
 
 Vesper said nothing. She had not known this.
 
@@ -2449,7 +2449,7 @@ The grove was quiet. Somewhere in the upper section, something moved — a bird,
 
 The world was still running in the direction it was running. The programs were still generating their consequences. The toll was still accumulating in the way that tolls accumulate — gradually, invisibly, in the places that the institutions with the power to name it officially had agreed not to look at directly. The leaders were still in their positions, carrying the weight of what she had given them, building what they would build with it, which would be another mobilisation informed by her work and still a mobilisation.
 
-And in Beirut, Haddad had the document. In Hiroshima, Mori. In Utah, Ruth. In the Exclusion Zone, Dmytro. In Patras, Ambrose's survey.
+And in Beirut, Haddad had the document. In Hiroshima, Mori. In Utah, Ruth. In the Exclusion Zone, Viktor. In Patras, Andreas's survey.
 
 The record was in the right hands. Not enough hands. Not the hands with the authority to implement a response at the scale the numbers required. The hands that were already inside it, that had been inside it before they could choose, that had found a way to stay present and keep going.
 
@@ -2479,7 +2479,7 @@ Still here.
 # THE INTERVAL
 ## Chapter Sixteen
 
-Eleni put it on the kitchen table four days after the meal, after the refusal, after the conversation about Ambrose and the commission.
+Eleni put it on the kitchen table four days after the meal, after the refusal, after the conversation about Andreas and the commission.
 
 A cassette tape in a plastic case, the kind that had stopped being made in most of the world before Vesper left for Athens the first time. The label on the spine was in his handwriting. Her name. Just her name. Nothing else.
 
@@ -2641,9 +2641,9 @@ The village would not be gone. People would stay, or some would stay, or the one
 
 She would probably be one of them. Statistically, probably.
 
-But she had understood, since she sat in Eleni's kitchen and heard November and the seventh, that surviving in body was not the same as surviving in full. Ambrose had survived his illness right up until he didn't. The grove was surviving right now, this morning, the oldest tree still alive. The upper branches catching the light that came through the kitchen window at this hour — she could see it from where she sat, the same light from the same angle she had been watching for three weeks, learning the pattern of it.
+But she had understood, since she sat in Eleni's kitchen and heard November and the seventh, that surviving in body was not the same as surviving in full. Andreas had survived his illness right up until he didn't. The grove was surviving right now, this morning, the oldest tree still alive. The upper branches catching the light that came through the kitchen window at this hour — she could see it from where she sat, the same light from the same angle she had been watching for three weeks, learning the pattern of it.
 
-You could survive while losing the things that made survival the point. She had done this for eleven years without knowing it — surviving in Thessaloniki, producing the work, building the case, and losing the grove and Ambrose and the ordinary life she had not allowed herself to want directly enough to choose.
+You could survive while losing the things that made survival the point. She had done this for eleven years without knowing it — surviving in Thessaloniki, producing the work, building the case, and losing the grove and Andreas and the ordinary life she had not allowed herself to want directly enough to choose.
 
 She was here now. She was in the grove and in the house and in the village and she was not going back. Whatever surviving looked like from here, it would be this — present to the place as it changed, as it contracted, as the trees died one by one and the soil gave up its last chemistry and the village became something different from what it had been. She would be here for it.
 
@@ -2663,13 +2663,13 @@ She had spent eleven years knowing things. She had built the methodology to know
 
 She was at the end of what knowing could do for her.
 
-What came next was not knowing. What came next was being here, in the uncertainty, without the instrument she had spent her whole career building. The data had taken her as far as the data could go. The rest was something else — the thing Ambrose had been trying to tell her from the excavation trench, the thing Haddad had asked her about in the Beirut café, the thing Mori had named when she asked what would change her mind.
+What came next was not knowing. What came next was being here, in the uncertainty, without the instrument she had spent her whole career building. The data had taken her as far as the data could go. The rest was something else — the thing Andreas had been trying to tell her from the excavation trench, the thing Haddad had asked her about in the Beirut café, the thing Mori had named when she asked what would change her mind.
 
 The rest was living in the place, with the data she had and the uncertainty she had and the hands she had and the time she had — however much that was.
 
 ---
 
-She thought about Haddad, in Beirut. About Mori in Hiroshima. About Ruth in Utah, still filing, still testifying, forty years in. About Dmytro watching the wolves in the Exclusion Zone.
+She thought about Haddad, in Beirut. About Mori in Hiroshima. About Ruth in Utah, still filing, still testifying, forty years in. About Viktor watching the wolves in the Exclusion Zone.
 
 They had the document. They would do what they would do with it. She had not told them what to do. She would not. Whatever grew from the four copies she had sent — if anything grew — it would grow in its own direction, in the intervals between the mobilisations, in the spaces the pattern had not yet consumed. She could not manage it. She could not direct it. She could only have sent it, and she had.
 
@@ -2687,7 +2687,7 @@ She knew that two to three billion people — mostly not like her, mostly in pla
 
 She knew that the oldest tree in the grove in Elathon was still alive this morning.
 
-She knew that Ambrose had put his hand on it and thought of her.
+She knew that Andreas had put his hand on it and thought of her.
 
 She knew that she was here, finally, in the place that was hers, with her hands available for whatever the place needed from them.
 
@@ -2729,7 +2729,7 @@ Vesper looked at the grove.
 
 "You're not calling to apologize," she said.
 
-"No. I'm calling because the document is circulating. Not through the journals. Not through the institutions. Through the people the institutions don't account for." Haddad's voice was precise and warm simultaneously, the tone of someone delivering good news they had been holding carefully. "Haddad's network, let's say. Maes's counterparts in six countries. People in the reconstruction world who have been saying what you proved for twenty years and couldn't get anyone to publish it." A pause. "They're reading it. They're using it. Not to write papers. To make decisions." Another pause. "You should know that."
+"No. I'm calling because the document is circulating. Not through the journals. Not through the institutions. Through the people the institutions don't account for." Haddad's voice was precise and warm simultaneously, the tone of someone delivering good news they had been holding carefully. "Haddad's network, let's say. Marc's counterparts in six countries. People in the reconstruction world who have been saying what you proved for twenty years and couldn't get anyone to publish it." A pause. "They're reading it. They're using it. Not to write papers. To make decisions." Another pause. "You should know that."
 
 "Thank you for telling me."
 
@@ -2786,7 +2786,7 @@ Ruth sent a card. A postcard from St. George, Utah — a landscape photograph, t
 
 ---
 
-Dmytro sent an email. Short, in the way of someone who had learned that short things often carried more than long things:
+Viktor sent an email. Short, in the way of someone who had learned that short things often carried more than long things:
 
 *The wolves had pups in the forest near Pripyat. Three pups, confirmed. Monitoring team documented them last week.*
 
@@ -2828,7 +2828,7 @@ Vesper looked at the grove.
 
 ---
 
-That evening Vesper sat in Eleni's kitchen with the letters and the card and her phone open to Dmytro's email, all of it laid out on the table in the lamp's light.
+That evening Vesper sat in Eleni's kitchen with the letters and the card and her phone open to Viktor's email, all of it laid out on the table in the lamp's light.
 
 Eleni sat across from her, her own tea, not reading the letters — she would read them when she was offered them, and Vesper would offer them in time, but this moment was not for reading.
 
