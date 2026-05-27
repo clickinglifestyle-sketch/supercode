@@ -29,7 +29,7 @@ She thought: of course it looks like nothing. That's the point.
 
 ---
 
-She had arranged to meet a historian at the University of Picardie in Amiens, but on the road south from Amiens she stopped moving entirely for two hours.
+On the road south from Amiens she stopped moving entirely for two hours.
 
 The tractors were blocking the N29 in both directions — a line of them stretching around the curve of the road, engines running, the farmers in their cabs or standing in groups at the verges. A handpainted banner strung between two vehicles: *ON CRÈVE ICI PENDANT QUE BRUXELLES DÉCIDE.* We're dying here while Brussels decides.
 
@@ -43,7 +43,7 @@ The farmer standing nearest to her rental car was a woman in her forties, arms c
 
 "You have the data for what those programs did to the soil here?"
 
-"Some of it. My primary dataset is from Greece, but the mechanisms are the same across the—"
+"Some of it. Most of my work is from Greece, but the same things have happened here, across all of it—"
 
 "And what does your data say?" The woman's voice was not hostile. It was simply tired and direct, the voice of someone who had been asking this question in different rooms for years. "About what the programs did."
 
