@@ -237,7 +237,7 @@ Forty-three people had liked it.
 
 She looked at it for a long time.
 
-Then she closed the laptop, finished packing, and went to bed.
+Then she closed the laptop, finished packing, and went to bed. Elathon could wait three weeks. There was still time — the upper grove was still holding, the commission would be filed before she left, and Beirut was three weeks, not a year. She would go home in the spring.
 
 ---
 
