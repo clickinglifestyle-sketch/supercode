@@ -1162,7 +1162,7 @@ She stood up and looked at the obelisk.
 
 July 16, 1945. Robert Oppenheimer in the control bunker ten kilometres south, watching through welder's glass, thinking — later, he would say — of the Bhagavad Gita. *Now I am become Death, the destroyer of worlds.* A line that had become so cited it had almost lost its weight. She tried to give it back its weight, standing at the marker in the morning sun.
 
-Twenty-one days later: Hiroshima. Thirty-one days later: Nagasaki. Six weeks after that: the Japanese surrender and the beginning of the American occupation and the reconstruction program and the economic miracle and the peaceful atom and the reactor and the bags stacked in the Fukushima fields.
+Twenty-one days later: Hiroshima. Twenty-four days later: Nagasaki. Twenty-four days after that: the Japanese surrender and the beginning of the American occupation and the reconstruction program and the economic miracle and the peaceful atom and the reactor and the bags stacked in the Fukushima fields.
 
 The chain was unbroken. She could see every link from here.
 
@@ -1238,7 +1238,7 @@ She thought about the hibakusha. She thought about Haddad hanging laundry in a b
 
 None of them had stopped. None of them had the option of stopping. The pattern had come to them. They were inside it before they could choose.
 
-She had chosen. She had left Elathon at twenty-two and chosen a career that kept her at a distance from everything the pattern was destroying and told herself she was documenting it, which was useful, which was a form of doing something.
+She had chosen. She had left Elathon at twenty-eight and chosen a career that kept her at a distance from everything the pattern was destroying and told herself she was documenting it, which was useful, which was a form of doing something.
 
 She sat with that for a while.
 
@@ -1830,7 +1830,7 @@ She walked back up through the village slowly, the way you walk through a place 
 
 She had spent eleven years studying places at a distance — from satellite images, from archives, from the window of a rental car. She had been very good at it. She had built a methodology from it. She had proved things.
 
-She had not known, walking down this road as a twenty-two-year-old with an admission letter in her bag, that she was leaving the place from which everything she would later study could have been seen most clearly. She had come to understand that elsewhere. She had needed a man in a doorway in Beirut, a farmer on the N29, a woman with a RECOGNITION sign, a hardware store owner in a decontaminated ghost town, an old Ukrainian woman tending her mother's sunflowers in contaminated soil.
+She had not known, walking down this road as a twenty-eight-year-old with an admission letter in her bag, that she was leaving the place from which everything she would later study could have been seen most clearly. She had come to understand that elsewhere. She had needed a man in a doorway in Beirut, a farmer on the N29, a woman with a RECOGNITION sign, a hardware store owner in a decontaminated ghost town, an old Ukrainian woman tending her mother's sunflowers in contaminated soil.
 
 She had needed all of them to bring her back here, to this road, to an old man on a bench who had been watching the trees die for eight years and had decided it was something that they were still standing.
 
@@ -1882,7 +1882,7 @@ Some of the trees still held their leaves — less than she had hoped, more than
 
 She walked in among them.
 
-She had not walked here since she was twenty-two. She had been the kind of person who kept precise records of everywhere she had been and had not included this in them for eleven years, which told her something she had not wanted to look at directly.
+She had not walked here since she was twenty-eight. She had been the kind of person who kept precise records of everywhere she had been and had not included this in them for eleven years, which told her something she had not wanted to look at directly.
 
 The ground under the trees was the ground of her childhood. The particular quality of olive grove soil — dense with fallen leaves over centuries, dark, the tree roots visible at the surface in places, the ground uneven around the oldest trunks. She knew where to put her feet. She had not known she still knew.
 

@@ -57,7 +57,7 @@ She stood up and looked at the obelisk.
 
 July 16, 1945. Robert Oppenheimer in the control bunker ten kilometres south, watching through welder's glass, thinking — later, he would say — of the Bhagavad Gita. *Now I am become Death, the destroyer of worlds.* A line that had become so cited it had almost lost its weight. She tried to give it back its weight, standing at the marker in the morning sun.
 
-Twenty-one days later: Hiroshima. Thirty-one days later: Nagasaki. Six weeks after that: the Japanese surrender and the beginning of the American occupation and the reconstruction program and the economic miracle and the peaceful atom and the reactor and the bags stacked in the Fukushima fields.
+Twenty-one days later: Hiroshima. Twenty-four days later: Nagasaki. Twenty-four days after that: the Japanese surrender and the beginning of the American occupation and the reconstruction program and the economic miracle and the peaceful atom and the reactor and the bags stacked in the Fukushima fields.
 
 The chain was unbroken. She could see every link from here.
 
@@ -133,7 +133,7 @@ She thought about the hibakusha. She thought about Haddad hanging laundry in a b
 
 None of them had stopped. None of them had the option of stopping. The pattern had come to them. They were inside it before they could choose.
 
-She had chosen. She had left Elathon at twenty-two and chosen a career that kept her at a distance from everything the pattern was destroying and told herself she was documenting it, which was useful, which was a form of doing something.
+She had chosen. She had left Elathon at twenty-eight and chosen a career that kept her at a distance from everything the pattern was destroying and told herself she was documenting it, which was useful, which was a form of doing something.
 
 She sat with that for a while.
 

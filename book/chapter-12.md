@@ -21,7 +21,7 @@ Some of the trees still held their leaves — less than she had hoped, more than
 
 She walked in among them.
 
-She had not walked here since she was twenty-two. She had been the kind of person who kept precise records of everywhere she had been and had not included this in them for eleven years, which told her something she had not wanted to look at directly.
+She had not walked here since she was twenty-eight. She had been the kind of person who kept precise records of everywhere she had been and had not included this in them for eleven years, which told her something she had not wanted to look at directly.
 
 The ground under the trees was the ground of her childhood. The particular quality of olive grove soil — dense with fallen leaves over centuries, dark, the tree roots visible at the surface in places, the ground uneven around the oldest trunks. She knew where to put her feet. She had not known she still knew.
 

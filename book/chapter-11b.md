@@ -103,7 +103,7 @@ She walked back up through the village slowly, the way you walk through a place 
 
 She had spent eleven years studying places at a distance — from satellite images, from archives, from the window of a rental car. She had been very good at it. She had built a methodology from it. She had proved things.
 
-She had not known, walking down this road as a twenty-two-year-old with an admission letter in her bag, that she was leaving the place from which everything she would later study could have been seen most clearly. She had come to understand that elsewhere. She had needed a man in a doorway in Beirut, a farmer on the N29, a woman with a RECOGNITION sign, a hardware store owner in a decontaminated ghost town, an old Ukrainian woman tending her mother's sunflowers in contaminated soil.
+She had not known, walking down this road as a twenty-eight-year-old with an admission letter in her bag, that she was leaving the place from which everything she would later study could have been seen most clearly. She had come to understand that elsewhere. She had needed a man in a doorway in Beirut, a farmer on the N29, a woman with a RECOGNITION sign, a hardware store owner in a decontaminated ghost town, an old Ukrainian woman tending her mother's sunflowers in contaminated soil.
 
 She had needed all of them to bring her back here, to this road, to an old man on a bench who had been watching the trees die for eight years and had decided it was something that they were still standing.
 
