@@ -35,23 +35,37 @@ The tractors were blocking the N29 in both directions — a line of them stretch
 
 She pulled off the road behind a queue of cars and sat for a while. Then she got out.
 
-The farmer standing nearest to her rental car was a woman in her forties, arms crossed, watching the queue with the particular patience of someone prepared to be here all day. Vesper introduced herself in her halting French. The woman switched to English without comment.
+The farmer standing nearest to her rental car was a woman in her forties, arms crossed, watching the backed-up queue with the settled patience of someone who had cleared her schedule for this.
 
-"Agricultural historian," the woman repeated. "You study what's happened to the land."
+Vesper introduced herself in her halting French. The woman looked at her for a moment, then switched to English.
 
-"And the policies that affected it. The EU programs, the development—"
+"Agricultural historian," she repeated. "You study what's happened to the land."
 
-"You have the data for what those programs did to the soil here?"
+"And the policies. The EU programs, what they did to soil chemistry over decades—"
 
-"Some of it. Most of my work is from Greece, but the same things have happened here, across all of it—"
+"You're Greek."
 
-"And what does your data say?" The woman's voice was not hostile. It was simply tired and direct, the voice of someone who had been asking this question in different rooms for years. "About what the programs did."
+"Yes."
 
-Vesper told her. Not the full methodology — just the finding. The contamination in the deeper layers. The yield reductions that followed the interventions. The pattern that held across seventeen case studies.
+The woman uncrossed her arms. "Then you know. What they did to the olive groves. The wheat. All of it — you push the soil to produce at a rate the soil isn't designed for, you feed it chemicals to compensate, and then ten years later you're feeding it more chemicals to compensate for the first chemicals." She looked at the tractors. "This is not complicated. My grandfather understood this. My grandfather's father understood this. The people in Brussels who designed the programs — you know what they had that my grandfather didn't have?"
 
-The woman listened without interrupting.
+"What?"
 
-"I could have told you that," she said when Vesper finished. "My father could have told you that. My grandfather. We didn't need a dataset." She looked at the line of tractors. "The problem is not that nobody knows. The problem is that knowing doesn't stop anything."
+"A budget." She said it with a kind of exhausted comedic precision, the way you say a thing you've said a thousand times and still find genuinely funny in a dark way. "And a theory. A very large budget and a very confident theory. My grandfather only had the land." She looked at Vesper. "You have data for what the programs did here?"
+
+"Some. I've worked mainly in Greece, but what I've found there—"
+
+"Tell me."
+
+So Vesper told her. Not the full argument — just the finding. The contamination in the deeper layers. The yield reductions that came after the interventions, not before. The pattern across seventeen different regions, four decades of data.
+
+The woman listened without interrupting. Her expression didn't change.
+
+"I could have told you that," she said when Vesper finished. "My father could have told you. My grandfather. We have been telling people that for forty years, with less impressive documentation." She looked at the banner strung between the tractors. *On crève ici pendant que Bruxelles décide.* "You know what is interesting to me about your research?"
+
+"What?"
+
+"That you needed eleven years of data to prove something every farmer on this road already knew." She said it without cruelty. Just as a fact. "The problem is not that nobody knows. The problem is that knowing doesn't stop anything."
 
 The blockade cleared after another forty minutes. Vesper drove on to Thiepval.
 
@@ -73,21 +87,31 @@ She wrote in her notebook: *72,000 names. Each name a person who was fed into th
 
 The historian in Amiens was named Dr. Fontaine — a small, precise woman who studied the long-term agricultural consequences of the Western Front. She took Vesper to a farm southeast of Albert, where a man named Patrice had been farming his family's land for thirty-five years.
 
-Patrice was in his sixties, built like someone who worked outside in all weather, with the particular manner of a person who had been asked to explain his life to academics before and found it not entirely useful. He showed them a shed at the edge of a field where a rusted collection of shells were lined up along the wall — that season's iron harvest, waiting for the disposal team.
+Patrice was in his sixties, built like someone who worked outside in all weather, with the manner of a man who had explained his life to academics before and found the experience not entirely useful but had made his peace with it. He showed them a shed at the edge of a field where a rusted collection of shells were lined up along the wall — that season's iron harvest, waiting for the disposal team.
 
-"Every spring," he said, in French that Fontaine translated in a low voice beside Vesper. "Sometimes more, sometimes less. Last year we had four in one field — big ones, 155mm, German. The year before, almost nothing." He shrugged. "You never know."
+He looked at the shells the way a person looks at a pile of objects he's been collecting for thirty-five years. Familiar, a little tedious, entirely his.
 
-"What do you do when you find one?" Vesper said.
+"Every spring," he said, in French that Fontaine translated in a low voice beside Vesper. "Sometimes more, sometimes less. Last year we had four in one field — big ones, 155mm, German. The year before, almost nothing." He shrugged. "You never know which year it will be."
 
-Fontaine translated. Patrice looked at her as though the question were slightly puzzling in its simplicity.
+"What do you do when you find one?"
 
-"I call the number," he said. "They come. They take it. That's all."
+Fontaine translated. Patrice looked at the question.
 
-"Does it—" she paused, looking for the right word. "Does it affect how you farm? Knowing they're there?"
+"I call the number," he said. "They come, they take it, they say thank you, I say thank you, everyone goes home." He paused. "Last spring we found one that was still pointing upward. Still armed — the disposal team said it might still function. My cousin called me from the next field over. He sounded very calm on the phone." A pause. "He was not calm. He just sounds that way."
 
-Fontaine translated. Patrice thought about it.
+Vesper looked at the shells along the wall. Most of them were broken open, oxidized orange-brown. One near the end looked almost intact.
 
-"My grandfather farmed this land," he said. "My father farmed it. I farm it. The shells were here when my grandfather plowed and they will be here when my grandchildren plow." He looked at the line of rusted metal along the wall. "You learn to see the soil differently. You look for certain things. The colour changes where a shell is close to the surface. The plants grow differently." He paused. "But you don't not farm. You just farm."
+"Does it change how you work? Knowing they're there?"
+
+Fontaine translated. Patrice thought about it with the seriousness of a man who considered questions about his land worth considering properly.
+
+"My grandfather farmed this land," he said. "My father farmed it. I farm it. My son will probably farm it, though he currently believes he will be a musician, which we will revisit." He looked at the shells. "The shells were here when my grandfather plowed. They will be here when my grandchildren plow. Maybe their grandchildren — the disposal people tell me there are enough left to find for another hundred years." He said this without drama. "You learn to read the soil. The colour changes where a shell is close to the surface. The plants grow differently — they stand wrong, like something is crowding them from underneath. You learn what to look for." He paused. "But you don't not farm. You just farm."
+
+"Does it ever—" Vesper looked for the word. "Does it ever make you angry? The shells being there?"
+
+Fontaine translated. Patrice looked at her with an expression she couldn't fully read — not offended, not puzzled, somewhere between the two.
+
+"The shells were put there a hundred years ago," he said. "The men who put them there are dead. The government that ordered it is gone." He shrugged. "What would I be angry at? The soil?" He picked up his jacket from the shed wall. "Angry is for things you can do something about. The shells, you just farm around."
 
 ---
 

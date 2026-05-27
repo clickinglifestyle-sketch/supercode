@@ -57,39 +57,47 @@ Haddad understood the question. "For this neighbourhood — the civil war, the 2
 
 "And after the fourth?"
 
-"She died before the fifth." Haddad said it flatly. "The building is still standing."
+"She died before the fifth." Haddad said it flatly. "The building is still standing. My uncle lives in it. He complains about the water pressure constantly, which I think is his way of saying he's fine."
 
 They walked another block. Then a man stepped out of a doorway and stood in their path.
 
-He was in his fifties, work clothes, the particular stillness of someone who had been waiting. He spoke to Haddad in Arabic — not loudly, not aggressively, just directly, his eyes moving once to Vesper and then staying on Haddad.
+He was in his fifties, work clothes, and he positioned himself with the precise economy of someone who had done this before — not a confrontation, just a blockage. He looked at Haddad first. Then at Vesper. Then at the notebook sticking up from Vesper's bag.
 
-Haddad answered him. He spoke again. She answered again, shorter this time.
+"Not press," he said. In English.
 
-Then he looked at Vesper directly and said, in careful English: "You are a researcher."
+"No," Vesper said.
 
-"Yes."
+"Press I can tell from the camera. Researcher I can tell from the notebook and the way you walk." He looked at her. "You walk slow. Like you're counting things."
 
-"From where."
+"I suppose I am."
+
+"Where from."
 
 "Greece. Thessaloniki."
 
-He nodded slowly, as though this confirmed something. "I have a list," he said. "In my head. Researchers who have come to this street. I have been here since 1994. I can tell you the name of every institution. The Americans. The French. The UN people. The Europeans." He paused. "I have read some of the papers. I look for my street in them. Sometimes I find it. A footnote. A case study. Part of a dataset." He looked at her notebook. "You are writing things down."
+He made a sound that wasn't quite agreement. "The last Greek was 2011. She was researching urban resilience. I counted how many times she used that word in two days of interviews." He paused. "Forty-one."
 
-"Yes."
+Haddad made a sound that might have been a suppressed laugh.
 
-"And then you will go somewhere and write the paper."
+"You?" he said to Vesper.
 
-She had no answer to this that was not a confirmation.
+"Environmental history. How decisions affect land and communities over time."
 
-"My building," he said, "was damaged in the civil war. It was damaged in 2006. It was damaged in the explosion. Each time someone came to look at it. Each time there was a report. Each time nothing changed." He was not angry — that was the thing that stayed with her afterward. He was simply accurate. "I want to know what your report will do that the others did not do."
+"Better," he said. "More honest category." He did not move from the path. "I have a list. In my head — I find I remember better if I don't write it down. Every institution that has sent someone to this street since 1994. The Americans, four. The French, three, two from Paris, one from Lyon, all three studying different things, all three writing the word 'resilience.' The UN — I've lost count, they keep sending different people, I think the organization is structured so that no one has to know what the last person found out." He paused. "Someone from Denmark once. By the time I tried to verify his organization existed, it had merged with a different organization and then I think that one also merged. I have been in twelve published papers. I have seen my building in nine photographs." He looked at the notebook. "In eight of them, I am described as 'damaged infrastructure.' In one — this was a German report, 2016 — I am a 'testament to community resilience.'" He paused. "That one I kept. I show it to people."
 
-Haddad spoke to him again in Arabic. He listened. He looked at Vesper once more, then stood aside and let them pass.
+She had no answer to this that was not a confirmation of everything he was describing.
+
+"My building," he said. "The civil war. The 2006 war. The explosion. Three times someone came afterward to look at it. Three reports. Three sets of recommendations." He looked at the building behind him — patched and standing, the colours of repair visible in layers like geological strata. "The building is still there because I fixed it myself. Not because of a report." He looked at her steadily. "So. What will your report do that the others didn't."
+
+Haddad spoke to him in Arabic — something measured and unhurried. He listened, his eyes still on Vesper. He answered. Haddad translated quietly: "I told him you were trying to understand why the reports don't change anything."
+
+He looked at Vesper for a moment longer. Then he stood aside.
 
 They walked the rest of the block without speaking.
 
-"What did you tell him?" Vesper asked.
+"What did he say to that?" Vesper asked.
 
-"That you were trying to understand why the reports don't change anything." Haddad paused. "He said that was a better question than the ones the other researchers asked."
+"He said—" Haddad thought about how to translate it. "He said it was the first question any researcher had asked that he couldn't already see the answer to." She paused. "For him, that is high praise."
 
 ---
 
@@ -99,23 +107,33 @@ Vesper had her notebook out. She was mapping the reconstruction cycles against t
 
 She noticed Haddad watching her write.
 
-"You do this everywhere?" Haddad said.
+"How many pages?" Haddad said.
 
-"Document?"
+Vesper looked at the notebook. "Fourteen. Since this afternoon."
 
-"Observe." She said it without judgment, simply naming what she saw. "You've been in the city for four hours and you've filled half that notebook."
+Haddad wrapped both hands around her coffee cup and nodded slowly, as though this confirmed something she'd suspected. "I had a colleague who came from London to study Solidere. Two weeks. He filled three notebooks. He interviewed everyone. He attended council meetings." She paused. "His paper came out eighteen months later. It was very good. The Solidere board used it in a funding presentation. They quoted him directly."
 
-"The physical evidence is significant. The built environment shows the pattern more clearly than any dataset I've—"
+"What did they quote?"
 
-"I know," Haddad said. "I've read your work. I mean something different." She wrapped both hands around her coffee cup. "I grew up three kilometres from here. I was eleven years old during the 2006 war. I have spent fifteen years studying what you are studying." She paused. "I want to know what you feel when you look at it. Not what you conclude."
+"The part where he called it 'an ambitious urban renewal intervention.'" She raised an eyebrow. "He meant it critically. They used it as a blurb." She drank her coffee. "He was extremely upset. He wrote a letter. The letter was also very good. No one quoted it."
 
-Vesper looked at her notebook. The correlations. The mapped cycles.
+Vesper looked at her fourteen pages. She was suddenly uncertain about several of the words she'd used.
+
+"I've read both your volumes," Haddad said. "The methodology is good. The data is real." She set her cup down. "I want to ask you something that's not in the methodology."
+
+"Go ahead."
+
+"What do you feel when you look at it. Not what you conclude. Not what you find. What do you feel."
+
+Vesper put her pen down. Around them the café was doing what Beirut cafés did at this hour — loud and warm, the present sitting directly on top of everything that had happened before it, neither ignoring it nor crushed by it.
 
 "I feel like I'm right," she said. "And I feel like being right doesn't help."
 
-Haddad was quiet for a moment. Outside, the street was doing what Beirut streets did at this hour — loud and alive and layered, the present sitting directly on top of everything that had happened before it, neither ignoring it nor crushed by it.
+Haddad looked at her for a moment. "That is the most honest thing any researcher has said to me in fifteen years." A pause. "Most of them feel like they're right and they feel like that's enough." She picked up her coffee. "It's not enough here. You can probably see that already."
 
-"That is closer to honest than most people get on their first day," Haddad said. "We'll work with that."
+"Yes."
+
+"Good." She signalled for the bill. "Then we have something real to work with."
 
 ---
 

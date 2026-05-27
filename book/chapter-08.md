@@ -57,37 +57,45 @@ Professor Mori worked at Hiroshima City University, in an office filled not with
 
 She had read Vesper's work. She had agreed to meet her.
 
-She was a small woman in her early sixties, with the quiet manner of someone who had spent two decades listening rather than speaking. She poured tea. She asked about the journey from Berlin. And then, without transition, she said:
+She was a small woman in her early sixties, with the quiet manner of someone who had spent two decades in rooms where the right response was usually silence. She poured tea. She asked about the journey from Berlin — how long the flight was, whether she'd connected through Frankfurt. Then:
 
-"What would change your mind?"
+"The first volume," she said. "Chapter four. You write about the Minamata disease case. The mercury poisoning."
 
-Vesper looked at her.
+"Yes."
 
-"Your hypothesis," Mori said. "You have been building it for seven years. The data goes in one direction. What would you need to see to conclude that you were wrong? That the pattern does not hold? That some interventions do stop the propensity rather than feeding it?"
+"You use it as evidence that industrial mobilization generates health consequences that require a remediation mobilization, which generates its own consequences." She looked at Vesper. "I want to tell you what I thought when I read that."
+
+"Please."
+
+"I thought: she is right, and she has no idea how right she is, and she is about to walk into the place where rightness stops being enough." She paused. "I also thought you might be using Minamata the same way the Solidere board used your colleague's phrase. Taking something true and putting it in service of a larger argument in a way that is technically accurate but — not quite honest to what the thing was." She picked up her tea. "The Minamata patients spent thirty years suing Chisso Corporation. The compensation was inadequate and late and contested every step. By your framework, that thirty years of legal mobilization was an expression of the pattern. By their experience, it was the only thing that kept them from being forgotten entirely."
+
+Vesper didn't answer immediately.
+
+"What would change your mind?" Mori said. She said it simply, as a question she had been holding since the first volume. "Your hypothesis. You have been building it for seven years. What would you need to see to conclude that you were wrong? That some interventions genuinely stop the propensity rather than redirecting it?"
 
 Vesper thought about it honestly.
 
-"If the data showed — across sufficient sample sizes, with the confounding variables controlled — that a sustained mobilization had resolved the conditions that generated it, without producing a larger problem in response. If the outcomes of intervention were, on balance and over time, better than the counterfactual."
+"If the data showed — across enough cases, with the alternative explanations accounted for — that a sustained mobilization had resolved the conditions that generated it, without producing a larger problem in response."
 
 "And has any evidence moved you in that direction?"
 
-"Some cases are ambiguous. The post-war Japanese economic recovery is the strongest counter-argument. The outcomes were—"
+"Some cases are ambiguous. The post-war Japanese economic recovery is the strongest counter-argument."
 
-"I am not asking about the outcomes," Mori said. "I am asking whether anything has changed your mind. Whether the hypothesis is a conclusion you reached or a conclusion you are building toward." She looked at Vesper over her tea. "The difference matters to the science."
+"I am not asking about the outcomes," Mori said. "I am asking whether anything has changed your mind. Whether the hypothesis is a conclusion you reached or a conclusion you are still building toward." She looked at Vesper over her tea. "The difference matters to the science. And it matters to how you sit in that museum."
 
 The room was quiet. Rain against the window.
 
-"I think I reached it," Vesper said. "And then spent seven years building the evidence. And I believe the evidence supports it. But I understand what you're asking."
+"I think I reached it," Vesper said. "And then spent seven years building the evidence. And I believe the evidence supports it." She paused. "But I understand what you're asking."
 
 "What I am asking," Mori said, "is whether you came to Hiroshima to find something, or to confirm something."
 
-Vesper didn't answer. The honest answer was both. The more honest answer was that she was no longer certain she could tell the difference.
+Vesper didn't answer. The honest answer was both. The more honest answer was that she could no longer tell the difference.
 
-"You are making Hiroshima into an example," Mori said. Not unkindly. "Into a case study in an argument about the human propensity for destruction. I understand why. The argument is serious and the evidence is real." She set down her tea. "But the people whose testimony is in those boxes were not expressions of a propensity. They were people. And some of them spent the rest of their lives arguing for nuclear abolition, not because they had a theory about human nature but because they had lived through it and they could not stop trying to prevent it happening again." She paused. "They mobilized. They campaigned. They testified, year after year, to anyone who would listen. By your framework, this mobilization fed the pattern. By their experience, it was the only honest response to what they had seen."
+"You are making Hiroshima into an example," Mori said. Not unkindly — she said it the way a person says a true thing they wish they didn't have to say. "A case study in an argument about the human tendency toward destruction. I understand why. The argument is serious and the evidence is real." She set down her tea. "But the people whose testimony is in those boxes — they were not expressions of a tendency. They were people. And some of them spent the rest of their lives arguing for nuclear abolition, not because they had a theory about human nature, but because they had been in Hiroshima on that morning and they could not stop trying to prevent it from happening to anyone else." She paused. "They mobilized. They testified, year after year, to anyone who would listen, long after most of the world had stopped listening. By your framework, that is an expression of the pattern. By their experience, it was the only honest thing left to do."
 
 Vesper said nothing.
 
-"I do not say your framework is wrong," Mori said. "I say it is incomplete. It can tell you what the pattern does. It cannot tell you what a person should do who is standing inside it."
+"I do not say your framework is wrong," Mori said. "I say it is incomplete. It can tell you what the pattern does. It cannot tell you what a person should do who is standing inside it." She looked at Vesper. "And you are going to be standing inside it soon, if you aren't already. I think you know that."
 
 ---
 
@@ -101,13 +109,13 @@ She was on the main street when a man came out of what had been a hardware store
 
 "Researcher. Environmental historian."
 
-He set the box down on the pavement. He did not look angry. He looked exhausted in the specific way of someone who had been exhausted for a long time and had stopped expecting it to end.
+He set the box down on the pavement. He did not look angry. He looked like someone who had used up most of his anger over the past several years and was now operating on something quieter and more durable.
 
-"The government said it was safe to come back," he said. "Five years ago they said this. We came back. My wife and I came back. Our children did not come back. They are in Sendai. They say they will come back when there are schools. There are no schools because there are no children." He looked at the empty street. "I come once a month to check the building. I have been doing this for five years. I will probably do it until I cannot any more."
+"The government said it was safe to come back," he said. "Five years ago. We came back. My wife and I came back. Our children did not come back — they are in Sendai. They say they will come back when there are schools. There are no schools because there are no children, and there are no children because the schools closed." He looked at the empty street with the particular expression of someone watching a logical problem he cannot solve. "I come once a month to check the building. My wife used to come with me. Now she says there is nothing to see and she is right, there is nothing to see, but I keep coming." He paused. "I don't know why I keep coming."
 
 She asked if she could ask him a question.
 
-"Everyone who comes here asks questions," he said. "The government asked questions. The scientists asked questions. The journalists asked questions. The international organisations asked questions." He picked up the box. "The questions are very good. The town is empty."
+"Everyone who comes here asks questions," he said. He said it without hostility — it was simply the truth of the place. "The government. The scientists. The journalists. The international organizations. There are more researchers than residents now. I think last year the researchers outnumbered the residents two to one." He considered this. "Maybe three to one." He picked up the box. "The questions are very good. I want you to know that. Very thoughtful questions. Very carefully researched." He looked at her directly. "The town is empty."
 
 He went back inside.
 

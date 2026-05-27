@@ -63,53 +63,67 @@ She was no one's argument.
 
 She took the lift to the fourth floor.
 
-Professor Brandt had an office at the Free University, full of books in three languages and the particular controlled clutter of someone who worked with documents for a living. She was in her late fifties, precise in her speech, with the manner of a person who had spent thirty years thinking carefully about dangerous questions and had come to some conclusions she held with conviction.
+Professor Brandt had an office at the Free University, full of books in three languages and the controlled clutter of someone who had spent thirty years treating documents as a form of conversation. She was in her late fifties, compact and precise, with the manner of a person who had thought carefully about dangerous questions long enough to no longer find them frightening — only interesting.
 
-She had read both volumes. She had specific objections.
+She poured tea without asking. She put the cups down. She sat.
 
-"Your data on agricultural intervention is the strongest part of the work," she said. "I don't dispute the pattern you've documented there. But when you extend the framework to the European project as a whole — that's where I think the argument overreaches."
+"You walked through the protest on the way in," she said.
+
+"Yes."
+
+"Both sides wanted something from you."
+
+"The activist side thought I was faculty. The other side thought I was on the wrong side of every question they care about."
+
+"And you are neither."
+
+"I'm a historian."
+
+Brandt nodded once, as though this confirmed her working theory. "I've read both volumes. I want to say that before I tell you where I think you're wrong, because I want you to know that the criticism comes from having read the work, not from having glanced at the abstract." She picked up her tea. "Your agricultural data is the strongest part. I won't dispute the pattern there. But when you extend it to the European project as a whole — that's where the argument overreaches."
 
 "In what way?"
 
-"In the most basic way. You're arguing that every major mobilization generates consequences that require a larger mobilization. But the European project is the counter-example. We have not had a war between European member states since 1945. The longest peace in European history. If your thesis were correct — if the mobilization of the EU were feeding a larger conflict — where is the conflict?"
+"In the most basic way. You're arguing that every major mobilization generates consequences that require a larger one to contain. The EU is the counter-example." She said it directly, without apology. "We have not had a war between European member states since 1945. The longest peace in the history of this continent. If the mobilization of the EU were feeding a larger conflict, where is it?"
 
-"The conflict is internal to the institution," Vesper said. "The democracy crises in Hungary and Poland. The economic coercion of the austerity period — Greece, Portugal, Spain, countries whose sovereignty over their own fiscal policy was effectively suspended. The migration crisis and the nationalism it generated. Brexit." She paused. "The EU exported the conflict to its periphery and called it peace at the centre."
+"Inside the institution," Vesper said. "Hungary and Poland. The austerity period — Greece, Portugal, Spain, countries whose ability to control their own economies was effectively suspended by Brussels on German economic principles. The migration crisis and the nationalism it produced. Brexit." She paused. "The EU exported the conflict to its periphery and called it peace at the centre."
 
-Brandt was quiet for a moment. This was different from Maes — she was actually considering it.
+Brandt was quiet for a moment. This was different from Maes — Maes had been looking for the weakness. Brandt was actually weighing it.
 
-"Some of that is fair," she said finally. "The austerity period was badly handled. The democratic backsliding in member states is a genuine crisis. But these are failures within a fundamentally successful framework, not evidence that the framework is the problem."
+"Some of that I'll grant you," she said at last. "The austerity period was badly handled. The democratic crises in member states are real. But these are failures of a fundamentally working framework, not evidence that the framework itself is the problem."
 
-"The agricultural programs," Vesper said.
+"The Peloponnese," Vesper said.
 
 Brandt looked at her.
 
-"The EU Common Agricultural Policy. The development programs in the southern periphery. I've been documenting the consequences in the Peloponnese for seven years. The programs were designed here — the economic logic behind them came from German economic thinking, from the institutions in Brussels that operate on German economic principles. The contamination in my home region is partially a consequence of programs designed by the institution you are describing as a success." She said it without emphasis. Just the data. "The framework is the problem. The framework is also the solution. They are the same framework."
+"The EU agricultural programs. I have seven years of data from my home region. The programs were designed to help — the people who designed them genuinely wanted to improve agricultural output, genuinely wanted to raise living standards. The contamination in the soil is a consequence of programs designed by the institution you are describing as a success." She said it without heat, the way she said everything. Just the finding. "The framework is the problem. The framework is also the solution. They are the same framework."
 
-Brandt was silent.
+Brandt was quiet. Outside the window the campus paths were bare-treed and quiet, students moving in their winter coats.
 
-Outside the window the Free University campus was bare-treed and quiet. Students moved along the paths below in their winter coats.
+"I know about Elathon," Brandt said finally.
 
-"I understand what you're saying," Brandt said at last. "But I want you to consider what the alternative is. What you're arguing, taken to its conclusion, is that the EU should not have been built. That the post-war mobilization of European institutions was itself the error. And what that means, in practice, is — what? That Europe should have remained thirty-seven separate national states with no integrating framework, in 1945, with the memory of two world wars? What happens then?"
+Vesper looked at her.
 
-"I'm not arguing what should have been done," Vesper said. "I'm arguing what the data shows about what was done."
+"I know about the grove. I know it's yours." She said it carefully. "I'm not invoking it against you. I'm saying — I understand that the data is not abstract for you. It never was." She looked out the window. "And that is exactly why I want you to hear this next part."
 
-"But that distinction only holds in a seminar room." Brandt's voice was still measured, but something in it had shifted — a pressure behind the words. "In the real world, if you publish the conclusion that the EU is an expression of the same impulse as the wars it was built to prevent, you are handing ammunition to every nationalist and secessionist movement in Europe. You are providing an intellectual framework for people who want to dismantle the institution. Whatever your intention, that is the consequence." She looked directly at Vesper. "You have a responsibility to that consequence."
+She turned back.
+
+"If you publish the conclusion that the EU is an expression of the same impulse as the wars it was built to prevent — those people you just walked through on the street? The ones who wanted you for their argument? They will have it. They will take your methodology, your citations, your eleven years of data, and they will use it to dismantle the institution that, whatever its failures, is the only thing standing between this continent and the thing it was before." She looked at Vesper directly. "Whatever your intention, that is the consequence. You have a responsibility to that consequence."
 
 Vesper said nothing.
 
-She had heard this argument before — not this version of it, but the structure. The data is correct but the conclusion is dangerous. The finding is real but the implications are irresponsible. The truth exists but it should not be stated because of what stating it will do.
+She had heard this argument before — not this version, but the structure. The data is right but the conclusion is dangerous. The finding is real but naming it is irresponsible. The truth exists but it should not be spoken.
 
-She had heard it and she had answered it, each time, with the argument for the primacy of evidence. She had the response ready.
+She had the response ready. She had given it many times, in many rooms.
 
 She didn't give it.
 
-She sat with it for a moment — the weight of what Brandt was saying, which was not entirely wrong. The nationalist movements. The dismantlers. The people who would take her work and use it for purposes she had never intended.
+She sat with what Brandt had said — the weight of it, which was not entirely wrong. The nationalist movements. The dismantlers. The people who would read her work looking not for understanding but for ammunition.
 
-"I know," she said finally. It was not agreement. It was something smaller and more honest — an acknowledgment that the consequence was real, and that she carried it, and that she had not resolved it.
+"I know," she said. It was not agreement. It was something smaller and more honest — an acknowledgment that the consequence was real, that she carried it, that she had not resolved it, and that she was tired of pretending otherwise.
 
-Brandt looked at her with something that might have been respect, or might have been recognition.
+Brandt looked at her with something that might have been respect, or might have been the recognition of someone who had expected a different response and found this one more interesting.
 
-"Then you understand," Brandt said, "why the institution cannot afford to acknowledge what you've found. It's not that your findings are wrong. It's that the institution exists to hold a position, and positions are not revised in the direction of dissolution." She said it without apology. "That's what institutions are. That's what they're for."
+"Then you understand," Brandt said, "why the institution cannot acknowledge what you've found. It's not that your findings are wrong. It's that acknowledging them would require the institution to question the logic it runs on, and institutions don't do that. They can't — it would dissolve them." She set down her cup. "That's what institutions are. That's what they're for. Holding positions. Not revising them toward dissolution." A pause, and then something that wasn't quite a smile. "I say this as someone who has spent thirty years inside one."
 
 ---
 

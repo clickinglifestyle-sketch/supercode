@@ -31,25 +31,33 @@ Haddad introduced Vesper's work briefly. Vesper presented for twenty minutes —
 
 She was six minutes into the questions when the UN-Habitat officer — a Belgian man named Maes, who had spent eighteen years working in post-conflict reconstruction across four continents — put his pen down flat on the table.
 
-"I want to understand the analytical framework," he said. "Because as I read it, your definition of intervention is so broad it includes both the Marshall Plan and a village well-digging programme. If those two things belong to the same analytical category, I'm not sure the category is doing any work."
+Not dramatically. With the precise deliberateness of a man who had reached a decision.
 
-"The category is defined in the methodology section," Vesper said. "Organised mobilisation of external resources directed at a defined problem. The Marshall Plan and a village well project are both instances of that category at different scales."
+"I've read both volumes," he said. "I want to say that first, because what I'm about to say is going to sound like I haven't." He looked at her directly. "The methodology is serious. The data collection is serious. What isn't serious — and I mean this technically, not personally — is the category you've built the whole thing around." He paused. "Your definition of intervention is so broad that the Marshall Plan and a village well-digging programme are the same kind of thing. The Normandy landings and a community composting initiative. If those belong in the same analytical family, the family is too large to mean anything."
 
-"But the outcomes are not comparable at different scales. The Marshall Plan produced measurable recovery across Western Europe."
+"The category is defined precisely in the methodology—"
 
-"It did. It also produced the conditions for the Cold War, the division of Germany, and forty years of proxy conflicts. I'm not arguing the outcomes were uniformly negative. I'm arguing the consequences were larger than the stated problem and required a larger mobilisation in response."
+"I know where it's defined. I'm saying the definition is too permissive." He was calm. He had done this before. "The Marshall Plan produced measurable recovery across Western Europe. Real recovery. Hospitals that work. Schools. The longest peace in European history. If your thesis is that this mobilisation fed a larger problem, I'd like to know what the counterfactual looks like. Europe in 1950, no Marshall Plan, no NATO, no integrating framework — what happens? Because I've been to places where the mobilisation didn't come. I've been to South Sudan. I've been to eastern Congo." He paused. "It's not an interval there. It's a graveyard."
 
-"That's a philosophical position, not an empirical finding."
+Around the table, no one spoke. Haddad was looking at the surface of her notebook.
 
-"I have eleven years of data across—"
+"I'm not arguing the Marshall Plan was negative," Vesper said. "I'm arguing the consequences exceeded the stated problem and required a larger mobilisation to contain. The Cold War. Germany's division. Forty years of proxy conflicts. These are not small additions to the ledger."
 
-"Correlation." He said it gently, the way people said things they had said many times. "You have documented correlations. The causal mechanism you're proposing — that the intervention itself generates the consequence — requires a much higher evidentiary standard than correlation across different contexts, different scales, different political systems." He looked at her directly. "I don't disagree that the data is interesting. I'm saying it doesn't support the claim you're making."
+"And yet the ledger still comes out positive," Maes said. "By almost any measure you'd care to apply."
 
-Around the table no one spoke. Haddad was looking at the surface of her notebook.
+"Unless you're Greek."
 
-Vesper had the response ready — she had been having this conversation, in different rooms, with different people, for four years. She gave it. She cited the specific studies that controlled for the confounding variables he was invoking. She described the methodological refinements in the second volume that addressed the correlation-causation objection. She was precise and she was correct and she could see, as she spoke, that it made no difference.
+A silence.
 
-Maes listened carefully. He acknowledged two of the points. He re-stated the third objection in slightly different language.
+Maes looked at her. Something shifted in the room.
+
+"The EU agricultural programs," Vesper said. "The development initiatives in the southern periphery. I have seven years of data from my home region. The programs were designed to help. The consequences are in the soil chemistry of the Peloponnese, which is dying under the weight of interventions designed to improve it." She said it without heat, the way she said everything. Just the data. "I am not arguing the Marshall Plan was wrong. I am arguing that the same logic that made it work also made it damage things it couldn't see."
+
+Maes was quiet for a moment. He was actually thinking about it, which was more than most people in his position did.
+
+"You have documented that the pattern holds," he said at last. "I'm saying that showing it holds doesn't prove it shouldn't. Sometimes the pattern is the only tool there is."
+
+He acknowledged two of her responses. He re-stated the third objection in different language.
 
 The meeting moved on.
 
@@ -57,35 +65,33 @@ The meeting moved on.
 
 Afterwards Haddad took her for coffee at the same café with the scaffolding. It was midday, quieter than the evening before.
 
-"That was Maes being polite," Haddad said. "He was in a good mood."
+"That was Maes being polite," Haddad said. "You should see him when he's annoyed."
 
-"I noticed."
+"He had a point," Vesper said. "About the counterfactual."
 
-"He's not wrong, technically. About the evidentiary standard."
+"He had several points. That's what makes him exhausting to deal with." Haddad stirred her coffee. "He's been to South Sudan. He's right that the absence of a mobilisation is also a catastrophe. He's right that you can't walk into Aleppo and tell people that all intervention feeds the problem." She looked up. "And?"
 
-"He's not wrong technically," Vesper agreed. "The causal mechanism is difficult to prove in the terms the field accepts."
+"And his being right about that doesn't mean I'm wrong about the larger pattern."
 
-"So what do you do with that?"
+"No." Haddad paused. Then: "Can I say something that might be difficult to hear?"
 
-"I keep refining the methodology. I expand the dataset. I find the proof they'll accept."
+"You're going to say it regardless."
 
-Haddad wrapped her hands around her coffee cup in the way Vesper was starting to recognise as a gesture of considered thought.
+Haddad smiled briefly. "Probably." She set down her spoon. "You have a hypothesis that says every mobilisation feeds the problem it was built to solve." She looked at Vesper steadily. "In that room for two hours — what were you doing?"
 
-"Can I say something that might be difficult to hear?"
+Vesper said nothing.
 
-Vesper looked at her.
+"Every time Maes raised an objection, you had a response ready. Every response was more comprehensive than the last. You were very good. You were better-prepared than he was and you both knew it." She paused. "You were mobilising. Harder every time he pushed back."
 
-"You have a hypothesis that says every mobilisation feeds the problem it was built to solve." Haddad paused. "And your response to the people who reject the hypothesis is to mobilise harder in its defence."
+The café was loud around them.
 
-The café was loud around them. Vesper said nothing.
+"I'm not saying you're wrong," Haddad said. "I think you're probably right. I've thought so since the first volume. I'm saying — you are doing with your argument exactly what your argument says not to do. And you will go home and write a third volume that addresses everything Maes said today, and someone will raise the next objection, and you will write a fourth." She picked up her coffee. "At what point does winning the argument become the point?"
 
-"I'm not saying you're wrong," Haddad said. "I think you're probably right. I'm saying — I've watched you in that room for two hours, and you are doing with your argument exactly what your argument says not to do." She wasn't unkind about it. She was precise. "Every time Maes raises an objection, you have a response ready. Every response is more comprehensive than the last. You will go back to Thessaloniki and write a third volume that addresses everything he said today, and someone will raise the next objection, and you will write a fourth." She looked at her. "At what point does winning the argument become the point?"
+Vesper picked up her own coffee. It was too hot. She put it down.
 
-Vesper picked up her coffee. It was too hot. She put it down.
+"What else would you have me do?"
 
-"What else would you have me do?" she said.
-
-Haddad was quiet for a moment. "I don't know," she said. "But I've lived in this city my whole life and I have never seen an argument stop anything."
+Haddad was quiet for a moment. Then: "I don't know. I genuinely don't." She looked at the street outside. "But I've lived in this city my whole life and I have never seen an argument stop anything. Not one argument, about anything, ever. I've seen arguments clarify things. I've seen arguments name things that needed naming. But stop?" She shook her head. "Not here."
 
 ---
 
