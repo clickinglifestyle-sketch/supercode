@@ -7,6 +7,42 @@ She drove south from Albuquerque through the Jornada del Muerto — the Journey 
 
 The convoy of cars stretched several miles ahead of her. Hundreds of people, on a Saturday morning in October, driving into the desert to see where the world became a different world.
 
+She did not understand what she was driving into until she reached the site entrance.
+
+The Tularosa Basin Downwinders Consortium had chosen the same open day. Two dozen people stood at the edge of the access road with signs and photographs — the same laminated photographs around their necks she had seen in Beirut, different faces, same gesture of carrying the dead visibly. Site security was directing the visitor convoy around them. The protesters were not blocking the road — they were standing beside it, requiring each car to pass close enough to see the signs and the faces.
+
+A woman in her seventies stood nearest the road, holding a placard with a single word: *RECOGNITION.* She made eye contact with Vesper through the windshield as the car rolled past and held it for a moment with the particular directness of someone who had been doing this long enough to know how to make it count.
+
+Vesper parked and walked back.
+
+The woman watched her approach without expression.
+
+"I'm a researcher," Vesper said. "Environmental historian. I've been—"
+
+"I know what researchers do," the woman said. "They come. They look. They write papers. The papers say what we already know. We are not recognised. We are not compensated. We keep dying."
+
+"I know. The data supports—"
+
+"I don't need your data." She said it without heat. "I have been standing in various locations for forty years telling people what happened. The data has been there for forty years. The data is not the problem."
+
+Vesper stood with this.
+
+"Why are you here?" the woman said. "Not here at the protest. Here at the test site. What are you trying to understand that you don't already have in your papers?"
+
+She was about to answer when another woman approached from the group — slightly younger, seventies, moving with the purposeful vigour of someone who had been vigorous for a long time by necessity. The first woman glanced at her.
+
+"This is Ruth," she said. "She drove down from St. George."
+
+Ruth looked at Vesper. "You're the one who wrote the piece on EU agricultural programs and ecological collapse."
+
+Vesper was surprised enough to show it.
+
+"I read everything," Ruth said. "Forty years of reading everything that might be relevant. Your framework is right. I've been thinking that since the first volume." She paused. "Come find me before you leave. I'm in the silver truck. We should talk."
+
+Then she went back to her position at the roadside.
+
+Vesper walked on to the obelisk.
+
 ---
 
 The marker was smaller than she had expected.
@@ -31,7 +67,13 @@ The chain was unbroken. She could see every link from here.
 
 ---
 
-She met Ruth three days later in a diner in a small town in southern Utah, halfway between St. George and the Nevada border.
+She found Ruth at the silver truck as the open day was ending.
+
+They stood in the desert for twenty minutes talking, the site emptying around them, the protesters folding their signs. Ruth had driven four hours to be here. She did this, she said, whenever the site was open. She had been doing it for twenty years.
+
+They arranged to meet properly — three days later, in a diner in a small town in southern Utah, halfway between St. George and the Nevada border. On the drive back to Albuquerque Vesper thought about the first woman at the roadside. *The data is not the problem.* She thought about the man in the Fukushima hardware store. *The questions are very good. The town is empty.*
+
+The same sentence, in different languages, in different places. She had been hearing it since Beirut and she had been writing it in her notebook and she had not yet found the thing it was asking her to do instead.
 
 Ruth was seventy-two, with the particular physical quality of someone who had spent decades being vigorous out of necessity rather than choice. She had driven forty minutes to meet Vesper and ordered coffee and a slice of pie and did not waste time getting to it.
 

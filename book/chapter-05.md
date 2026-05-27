@@ -1,6 +1,30 @@
 # THE INTERVAL
 ## Chapter Five
 
+There were people outside the university building when she arrived.
+
+Not a large group — thirty, perhaps forty, standing in the forecourt with handwritten signs and the organised stillness of people who had done this before. Several of them were wearing photographs around their necks, printed on card and laminated, the way the families of the missing wore photographs. She recognised the context before she understood it: port explosion survivors, or the families of the dead. The signs were in Arabic and French. She could read the French: *Quatre ans. Toujours pas de justice.* Four years. Still no justice.
+
+A woman near the entrance watched Vesper approach with the specific attention of someone assessing which side of a line she was on.
+
+"Press?" the woman said.
+
+"No. Researcher. I'm presenting at the consortium meeting inside."
+
+The woman looked at her lanyard, at her bag, at the notebook visible at the top of it. "You're studying Beirut."
+
+"The reconstruction cycles. The long-term—"
+
+"My son died at the port," the woman said. Not loudly. As a fact, offered without preamble. "Four years ago. The government has not charged anyone. The international community has issued statements." She looked at the building behind Vesper. "Inside that building there are people who have been writing reports about Beirut since before my son was born. I want you to know that."
+
+Vesper stood still.
+
+"I'm not stopping you," the woman said. "Go to your meeting. Write your report. I just want you to know."
+
+She went inside. In the lift to the second floor she stood with her hand flat against the wall and thought about the man in the neighbourhood the night before — the list in his head, every institution since 1994. The same question wearing different clothes. What will your report do that the others did not do.
+
+She did not have a better answer in the lift than she'd had on the street.
+
 The consortium met on the second floor of a building near the university — a room with tall windows, a long table, water glasses that were refilled by someone Vesper never saw. Around the table: three Lebanese researchers, a representative from the French development agency, a programme officer from UN-Habitat, two urban planners from an NGO that had been working in Beirut since the civil war, a Lebanese-American architect who had led the post-2006 reconstruction of a neighbourhood in the southern suburbs.
 
 Haddad introduced Vesper's work briefly. Vesper presented for twenty minutes — the methodology, the core data, the preliminary findings she had framed carefully to be relevant to the Lebanese context without overstating what three days of field observation could support.

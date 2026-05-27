@@ -33,6 +33,24 @@ She thought about the word *propensity.* Her word. A clean, analytical word that
 
 She sat with this for a while. Then she left the museum and walked into the park in the rain.
 
+She heard the shouting from the direction of the cenotaph.
+
+A group of perhaps twenty men — young, in matching jackets, moving with the tight organisation of people who had rehearsed this — were moving through the park toward the A-Bomb Dome, chanting. Several of them held a banner she couldn't read from this distance. Park security was already converging from two directions.
+
+Near the cenotaph, in the path of the approaching group, stood an old man. He was very old — in his nineties, she guessed — with the specific fragility of extreme age, leaning on a stick, apparently having been standing at the cenotaph when the group appeared. He had not moved. He was watching them come.
+
+A park security officer reached him first and touched his arm gently, speaking to him, trying to move him clear. The old man said something in response without looking at the officer. He kept watching the approaching group.
+
+The chanting group reached the security line and stopped. There was shouting, some pushing. Security held. The old man stood on the other side of the security line, still watching, and the leader of the chanting group saw him and said something — she was too far away to hear, but she saw the old man's face, which did not change.
+
+More security arrived. The chanting group was moved off to the south exit. It took about ten minutes. When they were gone the park returned to its rain-quiet.
+
+The old man remained at the cenotaph. She did not know if he was a hibakusha. She thought he probably was, from his age and from the way he had stood there. She thought about going to speak to him and then thought that she had no right to, that she would be another person arriving at this man with questions.
+
+She watched him from a distance until he turned and walked slowly toward the river.
+
+She did not write in her notebook.
+
 ---
 
 Professor Mori worked at Hiroshima City University, in an office filled not with books but with boxes of recorded testimony — cassette tapes, reel-to-reel, digital drives, transcripts in Japanese and English and several other languages. She had spent twenty years collecting the oral histories of atomic bomb survivors. Most of them were gone now. She was working to archive what remained before the last of the hibakusha generation died.
@@ -74,6 +92,28 @@ Vesper said nothing.
 ---
 
 She went to Fukushima the following week.
+
+She stopped in one of the reopened towns first — officially decontaminated, evacuation orders lifted, residents encouraged to return. The infrastructure was functional: the roads cleared, the traffic lights working, the train station open. The shops were few and the people fewer. The town had the quality of a place that had been cleaned and then quietly abandoned again, this time by choice.
+
+She was on the main street when a man came out of what had been a hardware store and stopped when he saw her. He was in his mid-fifties, carrying a box — belongings, she understood, he was collecting belongings from his old shop. He looked at her camera, her notebook, the way she was moving slowly and looking at things.
+
+"Journalist?" he said.
+
+"Researcher. Environmental historian."
+
+He set the box down on the pavement. He did not look angry. He looked exhausted in the specific way of someone who had been exhausted for a long time and had stopped expecting it to end.
+
+"The government said it was safe to come back," he said. "Five years ago they said this. We came back. My wife and I came back. Our children did not come back. They are in Sendai. They say they will come back when there are schools. There are no schools because there are no children." He looked at the empty street. "I come once a month to check the building. I have been doing this for five years. I will probably do it until I cannot any more."
+
+She asked if she could ask him a question.
+
+"Everyone who comes here asks questions," he said. "The government asked questions. The scientists asked questions. The journalists asked questions. The international organisations asked questions." He picked up the box. "The questions are very good. The town is empty."
+
+He went back inside.
+
+She stood on the pavement for a moment.
+
+Then she got back in the car and drove toward the bags.
 
 The exclusion zone had contracted over the years — some towns decontaminated, evacuation orders lifted, residents encouraged to return. Return rates were low. The towns that had been reopened had the quality of places that had been cleaned but not inhabited — the infrastructure functional, the streets quiet, the shops few and the residents mostly elderly. The young families had not come back.
 

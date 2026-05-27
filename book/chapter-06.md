@@ -29,6 +29,32 @@ She thought: of course it looks like nothing. That's the point.
 
 ---
 
+She had arranged to meet a historian at the University of Picardie in Amiens, but on the road south from Amiens she stopped moving entirely for two hours.
+
+The tractors were blocking the N29 in both directions — a line of them stretching around the curve of the road, engines running, the farmers in their cabs or standing in groups at the verges. A handpainted banner strung between two vehicles: *ON CRÈVE ICI PENDANT QUE BRUXELLES DÉCIDE.* We're dying here while Brussels decides.
+
+She pulled off the road behind a queue of cars and sat for a while. Then she got out.
+
+The farmer standing nearest to her rental car was a woman in her forties, arms crossed, watching the queue with the particular patience of someone prepared to be here all day. Vesper introduced herself in her halting French. The woman switched to English without comment.
+
+"Agricultural historian," the woman repeated. "You study what's happened to the land."
+
+"And the policies that affected it. The EU programs, the development—"
+
+"You have the data for what those programs did to the soil here?"
+
+"Some of it. My primary dataset is from Greece, but the mechanisms are the same across the—"
+
+"And what does your data say?" The woman's voice was not hostile. It was simply tired and direct, the voice of someone who had been asking this question in different rooms for years. "About what the programs did."
+
+Vesper told her. Not the full methodology — just the finding. The contamination in the deeper layers. The yield reductions that followed the interventions. The pattern that held across seventeen case studies.
+
+The woman listened without interrupting.
+
+"I could have told you that," she said when Vesper finished. "My father could have told you that. My grandfather. We didn't need a dataset." She looked at the line of tractors. "The problem is not that nobody knows. The problem is that knowing doesn't stop anything."
+
+The blockade cleared after another forty minutes. Vesper drove on to Thiepval.
+
 She had arranged to meet a historian at the University of Picardie in Amiens, but first she went to Thiepval.
 
 The memorial stood at the top of a low ridge — a massive red-brick triumphal arch, sixteen pillars, the kind of structure that announced itself from kilometres away across the flat landscape. It had been built to commemorate the 72,000 British and South African soldiers who died on the Somme with no known grave. Seventy-two thousand names on the stone panels. Men who had been so thoroughly destroyed by the industrial machinery of the war that nothing remained to bury.

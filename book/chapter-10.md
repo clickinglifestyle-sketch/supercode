@@ -1,7 +1,35 @@
 # THE INTERVAL
 ## Chapter Ten
 
-The checkpoint at the edge of the Exclusion Zone was a small booth and a barrier across a two-lane road, staffed by men in uniform who examined her permit and waved her through with her guide, a Ukrainian ecologist named Dmytro who had been working in the Zone for eleven years.
+She had one night in Kyiv before the Zone.
+
+The sirens began at 2 a.m. She was awake — she had been reading, the hotel room lit by the lamp over the desk — and the sound came up from the city in the way she had only ever heard in footage, the specific rising wail that she understood intellectually and had never heard in the actual dark of a room in an actual city.
+
+She stood for a moment not knowing what to do. Then a knock at her door — a hotel staff member, young woman, perfectly calm, gesturing down the corridor. She followed. Others emerging from their rooms. Down two flights to a basement area where chairs had been arranged in rows and a few guests were already sitting, some in dressing gowns, one man with his laptop, a family with a small child who had gone back to sleep on a folded coat.
+
+She sat. Around her people spoke quietly or looked at their phones. The young staff member who had knocked on her door brought a tray of small cups of tea. The sirens continued outside.
+
+After forty minutes the all-clear sounded. They went back upstairs. In her room she stood at the window and looked at Kyiv — the city continuing, lights on, traffic moving on the street below, entirely itself. She had read about this. About how a city learned to absorb the sirens into the rhythm of ordinary life. She had not understood what that meant until she had sat in the basement with the family and the man with his laptop and the tea.
+
+In the morning Dmytro met her in the lobby. He did not ask about the night. She understood this was because for him there was nothing to ask about.
+
+The checkpoint at the edge of the Exclusion Zone was not a small booth and a barrier. It was a checkpoint with soldiers.
+
+Dmytro had warned her by text the night before but she had not fully understood the warning until she saw it — the military vehicles parked to one side, the additional security structure that had not been there in the photographs she had studied, the soldiers moving with a purposefulness that was different from border officials. The war had changed things at the Zone boundary. Russian forces had occupied it briefly in 2022. The occupation had damaged monitoring equipment, contaminated laboratories, disrupted the research stations. The security now was military, not administrative.
+
+Her credentials were examined by three different people over the course of an hour and a half. Dmytro waited beside her, unhurried, translating when necessary. At one point a soldier asked her, through Dmytro, why she needed access.
+
+"I'm an environmental historian," she said. "I'm documenting the long-term ecological consequences of—"
+
+Dmytro translated. The soldier asked a follow-up question.
+
+"He wants to know if you are writing about the Russian occupation of the site," Dmytro said.
+
+"I'm writing about the ecosystem recovery in the Exclusion Zone."
+
+Translation. A pause. The soldier looked at her for a moment. Then he stamped the permit and handed it back.
+
+Inside the Zone, Dmytro drove and did not speak for several minutes. Then he said: "Before the war this took ten minutes. Now it is what it is." He looked at the road ahead, at the forest that had grown over the agricultural land. "The war did not stop here. It just took a different form."
 
 The road continued into a forest that had grown over what had been agricultural land before 1986. The trees were dense and various — birch, pine, oak, the undergrowth thick and unmanaged. Dmytro drove and pointed out things she would not have noticed: the shape of a roofline visible beneath the canopy where a house had collapsed into itself over decades, the rusted frame of a farm gate still standing at the entrance to a lane that led nowhere now, a concrete wall with a painted mural — children, a bright sun, a slogan in Ukrainian that Dmytro translated without being asked: *Peaceful atom in every home.*
 

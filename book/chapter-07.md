@@ -41,6 +41,28 @@ The same country. Both necessary. Neither one enough.
 
 ---
 
+She heard them before she saw them.
+
+Two groups, facing each other across the street that ran along the south side of the university campus — the sound of chanting, then counter-chanting, then a whistle and shouting. She came around the corner and stopped.
+
+On one side: climate activists, young, organised, their banners demanding action, their chanting rhythmic and practised. On the other: a smaller group, louder in proportion to their size, German flags and printed placards she couldn't read at this distance. Between them: police in high-visibility jackets, outnumbered and managing.
+
+The entrance to the building Brandt's office was in stood at the edge of the space between the two groups. She would have to walk through it.
+
+She stood for a moment calculating the route. Then someone from the activist side saw her — saw, she assumed, the lanyard around her neck, the university building she was heading toward, the researcher's bag — and called out. "Professor! Professor, are you with the faculty?"
+
+She kept moving. Someone from the other group also noticed her, read her differently — foreign, academic, probably on the wrong side of every question they cared about. A young man stepped partially into her path, not blocking it, just making it necessary for her to go around him. He said something in German she didn't catch.
+
+She reached the building entrance. A security guard held the door. She went in.
+
+In the lobby she stood for a moment. Her heart was going faster than the situation warranted — she was a historian in a city with a street protest, nothing had touched her, nothing had come close. But she could still hear them through the glass, both sides simultaneously, and she understood that she had just walked through the thing Brandt was going to describe to her as a theoretical risk. The people who would take her findings and use them for purposes she had not intended were thirty metres away, and so were the people who wanted her to validate everything she was about to tell Brandt she could not validate.
+
+Both groups wanted her for their argument.
+
+She was no one's argument.
+
+She took the lift to the fourth floor.
+
 Professor Brandt had an office at the Free University, full of books in three languages and the particular controlled clutter of someone who worked with documents for a living. She was in her late fifties, precise in her speech, with the manner of a person who had spent thirty years thinking carefully about dangerous questions and had come to some conclusions she held with conviction.
 
 She had read both volumes. She had specific objections.

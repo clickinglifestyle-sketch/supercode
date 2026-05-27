@@ -59,6 +59,38 @@ Haddad understood the question. "For this neighbourhood — the civil war, the 2
 
 "She died before the fifth." Haddad said it flatly. "The building is still standing."
 
+They walked another block. Then a man stepped out of a doorway and stood in their path.
+
+He was in his fifties, work clothes, the particular stillness of someone who had been waiting. He spoke to Haddad in Arabic — not loudly, not aggressively, just directly, his eyes moving once to Vesper and then staying on Haddad.
+
+Haddad answered him. He spoke again. She answered again, shorter this time.
+
+Then he looked at Vesper directly and said, in careful English: "You are a researcher."
+
+"Yes."
+
+"From where."
+
+"Greece. Thessaloniki."
+
+He nodded slowly, as though this confirmed something. "I have a list," he said. "In my head. Researchers who have come to this street. I have been here since 1994. I can tell you the name of every institution. The Americans. The French. The UN people. The Europeans." He paused. "I have read some of the papers. I look for my street in them. Sometimes I find it. A footnote. A case study. Part of a dataset." He looked at her notebook. "You are writing things down."
+
+"Yes."
+
+"And then you will go somewhere and write the paper."
+
+She had no answer to this that was not a confirmation.
+
+"My building," he said, "was damaged in the civil war. It was damaged in 2006. It was damaged in the explosion. Each time someone came to look at it. Each time there was a report. Each time nothing changed." He was not angry — that was the thing that stayed with her afterward. He was simply accurate. "I want to know what your report will do that the others did not do."
+
+Haddad spoke to him again in Arabic. He listened. He looked at Vesper once more, then stood aside and let them pass.
+
+They walked the rest of the block without speaking.
+
+"What did you tell him?" Vesper asked.
+
+"That you were trying to understand why the reports don't change anything." Haddad paused. "He said that was a better question than the ones the other researchers asked."
+
 ---
 
 They had coffee at a café that occupied the ground floor of a building whose upper floors were wrapped in scaffolding that looked like it had been there for years. Around them the café was full — loud, warm, people talking across each other in the way of a place where the evening belongs to being present.
