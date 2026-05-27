@@ -2,6 +2,7 @@
 import sys
 import click
 from datetime import date
+from pathlib import Path
 from rich.console import Console
 from rich.table import Table
 from rich.panel import Panel
@@ -677,6 +678,188 @@ def tags_stack():
     ))
     console.print(f"[dim]Characters: {len(youtube_string)}/500[/dim]")
     console.print()
+
+
+# ---------------------------------------------------------------------------
+# video
+# ---------------------------------------------------------------------------
+
+@cli.group()
+def video():
+    """Video production — render Remotion graphics and assemble episodes."""
+
+
+@video.command("render-graphics")
+@click.argument("case_id")
+@click.argument("slot")
+@click.option("--channel", default="Finally Solved", help="Channel name for branding")
+@click.option("--accent", default="#c41e3a", help="Accent color hex")
+def video_render_graphics(case_id: str, slot: str, channel: str, accent: str):
+    """Render animated Remotion graphics for a case+slot."""
+    from src.pipeline import get_case
+    from src.video import render_case_graphics
+    from config import WEEKLY_SLOTS
+
+    case = get_case(case_id)
+    if not case:
+        console.print(f"[red]Case not found: {case_id}[/red]")
+        sys.exit(1)
+
+    if slot not in WEEKLY_SLOTS:
+        console.print(f"[red]Invalid slot. Valid: {', '.join(WEEKLY_SLOTS)}[/red]")
+        sys.exit(1)
+
+    console.print(Panel(
+        f"[bold white]{case.name}[/bold white]  [dim]— {slot}[/dim]",
+        title="[bold cyan]Render Graphics[/bold cyan]",
+        border_style="cyan",
+    ))
+    console.print("[dim]Running Remotion renderer — this may take a minute...[/dim]\n")
+
+    try:
+        rendered = render_case_graphics(case, slot, channel_name=channel, accent_color=accent)
+        table = Table(title="[bold]Rendered[/bold]", box=box.SIMPLE_HEAVY, header_style="bold cyan")
+        table.add_column("Composition", style="bold")
+        table.add_column("Path", style="dim")
+        for name, path in rendered.items():
+            table.add_row(name, path)
+        console.print(table)
+        console.print(f"\n[bold green]✓ {len(rendered)} graphic(s) rendered.[/bold green]")
+    except RuntimeError as e:
+        console.print(f"[red]{e}[/red]")
+        sys.exit(1)
+
+
+@video.command("assemble")
+@click.argument("case_id")
+@click.argument("slot")
+def video_assemble(case_id: str, slot: str):
+    """Assemble final episode MP4 from voiceover + BGM + graphics + b-roll."""
+    from src.pipeline import get_case
+    from src.video import assemble_episode
+    from config import WEEKLY_SLOTS
+
+    case = get_case(case_id)
+    if not case:
+        console.print(f"[red]Case not found: {case_id}[/red]")
+        sys.exit(1)
+
+    if slot not in WEEKLY_SLOTS:
+        console.print(f"[red]Invalid slot. Valid: {', '.join(WEEKLY_SLOTS)}[/red]")
+        sys.exit(1)
+
+    console.print(f"[cyan]Assembling [bold]{case.name}[/bold] — {slot}...[/cyan]\n")
+
+    try:
+        output = assemble_episode(case.id, slot)
+        console.print(f"\n[bold green]✓ Episode assembled:[/bold green] [cyan]{output}[/cyan]")
+    except FileNotFoundError as e:
+        console.print(f"[red]{e}[/red]")
+        sys.exit(1)
+    except RuntimeError as e:
+        console.print(f"[red]{e}[/red]")
+        sys.exit(1)
+
+
+@video.command("produce")
+@click.argument("case_id")
+@click.argument("slot")
+@click.option("--channel", default="Finally Solved", help="Channel name for branding")
+@click.option("--accent", default="#c41e3a", help="Accent color hex")
+def video_produce(case_id: str, slot: str, channel: str, accent: str):
+    """Render graphics then assemble full episode in one command."""
+    from src.pipeline import get_case
+    from src.video import render_case_graphics, assemble_episode
+    from config import WEEKLY_SLOTS
+
+    case = get_case(case_id)
+    if not case:
+        console.print(f"[red]Case not found: {case_id}[/red]")
+        sys.exit(1)
+
+    if slot not in WEEKLY_SLOTS:
+        console.print(f"[red]Invalid slot. Valid: {', '.join(WEEKLY_SLOTS)}[/red]")
+        sys.exit(1)
+
+    console.print(Panel(
+        f"[bold white]{case.name}[/bold white]  [dim]— {slot}[/dim]",
+        title="[bold cyan]Video Production[/bold cyan]",
+        border_style="cyan",
+    ))
+
+    console.print("\n[bold]Step 1/2 — Rendering Remotion graphics...[/bold]")
+    try:
+        rendered = render_case_graphics(case, slot, channel_name=channel, accent_color=accent)
+        console.print(f"[green]✓ {len(rendered)} graphic(s) rendered[/green]")
+    except RuntimeError as e:
+        console.print(f"[red]Remotion render failed: {e}[/red]")
+        sys.exit(1)
+
+    console.print("\n[bold]Step 2/2 — Assembling episode...[/bold]")
+    try:
+        output = assemble_episode(case.id, slot)
+        console.print(f"[green]✓ Assembled[/green]")
+        console.print(Panel(
+            f"[bold green]Done![/bold green]\n[dim]{output}[/dim]",
+            border_style="green",
+        ))
+    except FileNotFoundError:
+        console.print(
+            "[yellow]No voiceover found — graphics rendered but final assembly skipped.[/yellow]\n"
+            f"[dim]Add voiceover at: output/{case.id}/{slot}/voiceover.mp3[/dim]"
+        )
+
+
+@video.command("status")
+@click.argument("case_id")
+def video_status(case_id: str):
+    """Show which video assets are ready for each slot."""
+    from src.pipeline import get_case
+    from config import WEEKLY_SLOTS
+
+    case = get_case(case_id)
+    if not case:
+        console.print(f"[red]Case not found: {case_id}[/red]")
+        sys.exit(1)
+
+    output_base = Path("output") / case.id
+
+    table = Table(
+        title=f"[bold]Video Assets — {case.name}[/bold]",
+        box=box.ROUNDED,
+        header_style="bold cyan",
+        show_lines=True,
+    )
+    table.add_column("Slot", style="bold")
+    table.add_column("Voiceover", justify="center")
+    table.add_column("BGM", justify="center")
+    table.add_column("B-Roll", justify="center")
+    table.add_column("Graphics", justify="center")
+    table.add_column("Final", justify="center")
+
+    def check(path: Path) -> Text:
+        return Text("✓", style="bold green") if path.exists() else Text("—", style="dim")
+
+    for slot in WEEKLY_SLOTS:
+        slot_dir = output_base / slot
+        graphics_count = len(list((slot_dir / "graphics").glob("*.mp4"))) if (slot_dir / "graphics").exists() else 0
+        broll_count = len(list((slot_dir / "broll").glob("*.mp4"))) if (slot_dir / "broll").exists() else 0
+        table.add_row(
+            SLOT_SHORT_LABELS.get(slot, slot),
+            check(slot_dir / "voiceover.mp3"),
+            check(slot_dir / "bgm.mp3"),
+            Text(str(broll_count), style="bold green" if broll_count else "dim"),
+            Text(str(graphics_count), style="bold green" if graphics_count else "dim"),
+            check(slot_dir / "final.mp4"),
+        )
+
+    console.print(table)
+    console.print(
+        f"\n[dim]Asset folder: output/{case.id}/<slot>/\n"
+        "  voiceover.mp3 — required for assembly\n"
+        "  bgm.mp3       — optional background music\n"
+        "  broll/        — optional .mp4 clips[/dim]"
+    )
 
 
 # ---------------------------------------------------------------------------
