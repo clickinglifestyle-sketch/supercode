@@ -143,7 +143,7 @@ It did not feel like being right. It felt like standing at the centre of somethi
 
 ---
 
-That evening in her hotel in Amiens she opened the eleven pages and wrote for two hours without stopping — the Thiepval names, Patrice's shed, the soil. She wrote the connection she had been circling for years and had not been able to state directly: that the origin was not economic policy, not institutional failure, not even political ideology. The origin was the propensity for organized destruction, which was the oldest human technology, which had been redirected into economics and agriculture and development and reconstruction without ever ceasing to be what it was.
+That evening in her hotel in Amiens she opened the eleven pages and wrote for two hours without stopping — the Thiepval names, Patrice's shed, the soil. The document was growing. Three sections fully drafted now, the fourth nearly complete, the fifth still the one she was circling. She wrote the connection she had been circling for years and had not been able to state directly: that the origin was not economic policy, not institutional failure, not even political ideology. The origin was the propensity for organized destruction, which was the oldest human technology, which had been redirected into economics and agriculture and development and reconstruction without ever ceasing to be what it was.
 
 She read what she'd written.
 

@@ -47,7 +47,7 @@ Stratakis was more direct. "Dr. Vasilis has raised the causation question. Would
 
 "We're not litigating the methodology today," Stratakis said, with the tone of a man who had managed many rooms. He moved on.
 
-Vesper folded her hands on the table and listened to seven more presentations confirm that the collapse was worsening and that the most recent interventions had not produced the hoped-for results and that further study was recommended before any significant changes to existing programs were considered.
+Vesper folded her hands on the table and listened to seven more presentations confirm that the collapse was worsening and that the most recent interventions had not produced the hoped-for results and that further study was recommended before any significant changes to existing programs were considered. The last presenter, a soil scientist from Crete, closed by recommending an expansion of the 2021 replanting initiative — a larger budget, broader scope, the same program that had been abandoned when the replanted trees began showing identical symptoms. No one at the table raised this. The EU observers were still looking at their tablets.
 
 ---
 
@@ -59,8 +59,8 @@ It didn't leave room for trying.
 
 The train passed through a valley where she could see, on the hillsides, the particular grey of olive trees that had stopped being olive trees. She had seen photographs. She had read the agricultural surveys. This was the first time she had seen it from a moving window, unremarkable among the other scenery, just a thing that was now part of the landscape.
 
-She looked at it until it was behind her.
+She looked at it until it was behind her. The grey was not a future condition. It was the present one, spreading at a rate her spreadsheet had been tracking for seven years and her satellite map had confirmed for three. The fifth section of the eleven pages — the one she had been circling, still unwritten — was the section where she had to say this directly. She had not yet found a way.
 
 In her bag she had a printed copy of the eleven pages — she didn't know why she had brought it to Athens, she hadn't taken it out of her bag. She left it there and opened her laptop and worked on the commission for the rest of the journey, and thought about the valley, and thought about calling Elathon back, and did not call.
 
-The train arrived at Thessaloniki in the dark. She walked home from the station through streets that smelled of coffee and diesel and sea air, and at her kitchen table she opened her laptop and looked at the satellite map for a long time without updating her spreadsheet, and then she closed it and went to bed.
+The train arrived at Thessaloniki in the dark. She walked home from the station through streets that smelled of coffee and diesel and sea air, and at her kitchen table she opened her laptop and looked at the satellite map for a long time without updating her spreadsheet, and then she closed it and went to bed. In the morning she would open the eleven pages again. Four sections were finished. The fifth — the one that required her to say the thing she had not yet found a way to say — was still waiting.

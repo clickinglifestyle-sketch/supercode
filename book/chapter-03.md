@@ -27,6 +27,8 @@ Vesper read the email twice. Then she opened a new tab and looked at the satelli
 
 She closed the tab.
 
+She had been close to finishing the eleven pages for two years. She had four sections. The fifth was the one she was still circling, the one that needed evidence she hadn't yet fully assembled, the one that said something she could only say if the data held across enough cases. Beirut, Dr. Haddad had written, was the most complete record available of the phenomenon. If that was true, Beirut was what the fifth section needed.
+
 She opened the email again and read it a third time.
 
 ---
@@ -55,7 +57,7 @@ Forty-three people had liked it.
 
 She looked at it for a long time.
 
-Then she closed the laptop, finished packing, and went to bed.
+Then she closed the laptop, finished packing, and went to bed. Elathon could wait three weeks. There was still time — the upper grove was still holding, the commission would be filed before she left, and Beirut was three weeks, not a year. She would go home in the spring.
 
 ---
 

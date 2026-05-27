@@ -59,7 +59,7 @@ Maes was quiet for a moment. He was actually thinking about it, which was more t
 
 He acknowledged two of her responses. He re-stated the third objection in different language.
 
-The meeting moved on.
+The meeting moved on. She understood, listening to it continue, that the objection would not be resolved in this room. The data needed to be published. Not presented to working groups, not circulated to consortium researchers — published, in a journal where it could not be rerouted into a funding presentation, where it would exist in the record regardless of what the working groups decided next.
 
 ---
 
@@ -137,4 +137,4 @@ That night she opened the eleven pages and read them through from the beginning 
 
 *I do not yet know what it stops for. But I know it is not this.*
 
-She didn't close the document. She sat with it open, the cursor blinking at the end of the last line, and outside the window Beirut went on doing what Beirut did — building and burning and blooming in the rubble, entirely indifferent to being understood.
+She didn't close the document. She sat with it open, the cursor blinking at the end of the last line, and outside the window Beirut went on doing what Beirut did — building and burning and blooming in the rubble, entirely indifferent to being understood. She had her flight to Paris in four days. After France, Berlin. She was assembling the last pieces. The fifth section was almost within reach.

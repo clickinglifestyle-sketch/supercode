@@ -5,7 +5,7 @@ The driver from the university met her at arrivals holding a sign with her name 
 
 She looked out the window.
 
-She had read about Beirut for nine days. She had studied maps, satellite images, reconstruction surveys, urban planning documents. She had built a mental model of the city that was accurate in its facts and entirely unprepared for the specific quality of the light on a damaged building at four in the afternoon, the way a bullet-scarred wall sat next to a glass-fronted restaurant as though this were a normal adjacency, the generator cables strung between buildings like a second infrastructure laid over the first.
+She had read about Beirut for nine days. She had studied maps, satellite images, reconstruction surveys, urban planning documents. She was here because the fifth section of the eleven pages needed cases that showed the pattern across different contexts, different scales — and Lebanon's reconstruction cycles were the case she had been missing. Four wars, four rebuildings, each one documented, each one producing the same result at depth. She had built a mental model of the city that was accurate in its facts and entirely unprepared for the specific quality of the light on a damaged building at four in the afternoon, the way a bullet-scarred wall sat next to a glass-fronted restaurant as though this were a normal adjacency, the generator cables strung between buildings like a second infrastructure laid over the first.
 
 The city did not look like her research. It looked like her research had been translated into something living and loud and indifferent to being studied.
 
@@ -159,4 +159,4 @@ She opened the laptop and added one more line:
 
 *The interval is not a pause in the pattern. The interval is where everything actually happens.*
 
-Then she closed it again and went to sleep.
+Then she closed it again and went to sleep. In two weeks she would be in France. The Somme. If the field evidence held the way the archive suggested it would, she would have what the fifth section needed.
