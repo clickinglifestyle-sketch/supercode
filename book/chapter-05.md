@@ -59,7 +59,7 @@ Maes was quiet for a moment. He was actually thinking about it, which was more t
 
 He acknowledged two of her responses. He re-stated the third objection in different language.
 
-The meeting moved on. She understood, listening to it continue, that the objection would not be resolved in this room. The data needed to be published. Not presented to working groups, not circulated to consortium researchers — published, in a journal where it could not be rerouted into a funding presentation, where it would exist in the record regardless of what the working groups decided next.
+The meeting moved on. She understood, listening to it continue, that the objection would not be resolved in this room. It would never be resolved in a room. The data needed to be published. Not presented to working groups, not circulated to consortium researchers — published, in a journal where it could not be rerouted into a funding presentation, where it would exist in the record regardless of what the working groups decided next. Each room she sat in confirmed this. There were no more rooms to try.
 
 ---
 

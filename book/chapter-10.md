@@ -165,4 +165,6 @@ She booked the flight after she hung up. Thessaloniki first, for one night, to c
 
 She had been away for five months. The olive trees were dying. The eleven pages were finished.
 
+She sat with that for a moment. The document was done. The race she had been running — the one she had not quite named to herself as a race — was over. She could go home now. She had always been going home. The document was just the reason she had given herself for not going sooner.
+
 She turned out the light and lay in the dark in Kyiv and did not sleep for a long time, and outside the window the city went on being itself — rebuilt, contested, besieged in its own way, full of people who had not left when they could have and had not been able to say clearly why, except that it was home and you could only decide to come home once.

@@ -115,7 +115,7 @@ She had heard this argument before — not this version, but the structure. The 
 
 She had the response ready. She had given it many times, in many rooms.
 
-She didn't give it.
+She didn't give it. She thought instead: the warning was another reason to finish quickly. Whatever the consequences of publication, suppression was worse. The fifth section needed to be written before the people who would prefer it wasn't got organised enough to make it matter.
 
 She sat with what Brandt had said — the weight of it, which was not entirely wrong. The nationalist movements. The dismantlers. The people who would read her work looking not for understanding but for ammunition.
 
@@ -149,4 +149,4 @@ Somewhere underneath the soil of the Peloponnese: the contamination.
 
 Somewhere in her laptop, unsent, the eleven pages getting longer.
 
-She ordered another drink. She did not open her phone. She did not go to the Elathon community page. She told herself it was because she was working.
+She ordered another drink. She did not open her phone. She did not go to the Elathon community page. She told herself it was because she was working. She was working. She had a flight to Hiroshima in the morning and the fifth section was waiting, and she was running out of cases and out of reasons to delay.

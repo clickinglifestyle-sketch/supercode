@@ -61,7 +61,7 @@ A short pause. "I'm calling about Elathon. About the grove."
 
 "The lower grove," Eleni said. "The old section. They assessed it last week. They're saying most of it."
 
-Vesper looked at her laptop. The satellite map was open behind the archive catalogue. She didn't bring it forward.
+Vesper looked at her laptop. The satellite map was open behind the archive catalogue. She didn't bring it forward. She knew what it would show her, and knowing was enough. Coming home was a different matter.
 
 "How far into the upper section?" she said.
 
@@ -105,7 +105,9 @@ This was what she always did. It had always been enough.
 
 She put her phone away and watched the city go past the window and did not think about the lower grove, or the eleven pages she had never sent to anyone, or the name that had appeared twice in the past month in posts from the Elathon community page — a name she had seen and kept moving, the way you move past a door you have decided not to open.
 
-The tram carried her home through the lit streets and she looked out the window and thought about the 1992 irrigation report, and what came next in the record, and nothing else.
+The tram carried her home through the lit streets and she looked out the window and thought about the 1992 irrigation report, and what came next in the record, and nothing else. There was still time. She would go in the spring. The commission would be done by then, the record complete, the work in a state she could actually deliver.
+
+In the morning she would call Eleni back. She would also open the eleven pages and look again at the fifth section — the one that still had no ending. She had been close for two years. She was close now.
 
 
 # VESPER
@@ -167,13 +169,13 @@ The thing she had not said was in the eleven pages. She had tried to say it in t
 
 It didn't leave room for trying.
 
-The train passed through a valley where she could see, on the hillsides, the particular grey of olive trees that had stopped being olive trees. She had seen photographs. She had read the agricultural surveys. This was the first time she had seen it from a moving window, unremarkable among the other scenery, just a thing that was now part of the landscape.
+The train passed through a valley where she could see, on the hillsides, the particular grey of olive trees that had stopped being olive trees. She had seen photographs. She had read the agricultural surveys. This was the first time she had seen it from a moving window, unremarkable among the other scenery, just a thing that was now part of the landscape. And what had been voted in the conference room today: an expansion of the program that had produced it. More funding. Broader scope. The same program. She pressed her forehead briefly to the glass and then sat back.
 
-She looked at it until it was behind her.
+She looked at it until it was behind her. The grey was not a future condition. It was the present one, spreading at a rate her spreadsheet had been tracking for seven years and her satellite map had confirmed for three. The fifth section of the eleven pages — the one she had been circling, still unwritten — was the section where she had to say this directly. She had not yet found a way.
 
 In her bag she had a printed copy of the eleven pages — she didn't know why she had brought it to Athens, she hadn't taken it out of her bag. She left it there and opened her laptop and worked on the commission for the rest of the journey, and thought about the valley, and thought about calling Elathon back, and did not call.
 
-The train arrived at Thessaloniki in the dark. She walked home from the station through streets that smelled of coffee and diesel and sea air, and at her kitchen table she opened her laptop and looked at the satellite map for a long time without updating her spreadsheet, and then she closed it and went to bed.
+The train arrived at Thessaloniki in the dark. She walked home from the station through streets that smelled of coffee and diesel and sea air, and at her kitchen table she opened her laptop and looked at the satellite map for a long time without updating her spreadsheet, and then she closed it and went to bed. In the morning she would open the eleven pages again. Four sections were finished. The fifth — the one that required her to say the thing she had not yet found a way to say — was still waiting. She needed more cases. More ground that had been through it. She had been thinking, since the conference in Heraklion, about Lebanon.
 
 
 # THE INTERVAL
@@ -204,6 +206,8 @@ She was inviting Vesper to spend three weeks in Beirut as a consulting researche
 Vesper read the email twice. Then she opened a new tab and looked at the satellite map of the Peloponnese for a moment — the grey spreading from the center of the affected zone, the upper groves still green at the edges, the village of Elathon visible as a cluster of rooftops at the end of a road that wound up from the valley floor.
 
 She closed the tab.
+
+She had been close to finishing the eleven pages for two years. She had four sections. The fifth was the one she was still circling, the one that needed evidence she hadn't yet fully assembled, the one that said something she could only say if the data held across enough cases — across different scales, different centuries, different stated purposes. Four sections finished. One still unwritten. Beirut, Dr. Haddad had written, was the most complete record available of the phenomenon. If that was true, Beirut was what the fifth section needed.
 
 She opened the email again and read it a third time.
 

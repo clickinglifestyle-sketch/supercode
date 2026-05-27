@@ -47,7 +47,7 @@ A short pause. "I'm calling about Elathon. About the grove."
 
 "The lower grove," Eleni said. "The old section. They assessed it last week. They're saying most of it."
 
-Vesper looked at her laptop. The satellite map was open behind the archive catalogue. She chose not to bring it forward.
+Vesper looked at her laptop. The satellite map was open behind the archive catalogue. She chose not to bring it forward. She knew what it would show her, and knowing was enough. Coming home was a different matter.
 
 "How far into the upper section?" she said.
 
@@ -93,4 +93,4 @@ She put her phone away and watched the city go past the window and did not think
 
 The tram carried her home through the lit streets and she looked out the window and thought about the 1992 irrigation report, and what came next in the record, and nothing else. There was still time. She would go in the spring. The commission would be done by then, the record complete, the work in a state she could actually deliver.
 
-In the morning she would call Eleni back.
+In the morning she would call Eleni back. She would also open the eleven pages and look again at the fifth section — the one that still had no ending. She had been close for two years. She was close now.

@@ -161,6 +161,8 @@ She stood among the black bags in the pale Fukushima afternoon and looked at the
 
 She closed the page.
 
+There was still time. The upper grove was still holding, according to the last reports — the edge trees, the old ones. She would go when the document was finished. The document was almost finished. Nevada, then home. She would be there before winter properly set in.
+
 She got back in the car.
 
 She did not call.

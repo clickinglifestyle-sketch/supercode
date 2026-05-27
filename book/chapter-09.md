@@ -161,6 +161,8 @@ She thought about what Mori had said in Hiroshima: *it cannot tell you what a pe
 
 She was not standing inside it. She was driving through it in a rental car with a notebook, on her way to Chernobyl, assembling the evidence for something she had already concluded seven years ago.
 
+She knew now what the fifth section needed to say. She had known since the diner. Ruth had given her the line: *the pattern was the tests. Everything since is trying to survive them.* The section was not about the data. It was about what the data couldn't reach. She needed to write it. She would write it after Chernobyl.
+
 She picked up the phone.
 
 She held it.

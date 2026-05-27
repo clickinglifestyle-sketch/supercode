@@ -29,6 +29,8 @@ She walked to the oldest tree in the upper grove. It had been old when her grand
 
 She put her hand on it.
 
+She stood there and waited for the urgency she had been carrying for five months — for longer than that, if she was honest, for years — and it was not there. She did not know what to do with its absence. She was not sure she had ever felt this before: still, with nothing to move toward. She stayed with her hand on the bark and tried to learn what that was.
+
 ---
 
 She had read Ambrose's survey the evening before, at Eleni's kitchen table.

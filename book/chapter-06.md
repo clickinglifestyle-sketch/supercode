@@ -156,3 +156,5 @@ Eleven comments. None of them from anyone at any university.
 She closed the page.
 
 She put the phone face-down on the desk and went back to the eleven pages and kept writing, and outside the window the Somme plain was dark and flat and enormously quiet, the way land is quiet when what happened to it is too large for the landscape to describe.
+
+She had a flight to Berlin in three days. After Berlin: Japan. After Japan, she would know whether the fifth section could be finished. She was close enough now to feel the shape of what it needed to say.

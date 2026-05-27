@@ -27,7 +27,7 @@ Vesper read the email twice. Then she opened a new tab and looked at the satelli
 
 She closed the tab.
 
-She had been close to finishing the eleven pages for two years. She had four sections. The fifth was the one she was still circling, the one that needed evidence she hadn't yet fully assembled, the one that said something she could only say if the data held across enough cases. Beirut, Dr. Haddad had written, was the most complete record available of the phenomenon. If that was true, Beirut was what the fifth section needed.
+She had been close to finishing the eleven pages for two years. She had four sections. The fifth was the one she was still circling, the one that needed evidence she hadn't yet fully assembled, the one that said something she could only say if the data held across enough cases — across different scales, different centuries, different stated purposes. Four sections finished. One still unwritten. Beirut, Dr. Haddad had written, was the most complete record available of the phenomenon. If that was true, Beirut was what the fifth section needed.
 
 She opened the email again and read it a third time.
 
@@ -74,3 +74,5 @@ The plane began its descent. Below her the Lebanese coast appeared — the city 
 She looked at it and felt the specific feeling she always felt arriving somewhere new for research purposes — a kind of precise, controlled anticipation. The feeling of a problem about to become legible.
 
 She did not think about what she was flying away from. She had become very good at that.
+
+Three weeks. Then France. Then Berlin, if the Beirut data pointed where she thought it would. The fifth section was the one that needed the most ground beneath it. She was assembling the ground.

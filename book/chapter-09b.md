@@ -15,7 +15,7 @@ She opened the eleven pages to the final section.
 
 She had written this section last. She had known, writing it, that this was the part that would end her relationship with the journals — an environmental scientist arguing that the planet was responding, that there was something in the data consistent with a living system pushing back against a specific pressure. Not a claim about intention. Just about pattern. But it was one thing to document a human pattern across four centuries and another to say the pattern had a partner, something on the other side of it, something vastly larger and older.
 
-She was right. She was almost certain she was right.
+She was right. She was almost certain she was right. And when it was published — when it was out, in the record, where it could be read and cited and responded to — it would change something. She believed that. It had to change something. You did not spend seven years on a thing that changed nothing.
 
 She was also alone in an airport at four in the morning, connecting to Warsaw, on her way to a forest inside a nuclear exclusion zone, and she had not spoken to anyone — not one person, in five months — about the thing she was most certain of.
 
@@ -70,6 +70,8 @@ She took out her phone.
 She had texted Eleni from the Newark departure lounge, a week ago, before she knew she was going to. *I'm connecting in Amsterdam and then heading east. I think I'm nearly done. I'm not sure of the exact day. I wanted you to know I'm coming.* Eleni had replied within minutes: *The tea will be ready.*
 
 She read that exchange again. Then she put her phone away.
+
+She thought about Elathon. The upper grove, the edge trees, still holding in the last photographs she had seen. There was still time. She would be home in two weeks. Finish Chernobyl, write the last section on the flight out, submit from Thessaloniki before she got on the train south. The document would already be moving through the system by the time she arrived. She would get there before winter properly closed in.
 
 She went back to the eleven pages and kept reading. Around her the terminal was still and quiet, the cleaning woman's machine moving down a distant corridor now, the gate agent stretching at his desk, the woman four seats away with her eyes closed.
 
