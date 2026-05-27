@@ -74,6 +74,47 @@ never the whole picture, always slightly too late.*
 ---
 
 ### FLASHBACK TWO
+*Between the early years and the middle — Elathon, September, before she left.*
+
+---
+
+*He was in the upper grove when she found him, moving the way he always moved there — not looking at anything in particular, looking at everything. She had watched him do this before and had never been able to describe it exactly to herself: it was not the attention of someone studying, not the attention of someone searching. It was simply the way he was in a place he knew.*
+
+*She had the letter in her bag. The formal one, on Aristotle University letterhead, offering her the doctoral position in Thessaloniki. She had been meaning to tell him for two weeks.*
+
+*He turned and saw her at the edge of the grove and smiled — the whole-face smile that she had decided, at some point in the last year, was something she would not find if she looked elsewhere.*
+
+*"There's something I want to show you," he said.*
+
+*He walked her to a tree on the western side of the grove — not the oldest, but old, its trunk thick and ridged. He put his hand on it and looked up through its canopy.*
+
+*"Every tree in this section grows east," he said. "The main branches, the whole spread of the canopy — east, toward the morning light. All of them." He nodded upward. "Except this one."*
+
+*She looked. He was right. The tree grew west, against everything around it, its branches reaching in the opposite direction from all the others.*
+
+*"Why?" she said.*
+
+*"I don't know. It's been like this as long as I can remember. My father used to say it had its own opinion." He was quiet for a moment. "I keep coming back to look at it. I don't know what I'm waiting for."*
+
+*She should tell him about the letter. This was the moment — the grove, the light at this angle, him beside her. She had rehearsed it. I've been offered a position in Thessaloniki. It's the right move. You understand that.*
+
+*"You'll come back," he said. Not a question — he had read whatever was on her face. "When you've done what you need to do. You'll come back."*
+
+*"Of course," she said.*
+
+*He looked at the tree that grew west.*
+
+*"This won't go anywhere," he said. "It'll be here."*
+
+*They stood for a while in the afternoon light, looking up through the branches of a tree that had decided, for reasons nobody understood, to grow in the wrong direction. She stored the moment carefully — the quality of the light, the smell of the soil, his shoulder against hers — and told herself she would come back for more of it.*
+
+*She came back less than she intended. She always had something almost finished, something that required one more month.*
+
+*He kept checking on the tree. He documented it in the survey. Anomalous growth orientation, western section, age approximate. The photograph is in the archive in Patras.*
+
+---
+
+### FLASHBACK THREE
 *Middle years — a phone call. She is in Athens. He is in Elathon.*
 
 ---
@@ -118,7 +159,7 @@ never the whole picture, always slightly too late.*
 
 ---
 
-### FLASHBACK THREE
+### FLASHBACK FOUR
 *Late — a message she didn't answer.*
 
 ---
