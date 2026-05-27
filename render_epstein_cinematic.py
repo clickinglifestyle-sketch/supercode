@@ -279,7 +279,7 @@ def main():
         "-s", f"{W}x{H}", "-pix_fmt", "rgb24",
         "-r", str(FPS), "-i", "pipe:0",
         "-vcodec", "libx264", "-pix_fmt", "yuv420p",
-        "-crf", "14", OUTPUT,
+        "-crf", "26", OUTPUT,
     ]
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE, stderr=subprocess.DEVNULL)
     for fr in range(TOTAL):
