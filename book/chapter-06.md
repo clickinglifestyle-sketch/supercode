@@ -129,6 +129,12 @@ Different centuries. Different methods. Different stated purposes.
 
 The soil did not distinguish.
 
+She took her phone out of her jacket pocket.
+
+She had his number. She had not deleted it — she had not done that, at least. She looked at the name on the screen for long enough that it stopped looking like a name.
+
+Then she put the phone back in her pocket.
+
 She stood up and wrote in her notebook: *The Western Front and the Peloponnese. The mechanism is the same: an impulse organised at scale, applied with maximum force to a defined objective, transforming the landscape permanently in ways no subsequent intervention can fully undo. One was called war. One was called agricultural development. The soil doesn't know the difference. The damage at depth is the same damage.*
 
 She stopped writing.

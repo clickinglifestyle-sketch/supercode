@@ -121,6 +121,18 @@ Vesper looked at her notebook. She had not written a single thing.
 
 Ruth noticed. "Good," she said. "Don't write it. Just hear it."
 
+Ruth looked at her before she stood up. Not the way people looked at researchers.
+
+"You have someone?" she said. "Somewhere you're going back to?"
+
+Vesper opened her mouth. She had the answer — the department in Thessaloniki, the work, the commission. She had given it a hundred times.
+
+She didn't give it.
+
+"Yes," she said. Then, because it came out before she could stop it: "I think so."
+
+Ruth nodded, as though this confirmed something. She picked up the check.
+
 ---
 
 She drove back toward Albuquerque in the late afternoon, the light going gold over the desert, the mountains casting long shadows east.
