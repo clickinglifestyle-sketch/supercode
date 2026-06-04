@@ -303,6 +303,66 @@ def scripts_generate(case_id: str, slot: str, context: str):
 
 
 # ---------------------------------------------------------------------------
+# scripts voice
+# ---------------------------------------------------------------------------
+
+@scripts.command("voice")
+@click.argument("case_id")
+@click.argument("slot")
+@click.option("--script-file", "-f", default=None, help="Path to a .txt script file (skips generation if provided)")
+@click.option("--advance", "do_advance", is_flag=True, default=False, help="Advance asset stage to 'voiced' after success")
+def scripts_voice(case_id: str, slot: str, script_file: str | None, do_advance: bool):
+    """Generate voiceover audio via ElevenLabs TTS."""
+    from src.pipeline import get_case, advance_asset
+    from src.scripts import generate_script
+    from src.voiceover import generate_voiceover
+    from config import WEEKLY_SLOTS
+
+    case = get_case(case_id)
+    if not case:
+        console.print(f"[red]Case not found: {case_id}[/red]")
+        sys.exit(1)
+
+    if slot not in WEEKLY_SLOTS:
+        console.print(f"[red]Invalid slot '{slot}'. Valid slots: {', '.join(WEEKLY_SLOTS)}[/red]")
+        sys.exit(1)
+
+    if script_file:
+        try:
+            script_text = open(script_file).read()
+        except OSError as e:
+            console.print(f"[red]Could not read script file: {e}[/red]")
+            sys.exit(1)
+        console.print(f"[dim]Using script from file: {script_file}[/dim]\n")
+    else:
+        console.print(f"[cyan]Generating {slot} script for [bold]{case.name}[/bold]...[/cyan]")
+        try:
+            script_text = generate_script(case, slot)
+        except ValueError as e:
+            console.print(f"[red]{e}[/red]")
+            sys.exit(1)
+        except Exception as e:
+            console.print(f"[red]Script generation error: {e}[/red]")
+            sys.exit(1)
+
+    console.print(f"[cyan]Sending to ElevenLabs...[/cyan]")
+    try:
+        out_path = generate_voiceover(script_text, case_id, slot)
+    except (ValueError, ImportError) as e:
+        console.print(f"[red]{e}[/red]")
+        sys.exit(1)
+    except Exception as e:
+        console.print(f"[red]ElevenLabs error: {e}[/red]")
+        sys.exit(1)
+
+    console.print(f"\n[bold green]✓ Audio saved:[/bold green] [cyan]{out_path}[/cyan]")
+
+    if do_advance:
+        _, message = advance_asset(case_id, slot)
+        console.print(f"[bold green]✓[/bold green] {case.name} — {message}")
+
+
+# ---------------------------------------------------------------------------
 # calendar show
 # ---------------------------------------------------------------------------
 

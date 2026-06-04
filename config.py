@@ -10,6 +10,16 @@ CASES_FILE = DATA_DIR / "cases.json"
 REDDIT_LOG_FILE = DATA_DIR / "reddit_log.json"
 
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
+ELEVENLABS_API_KEY = os.getenv("ELEVENLABS_API_KEY", "")
+
+# ElevenLabs voice ID for narration — default is "Adam" (deep, documentary)
+# Find voice IDs at https://elevenlabs.io/voice-library
+ELEVENLABS_VOICE_ID = os.getenv("ELEVENLABS_VOICE_ID", "pNInz6obpgDQGcFmaJgB")
+
+# Model: eleven_multilingual_v2 for best quality, eleven_turbo_v2 for speed
+ELEVENLABS_MODEL_ID = os.getenv("ELEVENLABS_MODEL_ID", "eleven_multilingual_v2")
+
+AUDIO_OUTPUT_DIR = DATA_DIR / "audio"
 
 # Channel stats (update periodically)
 CURRENT_SUBS = 74
