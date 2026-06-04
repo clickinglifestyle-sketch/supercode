@@ -4,3 +4,7 @@ __pycache__/
 dist/
 build/
 .env
+
+# NotebookLM generated audio (large binary files)
+data/notebooks/**/*.wav
+data/notebooks/**/*.mp3

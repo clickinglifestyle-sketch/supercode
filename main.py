@@ -555,6 +555,263 @@ def tags():
     """YouTube tag generator."""
 
 
+# ---------------------------------------------------------------------------
+# notebooklm — research notebook management via Google NotebookLM API
+# ---------------------------------------------------------------------------
+
+@cli.group()
+def notebooklm():
+    """NotebookLM research notebooks — create, query, and generate audio overviews."""
+
+
+@notebooklm.command("create")
+@click.argument("case_id")
+def notebooklm_create(case_id: str):
+    """Create a NotebookLM notebook for a case (seeded with case brief)."""
+    from src.pipeline import get_case
+    from src.notebooklm import create_notebook, get_notebook_name
+
+    existing = get_notebook_name(case_id)
+    if existing:
+        console.print(f"[yellow]Notebook already exists:[/yellow] {existing}")
+        return
+
+    case = get_case(case_id)
+    if not case:
+        console.print(f"[red]Case not found: {case_id}[/red]")
+        return
+
+    console.print(f"[cyan]Creating notebook for [bold]{case.name}[/bold]...[/cyan]")
+    try:
+        name = create_notebook(case)
+        console.print(f"[bold green]✓ Notebook created:[/bold green] {name}")
+    except ValueError as e:
+        console.print(f"[red]{e}[/red]")
+    except Exception as e:
+        console.print(f"[red]API error: {e}[/red]")
+
+
+@notebooklm.command("add-source")
+@click.argument("case_id")
+def notebooklm_add_source(case_id: str):
+    """Add a URL or text source to a case notebook (interactive)."""
+    from src.pipeline import get_case
+    from src.notebooklm import get_notebook_name, add_source_url, add_source_text
+
+    if not get_notebook_name(case_id):
+        console.print(f"[red]No notebook for '{case_id}'. Run 'fs notebooklm create {case_id}' first.[/red]")
+        return
+
+    case = get_case(case_id)
+    console.print(Panel(f"[bold cyan]Add Source — {case.name if case else case_id}[/bold cyan]", expand=False))
+
+    source_type = click.prompt("Source type", type=click.Choice(["url", "text"]), default="url")
+    display_name = click.prompt("Display name (label for this source)")
+
+    try:
+        if source_type == "url":
+            url = click.prompt("URL")
+            fname = add_source_url(case_id, url, display_name)
+        else:
+            console.print("[dim]Enter text (end with a line containing only '---'):[/dim]")
+            lines = []
+            while True:
+                line = click.prompt("", default="", prompt_suffix="")
+                if line == "---":
+                    break
+                lines.append(line)
+            fname = add_source_text(case_id, "\n".join(lines), display_name)
+
+        console.print(f"[bold green]✓ Source cached:[/bold green] {fname}")
+    except Exception as e:
+        console.print(f"[red]{e}[/red]")
+
+
+@notebooklm.command("query")
+@click.argument("case_id")
+@click.argument("question")
+def notebooklm_query(case_id: str, question: str):
+    """Ask a research question synthesised from all notebook sources."""
+    from src.notebooklm import get_notebook_name, query_notebook
+
+    if not get_notebook_name(case_id):
+        console.print(f"[red]No notebook for '{case_id}'. Run 'fs notebooklm create {case_id}' first.[/red]")
+        return
+
+    console.print(f"[cyan]Querying via Gemini...[/cyan]\n")
+    try:
+        result = query_notebook(case_id, question)
+        console.print(Panel(
+            result["answer"],
+            title=f"[bold cyan]{question}[/bold cyan]",
+            border_style="cyan",
+            padding=(1, 2),
+        ))
+        console.print(f"[dim]Model: {result['model']}[/dim]")
+    except ValueError as e:
+        console.print(f"[red]{e}[/red]")
+    except Exception as e:
+        console.print(f"[red]API error: {e}[/red]")
+
+
+@notebooklm.command("podcast-script")
+@click.argument("case_id")
+@click.option("--output", "-o", default="", help="Output .txt path (default: data/notebooks/<case_id>/podcast_script.txt)")
+def notebooklm_podcast_script(case_id: str, output: str):
+    """Generate a two-host podcast script for a case (NotebookLM audio overview equivalent)."""
+    from src.pipeline import get_case
+    from src.notebooklm import get_notebook_name, generate_podcast_script
+    from pathlib import Path
+
+    if not get_notebook_name(case_id):
+        console.print(f"[red]No notebook for '{case_id}'. Run 'fs notebooklm create {case_id}' first.[/red]")
+        return
+
+    case = get_case(case_id)
+    if not case:
+        console.print(f"[red]Case not found: {case_id}[/red]")
+        return
+
+    console.print(f"[cyan]Generating podcast script for [bold]{case.name}[/bold] via Gemini 2.5...[/cyan]\n")
+    try:
+        script = generate_podcast_script(case)
+        out_path = output or f"data/notebooks/{case_id}/podcast_script.txt"
+        Path(out_path).parent.mkdir(parents=True, exist_ok=True)
+        Path(out_path).write_text(script)
+        word_count = len(script.split())
+        console.print(Panel(
+            script[:800] + f"\n\n[dim]... ({word_count:,} words total)[/dim]",
+            title=f"[bold cyan]{case.name} — Podcast Script[/bold cyan]",
+            border_style="cyan",
+            padding=(1, 2),
+        ))
+        console.print(f"\n[bold green]✓ Saved:[/bold green] {out_path}")
+        console.print(f"[dim]~{word_count // 130} min spoken | Run 'fs notebooklm audio {case_id}' to render to WAV[/dim]")
+    except Exception as e:
+        console.print(f"[red]{e}[/red]")
+
+
+@notebooklm.command("audio")
+@click.argument("case_id")
+@click.option("--output", "-o", default="", help="Output .wav path (default: data/notebooks/<case_id>/<case_id>_audio_overview.wav)")
+@click.option("--script", "-s", default="", help="Use existing script file instead of generating a new one")
+def notebooklm_audio(case_id: str, output: str, script: str):
+    """Render a two-host podcast WAV from a case notebook (Gemini TTS, Charon + Kore voices)."""
+    from pathlib import Path
+    from src.pipeline import get_case
+    from src.notebooklm import get_notebook_name, generate_podcast_script, render_audio
+
+    if not get_notebook_name(case_id):
+        console.print(f"[red]No notebook for '{case_id}'. Run 'fs notebooklm create {case_id}' first.[/red]")
+        return
+
+    case = get_case(case_id)
+    if not case:
+        console.print(f"[red]Case not found: {case_id}[/red]")
+        return
+
+    # Load or generate script
+    if script:
+        script_text = Path(script).read_text()
+        console.print(f"[dim]Using script: {script}[/dim]")
+    else:
+        default_script = f"data/notebooks/{case_id}/podcast_script.txt"
+        if Path(default_script).exists():
+            script_text = Path(default_script).read_text()
+            console.print(f"[dim]Using existing script: {default_script}[/dim]")
+        else:
+            console.print(f"[cyan]No script found — generating via Gemini 2.5...[/cyan]")
+            script_text = generate_podcast_script(case)
+            Path(default_script).parent.mkdir(parents=True, exist_ok=True)
+            Path(default_script).write_text(script_text)
+
+    out_path = output or f"data/notebooks/{case_id}/{case_id}_audio_overview.wav"
+    console.print(f"[cyan]Rendering audio (Charon + Kore voices, Gemini TTS)...[/cyan]")
+    console.print(f"[dim]Note: TTS is rate-limited to ~3 req/min. Large scripts may take several minutes.[/dim]\n")
+
+    try:
+        result = render_audio(case_id, script_text, out_path=out_path)
+        failed = result["segments_failed"]
+        total = result["segments_total"]
+        status_color = "green" if failed == 0 else "yellow"
+        console.print(f"[bold {status_color}]✓ Audio saved:[/bold {status_color}] {result['path']}")
+        console.print(f"  Duration: {result['duration_min']} min  |  Segments: {total - failed}/{total} rendered")
+        if failed:
+            console.print(f"  [yellow]{failed} segment(s) hit quota — rerun to retry (quota resets daily)[/yellow]")
+    except Exception as e:
+        console.print(f"[red]{e}[/red]")
+
+
+@notebooklm.command("show")
+@click.argument("case_id")
+def notebooklm_show(case_id: str):
+    """Show notebook details and locally cached sources for a case."""
+    from src.pipeline import get_case
+    from src.notebooklm import get_notebook_name, list_sources
+
+    notebook_name = get_notebook_name(case_id)
+    if not notebook_name:
+        console.print(f"[yellow]No notebook for '{case_id}'.[/yellow]")
+        return
+
+    case = get_case(case_id)
+    console.print(Panel(
+        f"[bold]{case.name if case else case_id}[/bold]\n[dim]ID:[/dim] {notebook_name}",
+        title="[cyan]NotebookLM Notebook[/cyan]",
+        expand=False,
+    ))
+
+    sources = list_sources(case_id)
+    if not sources:
+        console.print("[dim]No sources yet. Use 'fs notebooklm add-source' to add one.[/dim]")
+        return
+
+    table = Table(title="Cached Sources", box=box.SIMPLE_HEAVY, header_style="bold cyan")
+    table.add_column("#", style="dim", justify="right")
+    table.add_column("File", style="dim")
+    table.add_column("Label", style="bold")
+    table.add_column("Size", justify="right", style="dim")
+
+    for i, s in enumerate(sources, 1):
+        table.add_row(str(i), s["name"], s["display_name"], s["size"])
+    console.print(table)
+
+
+@notebooklm.command("list")
+def notebooklm_list():
+    """List all cases that have notebooks."""
+    import json
+    from config import NOTEBOOKS_FILE
+    from src.pipeline import get_case
+
+    if not NOTEBOOKS_FILE.exists():
+        console.print("[dim]No notebooks created yet.[/dim]")
+        return
+
+    with open(NOTEBOOKS_FILE) as f:
+        store = json.load(f)
+
+    if not store:
+        console.print("[dim]No notebooks created yet.[/dim]")
+        return
+
+    table = Table(
+        title="[bold]NotebookLM Research Notebooks[/bold]",
+        box=box.ROUNDED,
+        header_style="bold cyan",
+    )
+    table.add_column("Case ID", style="dim")
+    table.add_column("Case Name", style="bold")
+    table.add_column("Notebook Resource Name", style="dim")
+
+    for case_id, notebook_name in store.items():
+        case = get_case(case_id)
+        name = case.name if case else "[dim]—[/dim]"
+        table.add_row(case_id, name, notebook_name)
+
+    console.print(table)
+
+
 @tags.command("generate")
 @click.argument("case_id")
 @click.option("--slot", default="sun_longform", help="Asset slot (default: sun_longform)")
