@@ -555,6 +555,225 @@ def tags():
     """YouTube tag generator."""
 
 
+# ---------------------------------------------------------------------------
+# notebooklm — research notebook management via Google NotebookLM API
+# ---------------------------------------------------------------------------
+
+@cli.group()
+def notebooklm():
+    """NotebookLM research notebooks — create, query, and generate audio overviews."""
+
+
+@notebooklm.command("create")
+@click.argument("case_id")
+def notebooklm_create(case_id: str):
+    """Create a NotebookLM notebook for a case (seeded with case brief)."""
+    from src.pipeline import get_case
+    from src.notebooklm import create_notebook, get_notebook_name
+
+    existing = get_notebook_name(case_id)
+    if existing:
+        console.print(f"[yellow]Notebook already exists:[/yellow] {existing}")
+        return
+
+    case = get_case(case_id)
+    if not case:
+        console.print(f"[red]Case not found: {case_id}[/red]")
+        return
+
+    console.print(f"[cyan]Creating notebook for [bold]{case.name}[/bold]...[/cyan]")
+    try:
+        name = create_notebook(case)
+        console.print(f"[bold green]✓ Notebook created:[/bold green] {name}")
+    except ValueError as e:
+        console.print(f"[red]{e}[/red]")
+    except Exception as e:
+        console.print(f"[red]API error: {e}[/red]")
+
+
+@notebooklm.command("add-source")
+@click.argument("case_id")
+def notebooklm_add_source(case_id: str):
+    """Add a URL or text source to a case notebook (interactive)."""
+    from src.pipeline import get_case
+    from src.notebooklm import get_notebook_name, add_source_url, add_source_text
+
+    notebook_name = get_notebook_name(case_id)
+    if not notebook_name:
+        console.print(f"[red]No notebook for '{case_id}'. Run 'fs notebooklm create {case_id}' first.[/red]")
+        return
+
+    case = get_case(case_id)
+    case_label = case.name if case else case_id
+    console.print(Panel(f"[bold cyan]Add Source — {case_label}[/bold cyan]", expand=False))
+
+    source_type = click.prompt("Source type", type=click.Choice(["url", "text"]), default="url")
+    display_name = click.prompt("Display name (label for this source)")
+
+    try:
+        if source_type == "url":
+            url = click.prompt("URL")
+            source_name = add_source_url(notebook_name, url, display_name)
+        else:
+            console.print("[dim]Enter text (end with a line containing only '---'):[/dim]")
+            lines = []
+            while True:
+                line = click.prompt("", default="", prompt_suffix="")
+                if line == "---":
+                    break
+                lines.append(line)
+            text = "\n".join(lines)
+            source_name = add_source_text(notebook_name, text, display_name)
+
+        console.print(f"[bold green]✓ Source added:[/bold green] {source_name}")
+    except ValueError as e:
+        console.print(f"[red]{e}[/red]")
+    except Exception as e:
+        console.print(f"[red]API error: {e}[/red]")
+
+
+@notebooklm.command("query")
+@click.argument("case_id")
+@click.argument("question")
+def notebooklm_query(case_id: str, question: str):
+    """Ask a research question about a case notebook."""
+    from src.notebooklm import get_notebook_name, query_notebook
+
+    notebook_name = get_notebook_name(case_id)
+    if not notebook_name:
+        console.print(f"[red]No notebook for '{case_id}'. Run 'fs notebooklm create {case_id}' first.[/red]")
+        return
+
+    console.print(f"[cyan]Querying notebook...[/cyan]\n")
+    try:
+        result = query_notebook(notebook_name, question)
+        console.print(Panel(
+            result["answer"],
+            title=f"[bold cyan]{question}[/bold cyan]",
+            border_style="cyan",
+            padding=(1, 2),
+        ))
+        if result["citations"]:
+            console.print("[dim]Citations:[/dim]")
+            for c in result["citations"]:
+                console.print(f"  [dim]• {c}[/dim]")
+    except ValueError as e:
+        console.print(f"[red]{e}[/red]")
+    except Exception as e:
+        console.print(f"[red]API error: {e}[/red]")
+
+
+@notebooklm.command("audio")
+@click.argument("case_id")
+@click.option("--output", "-o", default="", help="Output .wav file path (default: data/<case_id>_overview.wav)")
+def notebooklm_audio(case_id: str, output: str):
+    """Generate a podcast-style audio overview of a case notebook."""
+    import os
+    from src.notebooklm import get_notebook_name, generate_audio_overview
+
+    notebook_name = get_notebook_name(case_id)
+    if not notebook_name:
+        console.print(f"[red]No notebook for '{case_id}'. Run 'fs notebooklm create {case_id}' first.[/red]")
+        return
+
+    out_path = output or f"data/{case_id}_overview.wav"
+    console.print(f"[cyan]Generating audio overview (this may take 1-2 minutes)...[/cyan]")
+    try:
+        audio_bytes = generate_audio_overview(notebook_name)
+        os.makedirs(os.path.dirname(out_path) if os.path.dirname(out_path) else ".", exist_ok=True)
+        with open(out_path, "wb") as f:
+            f.write(audio_bytes)
+        console.print(f"[bold green]✓ Audio saved:[/bold green] {out_path}  ({len(audio_bytes):,} bytes)")
+    except TimeoutError as e:
+        console.print(f"[red]{e}[/red]")
+    except ValueError as e:
+        console.print(f"[red]{e}[/red]")
+    except Exception as e:
+        console.print(f"[red]API error: {e}[/red]")
+
+
+@notebooklm.command("show")
+@click.argument("case_id")
+def notebooklm_show(case_id: str):
+    """Show notebook resource name and sources for a case."""
+    from src.pipeline import get_case
+    from src.notebooklm import get_notebook_name, list_sources
+
+    notebook_name = get_notebook_name(case_id)
+    if not notebook_name:
+        console.print(f"[yellow]No notebook for '{case_id}'.[/yellow]")
+        return
+
+    case = get_case(case_id)
+    case_label = case.name if case else case_id
+
+    console.print(Panel(
+        f"[bold]{case_label}[/bold]\n[dim]Notebook:[/dim] {notebook_name}",
+        title="[cyan]NotebookLM[/cyan]",
+        expand=False,
+    ))
+
+    try:
+        sources = list_sources(notebook_name)
+        if not sources:
+            console.print("[dim]No sources yet. Use 'fs notebooklm add-source' to add one.[/dim]")
+            return
+
+        table = Table(title="Sources", box=box.SIMPLE_HEAVY, header_style="bold cyan")
+        table.add_column("#", style="dim", justify="right")
+        table.add_column("Display Name", style="bold")
+        table.add_column("Resource Name", style="dim", max_width=50)
+        table.add_column("Created", style="dim")
+
+        for i, s in enumerate(sources, 1):
+            table.add_row(
+                str(i),
+                s["display_name"] or "—",
+                s["name"],
+                s["create_time"][:10] if s["create_time"] else "—",
+            )
+        console.print(table)
+    except ValueError as e:
+        console.print(f"[red]{e}[/red]")
+    except Exception as e:
+        console.print(f"[red]API error: {e}[/red]")
+
+
+@notebooklm.command("list")
+def notebooklm_list():
+    """List all cases that have notebooks."""
+    import json
+    from config import NOTEBOOKS_FILE
+    from src.pipeline import get_case
+
+    if not NOTEBOOKS_FILE.exists():
+        console.print("[dim]No notebooks created yet.[/dim]")
+        return
+
+    with open(NOTEBOOKS_FILE) as f:
+        store = json.load(f)
+
+    if not store:
+        console.print("[dim]No notebooks created yet.[/dim]")
+        return
+
+    table = Table(
+        title="[bold]NotebookLM Research Notebooks[/bold]",
+        box=box.ROUNDED,
+        header_style="bold cyan",
+    )
+    table.add_column("Case ID", style="dim")
+    table.add_column("Case Name", style="bold")
+    table.add_column("Notebook Resource Name", style="dim")
+
+    for case_id, notebook_name in store.items():
+        case = get_case(case_id)
+        name = case.name if case else "[dim]—[/dim]"
+        table.add_row(case_id, name, notebook_name)
+
+    console.print(table)
+
+
 @tags.command("generate")
 @click.argument("case_id")
 @click.option("--slot", default="sun_longform", help="Asset slot (default: sun_longform)")

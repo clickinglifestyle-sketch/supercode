@@ -8,8 +8,10 @@ BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "data"
 CASES_FILE = DATA_DIR / "cases.json"
 REDDIT_LOG_FILE = DATA_DIR / "reddit_log.json"
+NOTEBOOKS_FILE = DATA_DIR / "notebooks.json"
 
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "")
 
 # Channel stats (update periodically)
 CURRENT_SUBS = 74
