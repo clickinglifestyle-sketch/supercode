@@ -27,12 +27,12 @@ STAGE_COLORS = {
 }
 
 SLOT_SHORT_LABELS = {
-    "mon_short": "Mon",
-    "wed_short": "Wed",
+    "mon_short": "Mon Hook",
+    "wed_short": "Wed Cut",
     "thu_pi": "Thu PI",
-    "fri_short": "Fri",
+    "fri_short": "Fri Worst",
     "sat_pi": "Sat PI",
-    "sun_longform": "Sun LF",
+    "sun_longform": "Sun Doc",
 }
 
 COMPLEXITY_EMOJI = {
@@ -60,12 +60,12 @@ def _progress_bar(current: int, target: int, width: int = 20) -> str:
 
 @click.group()
 def cli():
-    """Finally Solved — YouTube channel production CLI."""
+    """Dark Chapters — YouTube channel production CLI."""
 
 
 @cli.group()
 def cases():
-    """Case pipeline management."""
+    """Topic pipeline management."""
 
 
 @cli.group()
@@ -99,7 +99,7 @@ def cases_list():
         return
 
     table = Table(
-        title="[bold]Finally Solved — Case Pipeline[/bold]",
+        title="[bold]Dark Chapters — Topic Pipeline[/bold]",
         box=box.ROUNDED,
         show_lines=True,
         header_style="bold cyan",
@@ -133,7 +133,7 @@ def cases_list():
         table.add_row(*row)
 
     console.print(table)
-    console.print(f"\n[dim]Total: {len(all_cases)} cases | Stages: idea→research→scripted→voiced→edited→scheduled→published[/dim]")
+    console.print(f"\n[dim]Total: {len(all_cases)} topics | Stages: idea→research→scripted→voiced→edited→scheduled→published[/dim]")
 
 
 # ---------------------------------------------------------------------------
@@ -163,10 +163,10 @@ def cases_add():
     series_idx = click.prompt("Micro-series number", type=click.IntRange(1, len(MICRO_SERIES)), default=1)
     micro_series = MICRO_SERIES[series_idx - 1]
 
-    console.print("\n[bold]Failure types:[/bold]")
+    console.print("\n[bold]Content categories:[/bold]")
     for i, f in enumerate(FAILURE_TYPES, 1):
         console.print(f"  [cyan]{i}[/cyan]. {f}")
-    failure_idx = click.prompt("Failure type number", type=click.IntRange(1, len(FAILURE_TYPES)), default=1)
+    failure_idx = click.prompt("Content category number", type=click.IntRange(1, len(FAILURE_TYPES)), default=1)
     failure_type = FAILURE_TYPES[failure_idx - 1]
 
     summary = click.prompt("Brief summary (1-2 sentences)", default="")
@@ -225,12 +225,12 @@ def cases_show(case_id: str):
     table.add_column("Notes")
 
     slot_labels = {
-        "mon_short": "Monday Short — Arc 1 (hook/setup)",
-        "wed_short": "Wednesday Short — Arc 2 (complication)",
-        "thu_pi": "Thursday Pattern Interrupt",
-        "fri_short": "Friday Short — Arc 3 (escalation/resolution)",
-        "sat_pi": "Saturday Pattern Interrupt",
-        "sun_longform": "Sunday Long-form",
+        "mon_short": "Monday Short — Hook A (revelation opener)",
+        "wed_short": "Wednesday Short — Hook B (the part they cut out)",
+        "thu_pi": "Thursday Pattern Interrupt — standalone dark fact",
+        "fri_short": "Friday Short — Hook C (the worst part)",
+        "sat_pi": "Saturday Pattern Interrupt — historical parallel",
+        "sun_longform": "Sunday Documentary — full dark history deep dive",
     }
     for slot in WEEKLY_SLOTS:
         asset = case.assets.get(slot)
@@ -473,7 +473,7 @@ def dashboard():
 
     console.print()
     console.print(Panel(
-        "[bold white]FINALLY SOLVED[/bold white]  [dim]|  Faceless True Crime YouTube[/dim]",
+        "[bold white]DARK CHAPTERS[/bold white]  [dim]|  Dark History YouTube[/dim]",
         style="bold cyan",
         padding=(0, 2),
     ))

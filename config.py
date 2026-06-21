@@ -11,6 +11,10 @@ REDDIT_LOG_FILE = DATA_DIR / "reddit_log.json"
 
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 
+# Channel identity
+CHANNEL_NAME = "Dark Chapters"
+CHANNEL_HANDLE = "@DarkChaptersYT"
+
 # Channel stats (update periodically)
 CURRENT_SUBS = 74
 CURRENT_VIEWS = 13261
@@ -21,12 +25,14 @@ LAUNCH_DATE = "2026-04-01"
 YPP_SUBS_TARGET = 1000
 YPP_WATCH_HOURS_TARGET = 4000
 
-# Competitor benchmark
-COMPETITOR_NAME = "Cold Case Desk"
-COMPETITOR_SUBS = 10500
-COMPETITOR_MONTHS = 8
+# Competitor benchmark — The Crooked Explainer
+# 8.2K subs, 2.3M views, 29 videos, launched Mar 2026
+# Weakness: 0.35% sub conversion rate, no consistent series structure
+COMPETITOR_NAME = "The Crooked Explainer"
+COMPETITOR_SUBS = 8200
+COMPETITOR_MONTHS = 4
 
-# Average watch time assumption (minutes) for mixed Shorts+long content
+# Average watch time assumption (minutes) for mixed Shorts + long content
 AVG_WATCH_TIME_MINUTES = 8.0
 
 # Asset stages in order
@@ -42,28 +48,34 @@ ASSET_STAGES = [
 
 # Content slots per week
 WEEKLY_SLOTS = [
-    "mon_short",   # Arc 1 – hook/setup
-    "wed_short",   # Arc 2 – complication
-    "thu_pi",      # Pattern Interrupt
-    "fri_short",   # Arc 3 – escalation/resolution tease
-    "sat_pi",      # Pattern Interrupt
-    "sun_longform", # Full case
+    "mon_short",    # Curiosity Hook — one dark fact, opens the topic
+    "wed_short",    # Deep Cut — shocking revelation mid-topic
+    "thu_pi",       # Pattern Interrupt — standalone dark historical fact
+    "fri_short",    # The Worst Part — most disturbing element of this week's topic
+    "sat_pi",       # Did You Know — standalone pattern interrupt
+    "sun_longform", # Full dark documentary deep dive
 ]
 
-# Micro-series
+# ---------------------------------------------------------------------------
+# Five content series (micro-series)
+# These map to the highest-converting video types on comparable channels.
+# "Childhood Lies" and "Nature's Darkest Chapter" are the proven top performers
+# from competitor analysis. Series structure solves the 0.35% sub conversion
+# problem — subscribers come back for the next entry in the series.
+# ---------------------------------------------------------------------------
 MICRO_SERIES = [
-    "The Evidence Was There",
-    "They Called It an Accident",
-    "Caught By One Mistake",
-    "They Got The Wrong Person",
-    "The System Knew",
+    "Childhood Lies",            # dark truth behind beloved childhood things — competitor's best format
+    "The Hidden Record",         # history facts cut from textbooks
+    "Nature's Darkest Chapter",  # biology/animals dark facts — top SEO performer
+    "Famous and Rotten",         # dark sides of beloved historical figures
+    "The Cover Story",           # official narrative vs. what actually happened
 ]
 
-# Failure types
+# Content categories (what makes the topic dark/disturbing)
 FAILURE_TYPES = [
-    "institutional_failure",
-    "cognitive_blind_spot",
-    "deliberate_betrayal",
+    "nostalgia_betrayal",       # beloved icons/childhood had dark secrets
+    "scientific_horror",        # biology/medicine/nature dark facts
+    "historical_concealment",   # facts deliberately hidden from history
 ]
 
 # Case complexity tiers
@@ -75,110 +87,128 @@ COMPLEXITY_TIERS = {
 
 # Reddit subreddits in rotation
 REDDIT_SUBREDDITS = [
-    "r/UnsolvedMysteries",
-    "r/TrueCrime",
-    "r/criminaljustice",
-    "r/Missing411",
-    "r/crimedocumentaries",
+    "r/DarkHistory",
+    "r/history",
+    "r/todayilearned",
+    "r/Damnthatsinteresting",
+    "r/interestingasfuck",
+    "r/morbidquestions",
+    "r/WTF",
 ]
 
 # ---------------------------------------------------------------------------
-# YouTube tag system (sourced from vidIQ keyword research)
+# YouTube tag system
+# Built for dark history niche. Priority order: broad volume → niche authority.
+# Tier 1 tags target "dark history" cluster which has high volume + manageable
+# competition vs. true crime (too competitive at this channel size).
 # ---------------------------------------------------------------------------
 
-# Tier 1 — Use on every single upload (high volume, best opportunity scores)
+# Tier 1 — Use on every single upload
 TAGS_TIER1 = [
-    "true crime documentary",
-    "crime documentary",
-    "true crime",
-    "true crime stories",
-    "documentary",
-    "crime stories",
-    "true crime story",
-    "detective stories",
+    "dark history",
+    "history facts",
+    "disturbing history",
+    "dark facts",
+    "history you weren't taught",
+    "shocking history",
+    "dark truth",
+    "hidden history",
 ]
 
-# Tier 2 — Rotate per video (strong volume, fits the channel format)
+# Tier 2 — Rotate per video
 TAGS_TIER2 = [
-    "serial killer documentary",
-    "criminal psychology",
-    "missing persons cases",
-    "real crime",
-    "unsolved mysteries",
-    "cold case",
-    "mystery",
-    "crime investigation",
-    "missing persons",
-    "cold cases",
+    "dark history facts",
+    "disturbing facts",
+    "history documentary",
+    "dark documentary",
+    "true history",
+    "history exposed",
+    "history secrets",
+    "disturbing true stories",
+    "dark historical facts",
+    "history they don't teach you",
 ]
 
-# Tier 3 — Add when relevant to specific case type
+# Tier 3 — Long-form only
 TAGS_TIER3 = [
-    "murder documentary",
-    "solved cold cases",
-    "cold case finally solved",
-    "unsolved crime",
-    "missing persons case",
-    "cold case solved",
+    "dark history documentary",
+    "history documentary 2026",
+    "dark facts documentary",
+    "disturbing historical events",
+    "history you won't believe",
+    "shocking true history",
 ]
 
 # Brand tags — always append
 TAGS_BRAND = [
-    "finally solved",
-    "finally solved true crime",
+    "dark chapters",
+    "dark chapters history",
 ]
 
-# Case-specific tags by micro-series
+# Series-specific tags
 TAGS_BY_MICRO_SERIES = {
-    "The Evidence Was There": [
-        "evidence ignored",
-        "dna cold case solved",
-        "forensic genealogy",
+    "Childhood Lies": [
+        "dark side of disney",
+        "dark childhood nostalgia",
+        "disturbing facts about childhood shows",
+        "dark truth behind cartoons",
+        "childhood shows dark secrets",
     ],
-    "They Called It an Accident": [
-        "murder cover up",
-        "wrongful death investigation",
-        "homicide misclassified",
+    "The Hidden Record": [
+        "history facts you didn't know",
+        "history they don't teach",
+        "untold history",
+        "history facts omitted from textbooks",
+        "real history",
     ],
-    "Caught By One Mistake": [
-        "serial killer caught",
-        "genetic genealogy solved",
-        "cold case dna breakthrough",
+    "Nature's Darkest Chapter": [
+        "disturbing animal facts",
+        "dark nature facts",
+        "weird biology",
+        "disturbing biology facts",
+        "inbreeding effects",
     ],
-    "They Got The Wrong Person": [
-        "wrongful conviction",
-        "false confession",
-        "wrongful arrest documentary",
+    "Famous and Rotten": [
+        "dark side of historical figures",
+        "famous people dark history",
+        "disturbing facts about famous people",
+        "historical figures exposed",
     ],
-    "The System Knew": [
-        "police failure documentary",
-        "institutional cover up",
-        "system failed documentary",
+    "The Cover Story": [
+        "history cover up",
+        "dark historical cover up",
+        "official story vs truth",
+        "history lies exposed",
+        "they didn't want you to know",
     ],
 }
 
-# Case-specific tags by failure type
+# Category-specific tags (replaces failure type tags)
 TAGS_BY_FAILURE_TYPE = {
-    "institutional_failure": [
-        "police failure",
-        "justice system failure",
-        "system failed",
+    "nostalgia_betrayal": [
+        "childhood nostalgia dark truth",
+        "dark side of your favorite show",
+        "beloved icons exposed",
+        "dark side of famous brands",
     ],
-    "cognitive_blind_spot": [
-        "investigative failure",
-        "cold case reopened",
-        "detective failure",
+    "scientific_horror": [
+        "disturbing science facts",
+        "dark biology",
+        "nature's dark side",
+        "disturbing animal behavior",
+        "medical history dark facts",
     ],
-    "deliberate_betrayal": [
-        "cover up documentary",
-        "corruption documentary",
-        "deliberate cover up",
+    "historical_concealment": [
+        "suppressed history",
+        "erased from history",
+        "cover up history",
+        "censored history",
     ],
 }
 
 # Tags by complexity (long-form format)
 TAGS_BY_COMPLEXITY = {
-    "triple": ["full documentary 2026", "true crime documentary 2026", "long documentary"],
-    "double": ["true crime documentary 2026", "full documentary 2026"],
-    "single": ["true crime documentary 2026", "short documentary"],
+    "triple": ["full documentary 2026", "dark history documentary 2026", "long documentary"],
+    "double": ["dark history documentary 2026", "full documentary 2026"],
+    "single": ["dark history documentary 2026", "short documentary"],
 }

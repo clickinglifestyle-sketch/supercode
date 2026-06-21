@@ -70,7 +70,7 @@ def get_upcoming_schedule(weeks_ahead: int = 4) -> list[dict]:
             "week": week_offset + 1,
             "post_date": post_date.isoformat(),
             "subreddit": subreddit,
-            "youtube_link": subreddit == "r/crimedocumentaries",
+            "youtube_link": subreddit in ("r/DarkHistory", "r/Damnthatsinteresting"),
         })
     return schedule
 

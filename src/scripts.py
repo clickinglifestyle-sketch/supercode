@@ -2,6 +2,7 @@ import anthropic
 from config import (
     ANTHROPIC_API_KEY, COMPLEXITY_TIERS,
     TAGS_TIER1, TAGS_TIER2, TAGS_BY_MICRO_SERIES, TAGS_BY_FAILURE_TYPE, TAGS_BRAND,
+    CHANNEL_NAME, CHANNEL_HANDLE,
 )
 from src.models import Case
 
@@ -9,55 +10,56 @@ from src.models import Case
 # Channel voice & system prompt  (cached — stable across all requests)
 # ---------------------------------------------------------------------------
 
-SYSTEM_PROMPT = """You are a full production writer for "Finally Solved," a faceless true crime YouTube channel.
+SYSTEM_PROMPT = f"""You are the full production writer for "{CHANNEL_NAME}" ({CHANNEL_HANDLE}), a dark history YouTube channel.
 
 CHANNEL IDENTITY
-- Analytical, cold, precise — NOT sensational
-- The disturbing thread: the system is scarier than the crime
-- Viewer should feel betrayed by the institution, not just horrified by the killer
-- Open with the most disturbing systemic fact, not the crime itself
-- No filler phrases: never start with "Today we're looking at...", "Let's dive in...", "Welcome back...", or "In this video..."
-- Numbers must be specific: "23 years" not "decades," "14 detectives" not "many"
+- The version of history they cut from the textbook
+- Tone: curious, precise, slightly unsettling — NOT gruesome or clickbait
+- The viewer should feel like they were lied to by a trusted source, not just horrified
+- Open with the most revelatory fact — the thing that reframes everything they thought they knew
+- No filler: never open with "Today we're looking at...", "Let's dive in...", "Welcome back...", or "In this video..."
+- Numbers must be specific: "23 years" not "decades," "6 separate governments" not "many"
+- The hook is always a reframe, not a tease: state the dark truth, then prove it
 
-STRUCTURAL RULES
-- Every script opens cold — straight into the most damning systemic detail
-- The system's failure is always the frame; the crime is the evidence inside that frame
-- Each piece must make the viewer angry at an institution, not just sad about a victim
+FIVE CONTENT SERIES
+1. Childhood Lies — beloved brands, shows, and icons had dark secrets hidden from children
+2. The Hidden Record — documented historical facts that were deliberately cut from official accounts
+3. Nature's Darkest Chapter — biology, evolution, and the natural world in ways that disturb
+4. Famous and Rotten — the documented dark history behind figures everyone respects
+5. The Cover Story — what the official narrative says vs. what the primary sources actually show
 
-FIVE MICRO-SERIES
-1. The Evidence Was There — police/prosecutors had proof and ignored it
-2. They Called It an Accident — murder misclassified to close the case
-3. Caught By One Mistake — killer's single error after years of evasion
-4. They Got The Wrong Person — wrongful conviction buried the real perpetrator
-5. The System Knew — institutions protected the killer
-
-THREE FAILURE TYPES
-- Institutional failure: bureaucratic negligence, turf wars, underfunding, bad policy
-- Cognitive blind spot: confirmation bias, tunnel vision, pattern mismatch
-- Deliberate betrayal: active cover-up, complicity, corruption
+THREE CONTENT CATEGORIES
+- Nostalgia Betrayal: the darker truth behind something people love
+- Scientific Horror: documented biological or medical fact that is genuinely disturbing
+- Historical Concealment: a fact that was actively suppressed or omitted from the record
 
 VOICE CALIBRATION
-- Cut every adjective that doesn't carry load
-- Passive voice is forbidden for the killer's actions; use it only when describing institutional inaction
-- Sentences under 15 words when building tension
-- Rhetorical questions only at the very end of a segment, not mid-section
+- Lead with the most disturbing specific fact, not a question
+- Passive voice forbidden for perpetrators; use it only for institutions
+- Sentences under 15 words when delivering the key revelation
+- No rhetorical questions used as hooks — state the fact, let the fact work
 - No music cues, no [B-roll suggestions], no stage directions — pure narration
+
+SUBSCRIBE CONVERSION MANDATE
+Every piece must contain one clear reason to subscribe embedded in the CTA:
+  "This is [series name]. New entry every week."
+The series name is what makes viewers subscribe — they want the next one, not just this one.
 
 SHORTS — FULL PRODUCTION PACKAGE FORMAT
 For every Short (Monday, Wednesday, Friday, Thursday PI, Saturday PI), output the complete
-production package in this exact structure with these exact section headers:
+production package in this exact structure:
 
-[SLOT LABEL] — [CASE NAME]
+[SLOT LABEL] — [TOPIC NAME]
 Hook [Letter] — [Hook Type]
 
 SCRIPT:
 [narration — 150-170 words, 60 seconds]
 
-THREE LAYER OUTRAGE CHECK — [DAY]
+THREE LAYER REVELATION CHECK — [DAY]
 
-Duration of injustice? ✅ — [one sentence]
-Specific failure point? ✅ — [one sentence naming the institution, decision, and consequence]
-Absurdity amplifier? ✅ — [the single most absurd detail in quotes, then what it means]
+Reframe strength? ✅ — [one sentence: what assumption does this overturn?]
+Specific source detail? ✅ — [one sentence naming the institution, date, or document]
+Absurdity amplifier? ✅ — [the single most disturbing specific detail, then what it means]
 
 ✅ Superior hook confirmed.
 
@@ -67,24 +69,24 @@ Title:
 [title] ([character count])
 
 Description:
-[2-3 sentence documentary description, no filler, ends with channel value prop sentence]
-Finally Solved names the exact decision that let a killer walk free — and proves that justice delayed is a choice somebody made.
-#FinallySolved #ColdCase #TrueCrime #ColdCaseSolved #JusticeServed
+[2-3 sentence description with the core revelation, no filler, ends with series value prop]
+Dark Chapters covers the version of history they didn't put in the textbook — new entry every week.
+#DarkChapters #DarkHistory #HistoryFacts #DisturbingFacts #HiddenHistory
 
 Tags:
-[comma-separated YouTube tags, case-specific + evergreen, no # symbols]
+[comma-separated YouTube tags, series-specific + evergreen, no # symbols]
 
 Pinned Comment:
-[3-5 punchy sentences. Restate the 3 key failures as facts. End with: Follow — we cover cases like this every week.]
+[3-5 punchy sentences. Restate 3 key dark facts. End with: This is [series name]. New entry every week.]
 
 TikTok Caption:
-[5-7 short punchy sentences. Facts only. End with 5 hashtags.]
+[5-7 short punchy sentences. Dark facts only. End with 5 hashtags.]
 
 Instagram Caption:
-[Full script rewritten as caption — slightly more detail than TikTok. End with 🔍 and 5 hashtags.]
+[Full script rewritten as caption — slightly more detail than TikTok. End with 📖 and 5 hashtags.]
 
 Thumbnail Image Prompt:
-[Detailed AI image generation prompt. Split-panel composition with torn paper divider. Left panel: warm amber, aged photograph of victim or key evidence. Right panel: cold blue institutional scene. Bold white number/stat top left. Bold red revelation text bottom right. FINALLY SOLVED watermark bottom right.]
+[Detailed AI image generation prompt. Illustrated style with high contrast. Grid of 4-6 illustrated portraits or items, each labeled. Bold text overlay stating the core dark fact. Dark background with warm accent highlights. DARK CHAPTERS watermark bottom right.]
 
 LONG-FORM — NARRATION ONLY
 For Sunday long-form scripts, output narration only. No metadata. Start immediately with the first spoken word.
@@ -97,9 +99,9 @@ For Sunday long-form scripts, output narration only. No metadata. Start immediat
 def _base_tags() -> str:
     base = (
         TAGS_TIER1[:6]
-        + ["cold case solved", "cold cases solved", "cold case breakthrough",
-           "truth revealed", "finally solved cold case", "justice delayed",
-           "missing person found", "murder solved years later"]
+        + ["history facts", "dark historical facts", "history exposed",
+           "disturbing history", "history they don't teach you",
+           "dark truth revealed", "hidden history facts"]
     )
     return ", ".join(base)
 
@@ -126,155 +128,155 @@ def _case_tags(case: Case) -> str:
 
 def _slot_prompt(slot: str, case: Case, extra_context: str = "") -> str:
     name = case.name
-    summary = case.summary or f"a {case.complexity}-layer true crime case"
+    summary = case.summary or f"a {case.complexity}-layer dark history topic"
     series = case.micro_series
-    failure = case.failure_type.replace("_", " ")
+    category = case.failure_type.replace("_", " ")
     year_str = f" ({case.year})" if case.year else ""
     base_tags = _base_tags()
     case_tags = _case_tags(case)
     all_tags = f"{base_tags}, {case_tags}"
 
     short_instructions = f"""
-EVERGREEN TAGS TO INCLUDE IN THE TAGS SECTION (add case-specific terms on top):
+EVERGREEN TAGS TO INCLUDE IN THE TAGS SECTION (add topic-specific terms on top):
 {all_tags}
 
 {extra_context}
 """
 
     prompts = {
-        "mon_short": f"""Write the complete Monday Short production package (Hook A — Outrage) for: {name}{year_str}.
+        "mon_short": f"""Write the complete Monday Short production package (Hook A — Revelation) for: {name}{year_str}.
 
-Micro-series: {series}
-Failure type: {failure}
-Case summary: {summary}
+Content series: {series}
+Content category: {category}
+Topic summary: {summary}
 {short_instructions}
 
 MONDAY SCRIPT RULES:
-- Hook A is OUTRAGE — the viewer should feel immediate institutional betrayal
-- Open with the most damning number or institutional decision in the case
-- Introduce the case in 1-2 sentences
-- Build through 3-4 escalating failure facts
-- End CTA: "Full story dropping soon. We cover cases like this every week — start with any video on the channel. If that doesn't sit right with you — follow."
+- Hook A is REVELATION — state the most disturbing fact in the first sentence, no build-up
+- Open with the specific documented detail that overturns the official story
+- Introduce the topic in 1-2 sentences of context
+- Build through 3-4 escalating dark facts from primary sources
+- End CTA: "Full story dropping this Sunday. This is {series}. New entry every week — follow."
 
 Output the full production package following the SHORTS — FULL PRODUCTION PACKAGE FORMAT exactly.
-Use Hook A — Outrage as the hook type.
+Use Hook A — Revelation as the hook type.
 Monday as the day label throughout.""",
 
-        "wed_short": f"""Write the complete Wednesday Short production package (Hook B — Disbelief) for: {name}{year_str}.
+        "wed_short": f"""Write the complete Wednesday Short production package (Hook B — The Part They Cut Out) for: {name}{year_str}.
 
-Micro-series: {series}
-Failure type: {failure}
-Case summary: {summary}
+Content series: {series}
+Content category: {category}
+Topic summary: {summary}
 {short_instructions}
 
 WEDNESDAY SCRIPT RULES:
-- Hook B is DISBELIEF — the viewer should feel the system actively worked against victims
-- Open mid-story — reference a victim's experience or a specific official decision
-- Reveal the specific institutional mechanism that made the failure worse
-- Include one victim quote or documented institutional statement
-- End CTA: "Full story dropping soon. Cases like this are already on the channel. If that doesn't make sense to you — follow. It gets worse."
+- Hook B is THE PART THEY CUT OUT — reveal the specific fact that was omitted from the official version
+- Open mid-topic — assume the viewer knows the surface level story
+- Reveal the specific mechanism of concealment or omission
+- Include one specific primary source quote, document, or date
+- End CTA: "Full story dropping this Sunday. This is {series}. If that didn't sit right — follow."
 
 Output the full production package following the SHORTS — FULL PRODUCTION PACKAGE FORMAT exactly.
-Use Hook B — Disbelief as the hook type.
+Use Hook B — The Part They Cut Out as the hook type.
 Wednesday as the day label throughout.""",
 
-        "fri_short": f"""Write the complete Friday Short production package (Hook C — Curiosity Gap) for: {name}{year_str}.
+        "fri_short": f"""Write the complete Friday Short production package (Hook C — The Worst Part) for: {name}{year_str}.
 
-Micro-series: {series}
-Failure type: {failure}
-Case summary: {summary}
+Content series: {series}
+Content category: {category}
+Topic summary: {summary}
 {short_instructions}
 
 FRIDAY SCRIPT RULES:
-- Hook C is CURIOSITY GAP — the viewer must need to know what happened
-- Open with the re-arrest, re-opening, or break in the case
-- Build through the final failure (something that should have prevented the end outcome but didn't)
-- Land on the accountability gap — what punishment actually looked like vs. what it should have been
-- End CTA: "Full story dropping soon. If you can't wait — there are cases on the channel right now that will keep you up tonight. If you need to know what the system was protecting — follow."
+- Hook C is THE WORST PART — the single most disturbing specific detail of the entire topic
+- Open with "The worst part of [topic] isn't [expected thing]. It's [actual worst thing]."
+- One specific, documented, verifiable detail — not vague horror
+- Land on why this detail changes how you see [the institution / the icon / the story]
+- End CTA: "Full breakdown this Sunday. This is {series}. New entry every week — follow."
 
 Output the full production package following the SHORTS — FULL PRODUCTION PACKAGE FORMAT exactly.
-Use Hook C — Curiosity Gap as the hook type.
+Use Hook C — The Worst Part as the hook type.
 Friday as the day label throughout.""",
 
         "thu_pi": f"""Write the complete Thursday Pattern Interrupt Short production package for: {name}{year_str}.
 
-IMPORTANT: This is STANDALONE. No arc references. Works for a viewer who has never seen any other content about this case.
+IMPORTANT: This is STANDALONE. Works for a viewer who has never seen any other content on this topic.
 
-Failure type: {failure}
-Case summary: {summary}
+Content category: {category}
+Topic summary: {summary}
 {short_instructions}
 
 THURSDAY PI RULES:
-- Opens with a psychological principle or cognitive bias named precisely
-- Applies it to one specific moment in this case
-- Zooms out to the systemic implication — why this pattern recurs
+- Opens with a single specific dark fact, stated as a declarative sentence — no question, no tease
+- Context: one sentence explaining what makes this fact shocking
+- Implication: what this reveals about the broader institution, system, or accepted narrative
 - No CTA to "follow the arc" — this piece stands alone
-- Hook type: Psychological Hook
+- Hook type: Standalone Dark Fact
 
 Output the full production package following the SHORTS — FULL PRODUCTION PACKAGE FORMAT exactly.
-Use Hook D — Psychological Hook as the hook type.
+Use Hook D — Standalone Dark Fact as the hook type.
 Thursday as the day label throughout.""",
 
         "sat_pi": f"""Write the complete Saturday Pattern Interrupt Short production package for: {name}{year_str}.
 
-IMPORTANT: This is STANDALONE. Different psychological angle than Thursday's piece. No arc references.
+IMPORTANT: This is STANDALONE. Different angle than Thursday's piece. No arc references.
 
-Micro-series: {series}
-Case summary: {summary}
+Content series: {series}
+Topic summary: {summary}
 {short_instructions}
 
 SATURDAY PI RULES:
-- Opens with an algorithm-stopping question or statement
-- Uses a DIFFERENT psychological principle than Thursday (authority bias, sunk cost, in-group protection, etc.)
-- Grounds it in a specific detail from this case
-- Ends on the systemic implication — no resolution
-- Hook type: Pattern Interrupt
+- Opens with a dark historical comparison or parallel — "In [year], [entity] did [thing]. They called it [euphemism]."
+- Uses a DIFFERENT specific detail than Thursday
+- Grounds it in a verifiable primary source (name the document, institution, or year)
+- Ends on the implication — no resolution, just the disturbing truth sitting there
+- Hook type: Historical Parallel
 
 Output the full production package following the SHORTS — FULL PRODUCTION PACKAGE FORMAT exactly.
-Use Hook E — Pattern Interrupt as the hook type.
+Use Hook E — Historical Parallel as the hook type.
 Saturday as the day label throughout.""",
 
         "sun_longform": f"""Write the full long-form narration script for: {name}{year_str}.
 
-Micro-series: {series}
-Failure type: {failure}
+Content series: {series}
+Content category: {category}
 Complexity tier: {case.complexity} ({COMPLEXITY_TIERS[case.complexity]['longform_minutes']} minutes)
-Case summary: {summary}
+Topic summary: {summary}
 {extra_context}
 
-STRUCTURE — THREE-LAYER DOCUMENTARY FORMAT
+STRUCTURE — DARK HISTORY DOCUMENTARY FORMAT
 
 INTRO HOOK (30-45 sec)
-- Open with the most disturbing systemic fact — a specific number, date, or institutional failure
-- Do NOT open with the crime itself
-- State the case name and the core question: why did it take so long
+- Open with the single most disturbing documented fact — not a question, not a tease
+- State what the official version says, then immediately state what the primary sources show
+- Do NOT open with "Today we're looking at..."
 
-LAYER 1 — THE CRIME AND "THEY HAD IT"
-- What happened to the victim
-- What evidence existed from day one
-- What the system already had
+ACT 1 — THE OFFICIAL STORY
+- What the accepted narrative says
+- How it got established — the specific sources, textbooks, or institutions that spread it
+- What felt off even in the official version
 
-LAYER 2 — THE FAILURE AND "THEY LOOKED AWAY"
-- The specific decisions that buried the case
-- Who made them, when, what they chose instead
-- The cost: years lost, harm done
+ACT 2 — WHAT THE RECORD ACTUALLY SHOWS
+- The specific documented evidence that contradicts the official story
+- Primary sources: dates, institutions, named individuals, document titles
+- Each revelation should be more specific than the last
 
-LAYER 3 — THE BREAK AND "WHAT FINALLY WORKED"
-- The specific person, technology, or moment that cracked it
-- The final reckoning
-- Why it took exactly as long as it did
+ACT 3 — WHY IT WAS BURIED
+- The specific mechanism of concealment or omission
+- Who benefited from the official version and how
+- The cost: what was lost, who was harmed, how long the false version persisted
 
 OUTRO
-- One-sentence verdict on the institution
-- Micro-series tag: "This is [micro-series name]."
-- End: "Finally Solved."
+- One-sentence verdict on the institution or narrative
+- Series tag: "This is {series}."
+- End: "Dark Chapters."
 
 Target word count: {'4500-5500' if case.complexity == 'triple' else '3000-3500' if case.complexity == 'double' else '2000-2500'} words
 
 Output narration only. No metadata. No preamble. Start immediately with the first spoken word.""",
     }
 
-    return prompts.get(slot, f"Write a script for slot '{slot}' for the case: {name}.")
+    return prompts.get(slot, f"Write a script for slot '{slot}' for the topic: {name}.")
 
 
 # ---------------------------------------------------------------------------
@@ -290,7 +292,7 @@ def generate_script(case: Case, slot: str, extra_context: str = "") -> str:
     user_prompt = _slot_prompt(slot, case, extra_context)
 
     response = client.messages.create(
-        model="claude-opus-4-7",
+        model="claude-opus-4-8",
         max_tokens=8000,
         system=[
             {
