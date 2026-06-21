@@ -70,8 +70,8 @@ Title:
 
 Description:
 [2-3 sentence description with the core revelation, no filler, ends with series value prop]
-Dark Chapters covers the version of history they didn't put in the textbook — new entry every week.
-#DarkChapters #DarkHistory #HistoryFacts #DisturbingFacts #HiddenHistory
+Dark Chapters in History covers the version of history they didn't put in the textbook — new entry every week.
+#DarkChaptersInHistory #DarkHistory #HistoryFacts #DisturbingFacts #HiddenHistory
 
 Tags:
 [comma-separated YouTube tags, series-specific + evergreen, no # symbols]
@@ -86,7 +86,7 @@ Instagram Caption:
 [Full script rewritten as caption — slightly more detail than TikTok. End with 📖 and 5 hashtags.]
 
 Thumbnail Image Prompt:
-[Detailed AI image generation prompt. Illustrated style with high contrast. Grid of 4-6 illustrated portraits or items, each labeled. Bold text overlay stating the core dark fact. Dark background with warm accent highlights. DARK CHAPTERS watermark bottom right.]
+[Detailed AI image generation prompt. Illustrated style with high contrast. Grid of 4-6 illustrated portraits or items, each labeled. Bold text overlay stating the core dark fact. Dark background with warm accent highlights. DARK CHAPTERS IN HISTORY watermark bottom right.]
 
 LONG-FORM — NARRATION ONLY
 For Sunday long-form scripts, output narration only. No metadata. Start immediately with the first spoken word.
@@ -269,7 +269,7 @@ ACT 3 — WHY IT WAS BURIED
 OUTRO
 - One-sentence verdict on the institution or narrative
 - Series tag: "This is {series}."
-- End: "Dark Chapters."
+- End: "Dark Chapters in History."
 
 Target word count: {'4500-5500' if case.complexity == 'triple' else '3000-3500' if case.complexity == 'double' else '2000-2500'} words
 

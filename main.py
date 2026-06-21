@@ -60,7 +60,7 @@ def _progress_bar(current: int, target: int, width: int = 20) -> str:
 
 @click.group()
 def cli():
-    """Dark Chapters — YouTube channel production CLI."""
+    """Dark Chapters in History — YouTube channel production CLI."""
 
 
 @cli.group()
@@ -99,7 +99,7 @@ def cases_list():
         return
 
     table = Table(
-        title="[bold]Dark Chapters — Topic Pipeline[/bold]",
+        title="[bold]Dark Chapters in History — Topic Pipeline[/bold]",
         box=box.ROUNDED,
         show_lines=True,
         header_style="bold cyan",
@@ -473,7 +473,7 @@ def dashboard():
 
     console.print()
     console.print(Panel(
-        "[bold white]DARK CHAPTERS[/bold white]  [dim]|  Dark History YouTube[/dim]",
+        "[bold white]DARK CHAPTERS IN HISTORY[/bold white]  [dim]|  Dark History YouTube[/dim]",
         style="bold cyan",
         padding=(0, 2),
     ))

@@ -12,8 +12,8 @@ REDDIT_LOG_FILE = DATA_DIR / "reddit_log.json"
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 
 # Channel identity
-CHANNEL_NAME = "Dark Chapters"
-CHANNEL_HANDLE = "@DarkChaptersYT"
+CHANNEL_NAME = "Dark Chapters in History"
+CHANNEL_HANDLE = "@DarkChaptersInHistory"
 
 # Channel stats (update periodically)
 CURRENT_SUBS = 74
@@ -141,7 +141,7 @@ TAGS_TIER3 = [
 
 # Brand tags — always append
 TAGS_BRAND = [
-    "dark chapters",
+    "dark chapters in history",
     "dark chapters history",
 ]
 
