@@ -105,38 +105,38 @@ REDDIT_SUBREDDITS = [
 
 # Tier 1 — Use on every single upload
 TAGS_TIER1 = [
+    "dark history explained",
+    "history explained",
     "dark history",
     "history facts",
-    "disturbing history",
-    "dark facts",
     "history you weren't taught",
-    "shocking history",
-    "dark truth",
-    "hidden history",
+    "dark facts explained",
+    "hidden history explained",
+    "disturbing history",
 ]
 
 # Tier 2 — Rotate per video
 TAGS_TIER2 = [
     "dark history facts",
-    "disturbing facts",
+    "history explainer",
     "history documentary",
     "dark documentary",
-    "true history",
+    "history explained simply",
     "history exposed",
-    "history secrets",
-    "disturbing true stories",
+    "history secrets explained",
     "dark historical facts",
     "history they don't teach you",
+    "history you won't believe",
 ]
 
 # Tier 3 — Long-form only
 TAGS_TIER3 = [
     "dark history documentary",
     "history documentary 2026",
-    "dark facts documentary",
-    "disturbing historical events",
-    "history you won't believe",
-    "shocking true history",
+    "history explainer 2026",
+    "disturbing historical events explained",
+    "history deep dive",
+    "dark history deep dive",
 ]
 
 # Brand tags — always append

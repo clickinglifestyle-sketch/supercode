@@ -473,7 +473,7 @@ def dashboard():
 
     console.print()
     console.print(Panel(
-        "[bold white]DARK CHAPTERS IN HISTORY[/bold white]  [dim]|  Dark History YouTube[/dim]",
+        "[bold white]DARK CHAPTERS IN HISTORY[/bold white]  [dim]|  Dark History Explainer YouTube[/dim]",
         style="bold cyan",
         padding=(0, 2),
     ))
